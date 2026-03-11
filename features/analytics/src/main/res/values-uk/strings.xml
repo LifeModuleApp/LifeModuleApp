@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">Загальна активність</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">Ще немає запису настрою сьогодні</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">Ще немає серій - записуйте звички або добавки!</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">Ще немає записаних вправ</string>
+    <string name="analytics_analytics_noch_nie">Ніколи</string>
+    <string name="analytics_analytics_supplements">Добавки</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ Тренд вниз</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ Тренд вгору</string>
+    <string name="analytics_analytics_uebung_auswaehlen">Оберіть вправу:</string>
+    
+    <string name="analytics_analytics_titel">Аналітика</string>
+    <string name="analytics_analytics_streaks">Серії</string>
+    <string name="analytics_analytics_nutrition_heute">Харчування сьогодні</string>
+    <string name="analytics_analytics_kcal_format">%1$d ккал</string>
+    <string name="analytics_analytics_protein">Білок</string>
+    <string name="analytics_analytics_carbs">Вуглеводи</string>
+    <string name="analytics_analytics_fett">Жири</string>
+    <string name="analytics_analytics_gramm_format">%1$dг</string>
+    <string name="analytics_analytics_zuletzt">Останній: %1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d днів</string>
+    <string name="analytics_analytics_habits">Звички</string>
+    <string name="analytics_analytics_gym_fortschritt">Прогрес у залі</string>
+    <string name="analytics_analytics_workouts_gesamt">%1$d тренувань загалом</string>
+    <string name="analytics_analytics_letztes_workout">Останнє: %1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - Вага (кг)</string>
+    <string name="analytics_analytics_mood_trend">Тренд настрою</string>
+    <string name="analytics_analytics_heute_mood">Сьогодні: %1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">Записані дії</string>
+    <string name="analytics_analytics_anstehend">Майбутні</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d днів</string>
+    <string name="analytics_analytics_trend_stabil">-> Стабільно</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">Дуже погано</string>
+    <string name="analytics_analytics_mood_nicht_gut">Не дуже добре</string>
+    <string name="analytics_analytics_mood_neutral">Нейтрально</string>
+    <string name="analytics_analytics_mood_gut">Добре</string>
+    <string name="analytics_analytics_mood_sehr_gut">Дуже добре</string>
+    <string name="analytics_analytics_mood_fantastisch">Фантастично</string>
+    <string name="analytics_analytics_7_tage">7 днів</string>
+    <string name="analytics_analytics_30_tage">30 днів</string>
+    <string name="analytics_analytics_letzte_7_tage">Останні 7 днів</string>
+    <string name="analytics_analytics_gewicht_verlauf">Тренд ваги</string>
+    <string name="analytics_analytics_aktuell_kg">Поточна: %1$s кг</string>
+    <string name="analytics_analytics_gewicht_diff">Зміна: %1$s кг</string>
+    <string name="analytics_analytics_arbeitszeit_woche">Робочий час цього тижня</string>
+    <string name="analytics_analytics_stunden_diese_woche">%1$s годин цього тижня</string>
+    <string name="analytics_analytics_woche">Тиждень</string>
+    <string name="analytics_analytics_monat">Місяць</string>
+    <string name="analytics_analytics_jahr">Рік</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">Ще немає записів ваги</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for shopping (TR) -->
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">İşaretlenenleri sil</string>
+    <string name="shopping_shopping_hinzufuegen">Ekle</string>
+    <string name="shopping_shopping_loeschen">Sil</string>
+    <string name="shopping_shopping_einkaufsliste">Alışveriş Listesi</string>
+    <string name="shopping_shopping_neuer_artikel">Yeni ürün...</string>
+    <string name="shopping_shopping_erledigt">Tamamlandı (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">İptal</string>
+    <string name="shopping_shopping_artikel_loeschen">Ürünü sil</string>
+    <string name="shopping_shopping_artikel_loeschen_text">Bu ürünü gerçekten silmek istiyor musunuz?</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">İşaretlenenleri sil</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">Tüm işaretlenen ürünleri silmek istiyor musunuz?</string>
+    <string name="shopping_shopping_leer_titel">Liste boş</string>
+    <string name="shopping_shopping_leer_subtitel">İlk ürününüzü yukarıdan ekleyin</string>
+</resources>

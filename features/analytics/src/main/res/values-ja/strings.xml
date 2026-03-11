@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">全体のアクティビティ</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">今日の気分エントリはまだありません</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">連続記録はまだありません - 習慣やサプリメントを記録しましょう！</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">エクササイズの記録がまだありません</string>
+    <string name="analytics_analytics_noch_nie">なし</string>
+    <string name="analytics_analytics_supplements">サプリメント</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ 下降傾向</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ 上昇傾向</string>
+    <string name="analytics_analytics_uebung_auswaehlen">エクササイズを選択:</string>
+    
+    <string name="analytics_analytics_titel">アナリティクス</string>
+    <string name="analytics_analytics_streaks">連続記録</string>
+    <string name="analytics_analytics_nutrition_heute">今日の栄養</string>
+    <string name="analytics_analytics_kcal_format">%1$d kcal</string>
+    <string name="analytics_analytics_protein">タンパク質</string>
+    <string name="analytics_analytics_carbs">炭水化物</string>
+    <string name="analytics_analytics_fett">脂質</string>
+    <string name="analytics_analytics_gramm_format">%1$dg</string>
+    <string name="analytics_analytics_zuletzt">最終: %1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d 日</string>
+    <string name="analytics_analytics_habits">習慣</string>
+    <string name="analytics_analytics_gym_fortschritt">ジムの進捗</string>
+    <string name="analytics_analytics_workouts_gesamt">合計 %1$d ワークアウト</string>
+    <string name="analytics_analytics_letztes_workout">最終: %1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - 体重 (kg)</string>
+    <string name="analytics_analytics_mood_trend">気分の推移</string>
+    <string name="analytics_analytics_heute_mood">今日: %1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">記録されたアクション</string>
+    <string name="analytics_analytics_anstehend">予定</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d 日</string>
+    <string name="analytics_analytics_trend_stabil">-> 安定</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">とても悪い</string>
+    <string name="analytics_analytics_mood_nicht_gut">あまり良くない</string>
+    <string name="analytics_analytics_mood_neutral">普通</string>
+    <string name="analytics_analytics_mood_gut">良い</string>
+    <string name="analytics_analytics_mood_sehr_gut">とても良い</string>
+    <string name="analytics_analytics_mood_fantastisch">最高</string>
+    <string name="analytics_analytics_7_tage">7日間</string>
+    <string name="analytics_analytics_30_tage">30日間</string>
+    <string name="analytics_analytics_letzte_7_tage">過去7日間</string>
+    <string name="analytics_analytics_gewicht_verlauf">体重の推移</string>
+    <string name="analytics_analytics_aktuell_kg">現在: %1$s kg</string>
+    <string name="analytics_analytics_gewicht_diff">変化: %1$s kg</string>
+    <string name="analytics_analytics_arbeitszeit_woche">今週の勤務時間</string>
+    <string name="analytics_analytics_stunden_diese_woche">今週 %1$s 時間</string>
+    <string name="analytics_analytics_woche">週</string>
+    <string name="analytics_analytics_monat">月</string>
+    <string name="analytics_analytics_jahr">年</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">体重の記録はまだありません</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

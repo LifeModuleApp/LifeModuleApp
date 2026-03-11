@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for core (HI) -->
+<resources>
+    <!-- Module categories -->
+    <string name="core_dashboard_gesundheit">स्वास्थ्य</string>
+    <string name="core_dashboard_fitness">फ़िटनेस</string>
+    <string name="core_dashboard_lifestyle">जीवनशैली</string>
+    <string name="core_dashboard_organisation">संगठन</string>
+    <string name="core_dashboard_arbeit">कार्य</string>
+    <string name="core_dashboard_system">सिस्टम</string>
+    <!-- Module display names -->
+    <string name="core_module_nutrition">पोषण</string>
+    <string name="core_module_supplements">सप्लीमेंट्स</string>
+    <string name="core_module_habits">आदतें</string>
+    <string name="core_module_mental_health">मानसिक स्वास्थ्य</string>
+    <string name="core_module_gym">जिम ट्रैकर</string>
+    <string name="core_module_weight">वज़न</string>
+    <string name="core_module_calendar">कैलेंडर</string>
+    <string name="core_module_schedule">समय सारणी</string>
+    <string name="core_module_work_time">कार्य समय</string>
+    <string name="core_module_shopping">खरीदारी सूची</string>
+    <string name="core_module_analytics">एनालिटिक्स</string>
+    <string name="core_module_health_connect">Health Connect</string>
+    <string name="core_module_logbook">Logbook</string>
+    <string name="core_module_scanner">Receipt Scanner</string>
+    <string name="core_module_recipes">Recipes</string>
+    <!-- Other core strings -->
+    <string name="core_navigation_coming_soon">जल्द आ रहा है...</string>
+    <!-- UI component strings -->
+    <string name="core_topbar_back">वापस</string>
+    <string name="core_topbar_menu">मेनू</string>
+    <string name="core_fab_add">जोड़ें</string>
+    <!-- Notification channel names -->
+    <string name="core_notification_channel_calendar">कैलेंडर अनुस्मारक</string>
+    <string name="core_notification_channel_calendar_desc">कैलेंडर कार्यक्रमों के लिए अनुस्मारक</string>
+    <string name="core_notification_channel_schedule">समय सारणी</string>
+    <string name="core_notification_channel_schedule_desc">व्याख्यान &amp; पाठ्यक्रमों के लिए अनुस्मारक</string>
+    <string name="core_notification_channel_supplements">सप्लीमेंट्स</string>
+    <string name="core_notification_channel_supplements_desc">दैनिक सप्लीमेंट अनुस्मारक</string>
+    <string name="core_notification_channel_habits">आदतें</string>
+    <string name="core_notification_channel_habits_desc">दैनिक आदत अनुस्मारक</string>
+    <string name="core_notification_fallback_title">अनुस्मारक</string>
+    <!-- Notification content -->
+    <string name="core_notification_in_1_stunde">1 घंटे में</string>
+    <string name="core_notification_morgen">कल</string>
+    <string name="core_notification_in_einer_woche">एक सप्ताह में</string>
+    <string name="core_notification_in_x_min">%1$d मिनट में</string>
+    <string name="core_notification_ganztaegig">पूरे दिन</string>
+    <string name="core_notification_calendar_body">%1$s - %2$s %3$s को</string>
+    <string name="core_notification_supplement_title">सप्लीमेंट्स</string>
+    <string name="core_notification_supplement_body">क्या आपने आज अपने सप्लीमेंट्स लिए? 💊</string>
+    <string name="core_notification_habit_title">आदत जाँच</string>
+    <string name="core_notification_habit_body">क्या आपने आज सभी आदतें पूरी कीं? </string>
+    <string name="core_notification_class_body">%1$d मिनट में %2$s में</string>
+    <!-- Export -->
+    <string name="core_export_subject">LifeModule डेटा निर्यात</string>
+    <string name="core_export_share_title">निर्यात साझा करें</string>
+    <!-- Backup -->
+    <string name="core_backup_share_subject">LifeModule बैकअप</string>
+    <string name="core_backup_share_title">बैकअप साझा करें</string>
+</resources>

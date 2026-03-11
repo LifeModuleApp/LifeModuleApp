@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for core (ZH) -->
+<resources>
+    <!-- Module categories -->
+    <string name="core_dashboard_gesundheit">健康</string>
+    <string name="core_dashboard_fitness">健身</string>
+    <string name="core_dashboard_lifestyle">生活方式</string>
+    <string name="core_dashboard_organisation">组织</string>
+    <string name="core_dashboard_arbeit">工作</string>
+    <string name="core_dashboard_system">系统</string>
+    <!-- Module display names -->
+    <string name="core_module_nutrition">营养</string>
+    <string name="core_module_supplements">补剂</string>
+    <string name="core_module_habits">习惯</string>
+    <string name="core_module_mental_health">心理健康</string>
+    <string name="core_module_gym">健身追踪</string>
+    <string name="core_module_weight">体重</string>
+    <string name="core_module_calendar">日历</string>
+    <string name="core_module_schedule">课程表</string>
+    <string name="core_module_work_time">工时</string>
+    <string name="core_module_shopping">购物清单</string>
+    <string name="core_module_analytics">数据分析</string>
+    <string name="core_module_health_connect">Health Connect</string>
+    <string name="core_module_logbook">Logbook</string>
+    <string name="core_module_scanner">Receipt Scanner</string>
+    <string name="core_module_recipes">Recipes</string>
+    <!-- Other core strings -->
+    <string name="core_navigation_coming_soon">即将推出...</string>
+    <!-- UI component strings -->
+    <string name="core_topbar_back">返回</string>
+    <string name="core_topbar_menu">菜单</string>
+    <string name="core_fab_add">添加</string>
+    <!-- Notification channel names -->
+    <string name="core_notification_channel_calendar">日历提醒</string>
+    <string name="core_notification_channel_calendar_desc">日历事件提醒</string>
+    <string name="core_notification_channel_schedule">课程表</string>
+    <string name="core_notification_channel_schedule_desc">课程 &amp; 讲座提醒</string>
+    <string name="core_notification_channel_supplements">补剂</string>
+    <string name="core_notification_channel_supplements_desc">每日补剂提醒</string>
+    <string name="core_notification_channel_habits">习惯</string>
+    <string name="core_notification_channel_habits_desc">每日习惯提醒</string>
+    <string name="core_notification_fallback_title">提醒</string>
+    <!-- Notification content -->
+    <string name="core_notification_in_1_stunde">1小时后</string>
+    <string name="core_notification_morgen">明天</string>
+    <string name="core_notification_in_einer_woche">一周后</string>
+    <string name="core_notification_in_x_min">%1$d 分钟后</string>
+    <string name="core_notification_ganztaegig">全天</string>
+    <string name="core_notification_calendar_body">%1$s - %2$s 于 %3$s</string>
+    <string name="core_notification_supplement_title">补剂</string>
+    <string name="core_notification_supplement_body">今天吃补剂了吗？💊</string>
+    <string name="core_notification_habit_title">习惯打卡</string>
+    <string name="core_notification_habit_body">今天的习惯都完成了吗？</string>
+    <string name="core_notification_class_body">%1$d 分钟后在 %2$s</string>
+    <!-- Export -->
+    <string name="core_export_subject">LifeModule 数据导出</string>
+    <string name="core_export_share_title">分享导出</string>
+    <!-- Backup -->
+    <string name="core_backup_share_subject">LifeModule 备份</string>
+    <string name="core_backup_share_title">分享备份</string>
+</resources>

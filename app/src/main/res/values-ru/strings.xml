@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">Настройки</string>
+    <string name="app_dashboard_layout_bearbeiten">Редактировать макет</string>
+    <string name="app_dashboard_module_verwalten">Управление модулями</string>
+    <string name="app_dashboard_module_verwalten_1">Управление модулями</string>
+    <string name="app_dashboard_rastergroesse">Размер сетки</string>
+    <string name="app_settings_1_stunde_vorher">За 1 час</string>
+    <string name="app_settings_1_tag_vorher">За 1 день</string>
+    <string name="app_settings_1_woche_vorher">За 1 неделю</string>
+    <string name="app_settings_abbrechen">Отмена</string>
+    <string name="app_settings_aendern">Изменить</string>
+    <string name="app_settings_aktiviert">Включено</string>
+    <string name="app_settings_alle">Все</string>
+    <string name="app_settings_alle_daten_exportieren">Экспортировать все данные</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">Уведомления были отклонены</string>
+    <string name="app_settings_badenwuerttemberg">🍇 Баден-Вюртемберг</string>
+    <string name="app_settings_bayern">🏔️ Бавария</string>
+    <string name="app_settings_brandenburg">🦅 Бранденбург</string>
+    <string name="app_settings_bundesland">Федеральная земля</string>
+    <string name="app_settings_bundesland_waehlen">Выбрать федеральную землю</string>
+    <string name="app_settings_deaktiviert">Отключено</string>
+    <string name="app_settings_einstellungen">Настройки</string>
+    <string name="app_settings_exact_alarm_title">Точные напоминания отключены</string>
+    <string name="app_settings_exact_alarm_desc">Нажмите, чтобы разрешить точные будильники в настройках системы. Без этого напоминания могут опаздывать.</string>
+    <string name="app_settings_export_fehlgeschlagen">Ошибка экспорта</string>
+    <string name="app_settings_feiertage">Праздники</string>
+    <string name="app_settings_feiertage_land">Страна праздников</string>
+    <string name="app_settings_land_waehlen">Выбрать страну</string>
+    <string name="app_settings_sprache">Язык</string>
+    <string name="app_settings_sprache_waehlen">Выбрать язык</string>
+    <string name="app_settings_globale_akzentfarbe">Глобальный акцентный цвет</string>
+    <string name="app_settings_habiterinnerung">Напоминание о привычках</string>
+    <string name="app_settings_individuelle_farben_pro_modul">Индивидуальные цвета для каждого модуля</string>
+    <string name="app_settings_kalender">Календарь</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ Мекленбург - Передняя Померания</string>
+    <string name="app_settings_modulfarben">Цвета модулей</string>
+    <string name="app_settings_niedersachsen">🐎 Нижняя Саксония</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ Северный Рейн - Вестфалия</string>
+    <string name="app_settings_rheinlandpfalz">🍷 Рейнланд-Пфальц</string>
+    <string name="app_settings_saarland">🏭 Саар</string>
+    <string name="app_settings_sachsen">⛏️ Саксония</string>
+    <string name="app_settings_sachsenanhalt">🏛️ Саксония-Анхальт</string>
+    <string name="app_settings_schleswigholstein">🌊 Шлезвиг-Гольштейн</string>
+    <string name="app_settings_stundenplan">Расписание</string>
+    <string name="app_settings_supplementerinnerung">Напоминание о добавках</string>
+    <string name="app_settings_supplements">Добавки</string>
+    <string name="app_settings_taegliche_erinnerung_um">Ежедневное напоминание в</string>
+    <string name="app_settings_thueringen">🏰 Тюрингия</string>
+    <string name="app_settings_uebernehmen">Применить</string>
+
+    
+    <string name="app_dashboard_logo">Логотип LifeModule</string>
+    <string name="app_dashboard_fertig">Готово</string>
+    <string name="app_dashboard_module">Модули</string>
+
+    
+    <string name="app_debug_title">Отладка · Путешествие во времени</string>
+    <string name="app_debug_status_title">Статус путешествия во времени</string>
+    <string name="app_debug_provider">Провайдер</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">Виртуальное время</string>
+    <string name="app_debug_system_zeit">Системное время</string>
+    <string name="app_debug_offset">Смещение</string>
+    <string name="app_debug_warning">TimeProvider - это SystemTimeProvider. Путешествие во времени доступно только в отладочных сборках.</string>
+    <string name="app_debug_ziel_datum">Выберите целевую дату</string>
+    <string name="app_debug_ziel_uhrzeit">Выберите целевое время</string>
+    <string name="app_debug_anwenden">Применить</string>
+    <string name="app_debug_zuruecksetzen">Сбросить</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 Все (по всей стране)</string>
+    <string name="app_settings_hessen">🏦 Гессен</string>
+    <string name="app_settings_berlin">🐻 Берлин</string>
+    <string name="app_settings_hamburg">⚓ Гамбург</string>
+    <string name="app_settings_bremen">🔑 Бремен</string>
+    <string name="app_settings_design_farben">Дизайн &amp; цвета</string>
+    <string name="app_settings_global">Глобальные</string>
+    <string name="app_settings_reset">Сброс</string>
+    <string name="app_settings_benachrichtigungen">Уведомления</string>
+    <string name="app_settings_push_benachrichtigungen">Push-уведомления</string>
+    <string name="app_settings_erinnerungen_vor_terminen">Напоминания перед событиями:</string>
+    <string name="app_settings_erinnerung_min_vorher">Напоминание за %d мин</string>
+    <string name="app_settings_uhrzeit_format">%s часов</string>
+    <string name="app_settings_habits">Привычки</string>
+    <string name="app_settings_daten">Данные</string>
+    <string name="app_settings_export_untertitel">ZIP с CSV-файлами для Excel · %d записей</string>
+    
+    <string name="app_settings_backup">Резервная копия</string>
+    <string name="app_settings_backup_erstellen">Создать резервную копию</string>
+    <string name="app_settings_backup_erstellen_subtitle">Сохранить все данные как файл резервной копии</string>
+    <string name="app_settings_backup_fehlgeschlagen">Ошибка создания резервной копии</string>
+    <string name="app_settings_backup_erstellt">Резервная копия создана</string>
+    <string name="app_settings_backup_wiederherstellen">Восстановить резервную копию</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">Восстановить все данные из файла резервной копии</string>
+    <string name="app_settings_google_backup">Резервное копирование Google</string>
+    <string name="app_settings_google_backup_on">Ваши данные сохраняются через Google</string>
+    <string name="app_settings_google_backup_off">Резервное копирование через Google отключено</string>
+    <string name="app_settings_backup_restore_confirm_title">Восстановить резервную копию?</string>
+    <string name="app_settings_backup_restore_confirm_text">Это заменит ВСЕ текущие данные данными из резервной копии. Это действие нельзя отменить!\n\nПриложение перезапустится после восстановления.</string>
+    <string name="app_settings_backup_restore_confirm">Восстановить</string>
+    <string name="app_settings_backup_restore_success">Резервная копия восстановлена. Приложение перезапускается...</string>
+    <string name="app_settings_backup_restore_failed">Ошибка восстановления. Файл может быть недействительным или от более новой версии.</string>
+    <string name="app_settings_info">Информация</string>
+    <string name="app_settings_app_beschreibung">v%s · Универсальный лайф-трекер</string>
+    <string name="app_settings_entwickler">Разработчик</string>
+    <string name="app_settings_dev_already_unlocked">Параметры разработчика уже разблокированы</string>
+    <string name="app_settings_dev_unlocked">Параметры разработчика разблокированы!</string>
+    <string name="app_settings_dev_steps_away">Ещё %d нажатий для разблокировки параметров разработчика</string>
+    <string name="app_settings_time_travel">Путешествие во времени</string>
+    <string name="app_settings_time_travel_subtitle">Изменить дату &amp; время приложения</string>
+    <string name="app_settings_reset_all_data">Сбросить все данные</string>
+    <string name="app_settings_reset_all_data_subtitle">Удалить все локальные данные &amp; настройки</string>
+    <string name="app_settings_reset_confirm_text">Это навсегда удалит ВСЕ данные (тренировки, питание, настроение, привычки, календарь, вес, покупки, рабочее время, настройки и предпочтения). Это действие нельзя отменить!\n\nПриложение перезапустится после сброса.</string>
+    <string name="app_settings_reset_confirm">Удалить всё</string>
+    <string name="app_settings_reset_success">Все данные удалены. Приложение перезапускается...</string>
+    <string name="app_settings_fertig">Готово</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">Восстановить по умолчанию (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">Часы расписания</string>
+    <string name="app_settings_schedule_start_hour">Начало: %d:00</string>
+    <string name="app_settings_schedule_end_hour">Конец: %d:00</string>
+
+    
+    <string name="app_settings_sicherheit">Безопасность</string>
+    <string name="app_settings_screenshot_schutz">Защита от скриншотов</string>
+    <string name="app_settings_screenshot_schutz_on">Скриншоты и запись экрана заблокированы</string>
+    <string name="app_settings_screenshot_schutz_off">Скриншоты и запись экрана разрешены</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

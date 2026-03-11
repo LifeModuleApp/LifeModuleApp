@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">Ayarlar</string>
+    <string name="app_dashboard_layout_bearbeiten">Düzeni düzenle</string>
+    <string name="app_dashboard_module_verwalten">Modülleri yönet</string>
+    <string name="app_dashboard_module_verwalten_1">Modülleri yönet</string>
+    <string name="app_dashboard_rastergroesse">Izgara boyutu</string>
+    <string name="app_settings_1_stunde_vorher">1 saat önce</string>
+    <string name="app_settings_1_tag_vorher">1 gün önce</string>
+    <string name="app_settings_1_woche_vorher">1 hafta önce</string>
+    <string name="app_settings_abbrechen">İptal</string>
+    <string name="app_settings_aendern">Değiştir</string>
+    <string name="app_settings_aktiviert">Etkin</string>
+    <string name="app_settings_alle">Tümü</string>
+    <string name="app_settings_alle_daten_exportieren">Tüm verileri dışa aktar</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">Bildirimler reddedildi</string>
+    <string name="app_settings_badenwuerttemberg">🍇 Baden-Württemberg</string>
+    <string name="app_settings_bayern">🏔️ Bavyera</string>
+    <string name="app_settings_brandenburg">🦅 Brandenburg</string>
+    <string name="app_settings_bundesland">Eyalet</string>
+    <string name="app_settings_bundesland_waehlen">Eyalet seçin</string>
+    <string name="app_settings_deaktiviert">Devre dışı</string>
+    <string name="app_settings_einstellungen">Ayarlar</string>
+    <string name="app_settings_exact_alarm_title">Kesin hatırlatıcılar devre dışı</string>
+    <string name="app_settings_exact_alarm_desc">Sistem ayarlarında kesin alarmlara izin vermek için dokunun. Bu olmadan hatırlatıcılar gecikebilir.</string>
+    <string name="app_settings_export_fehlgeschlagen">Dışa aktarma başarısız</string>
+    <string name="app_settings_feiertage">Resmi tatiller</string>
+    <string name="app_settings_feiertage_land">Tatil ülkesi</string>
+    <string name="app_settings_land_waehlen">Ülke seçin</string>
+    <string name="app_settings_sprache">Dil</string>
+    <string name="app_settings_sprache_waehlen">Dil seçin</string>
+    <string name="app_settings_globale_akzentfarbe">Genel vurgu rengi</string>
+    <string name="app_settings_habiterinnerung">Alışkanlık hatırlatıcısı</string>
+    <string name="app_settings_individuelle_farben_pro_modul">Modül başına ayrı renkler</string>
+    <string name="app_settings_kalender">Takvim</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ Mecklenburg-Batı Pomeranya</string>
+    <string name="app_settings_modulfarben">Modül renkleri</string>
+    <string name="app_settings_niedersachsen">🐎 Aşağı Saksonya</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ Kuzey Ren-Vestfalya</string>
+    <string name="app_settings_rheinlandpfalz">🍷 Rheinland-Pfalz</string>
+    <string name="app_settings_saarland">🏭 Saarland</string>
+    <string name="app_settings_sachsen">⛏️ Saksonya</string>
+    <string name="app_settings_sachsenanhalt">🏛️ Saksonya-Anhalt</string>
+    <string name="app_settings_schleswigholstein">🌊 Schleswig-Holstein</string>
+    <string name="app_settings_stundenplan">Ders programı</string>
+    <string name="app_settings_supplementerinnerung">Takviye hatırlatıcısı</string>
+    <string name="app_settings_supplements">Takviyeler</string>
+    <string name="app_settings_taegliche_erinnerung_um">Günlük hatırlatma saati</string>
+    <string name="app_settings_thueringen">🏰 Thüringen</string>
+    <string name="app_settings_uebernehmen">Uygula</string>
+
+    
+    <string name="app_dashboard_logo">LifeModule Logosu</string>
+    <string name="app_dashboard_fertig">Tamam</string>
+    <string name="app_dashboard_module">Modüller</string>
+
+    
+    <string name="app_debug_title">Hata Ayıklama · Zaman Yolculuğu</string>
+    <string name="app_debug_status_title">Zaman Yolculuğu Durumu</string>
+    <string name="app_debug_provider">Sağlayıcı</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">Sanal Zaman</string>
+    <string name="app_debug_system_zeit">Sistem Zamanı</string>
+    <string name="app_debug_offset">Fark</string>
+    <string name="app_debug_warning">TimeProvider SystemTimeProvider\'dır - Zaman Yolculuğu yalnızca hata ayıklama derlemelerinde kullanılabilir.</string>
+    <string name="app_debug_ziel_datum">Hedef tarihi seçin</string>
+    <string name="app_debug_ziel_uhrzeit">Hedef saati seçin</string>
+    <string name="app_debug_anwenden">Uygula</string>
+    <string name="app_debug_zuruecksetzen">Sıfırla</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 Tümü (ülke geneli)</string>
+    <string name="app_settings_hessen">🏦 Hessen</string>
+    <string name="app_settings_berlin">🐻 Berlin</string>
+    <string name="app_settings_hamburg">⚓ Hamburg</string>
+    <string name="app_settings_bremen">🔑 Bremen</string>
+    <string name="app_settings_design_farben">Tasarım &amp; Renkler</string>
+    <string name="app_settings_global">Genel</string>
+    <string name="app_settings_reset">Sıfırla</string>
+    <string name="app_settings_benachrichtigungen">Bildirimler</string>
+    <string name="app_settings_push_benachrichtigungen">Anlık bildirimler</string>
+    <string name="app_settings_erinnerungen_vor_terminen">Etkinliklerden önce hatırlatmalar:</string>
+    <string name="app_settings_erinnerung_min_vorher">%d dk önce hatırlatma</string>
+    <string name="app_settings_uhrzeit_format">Saat %s</string>
+    <string name="app_settings_habits">Alışkanlıklar</string>
+    <string name="app_settings_daten">Veriler</string>
+    <string name="app_settings_export_untertitel">Excel için CSV dosyalı ZIP · %d kayıt</string>
+    
+    <string name="app_settings_backup">Yedekleme</string>
+    <string name="app_settings_backup_erstellen">Yedek oluştur</string>
+    <string name="app_settings_backup_erstellen_subtitle">Tüm verileri yedek dosyası olarak kaydet</string>
+    <string name="app_settings_backup_fehlgeschlagen">Yedekleme başarısız</string>
+    <string name="app_settings_backup_erstellt">Yedek oluşturuldu</string>
+    <string name="app_settings_backup_wiederherstellen">Yedeği geri yükle</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">Tüm verileri bir yedek dosyasından geri yükle</string>
+    <string name="app_settings_google_backup">Google Yedekleme</string>
+    <string name="app_settings_google_backup_on">Verileriniz Google üzerinden yedekleniyor</string>
+    <string name="app_settings_google_backup_off">Google üzerinden yedekleme devre dışı</string>
+    <string name="app_settings_backup_restore_confirm_title">Yedek geri yüklensin mi?</string>
+    <string name="app_settings_backup_restore_confirm_text">Bu işlem TÜM mevcut verilerin yerine yedeği koyacaktır. Bu işlem geri alınamaz!\n\nUygulama geri yüklemeden sonra yeniden başlatılacaktır.</string>
+    <string name="app_settings_backup_restore_confirm">Geri yükle</string>
+    <string name="app_settings_backup_restore_success">Yedek geri yüklendi. Uygulama yeniden başlatılıyor...</string>
+    <string name="app_settings_backup_restore_failed">Geri yükleme başarısız. Dosya geçersiz veya daha yeni bir sürüme ait olabilir.</string>
+    <string name="app_settings_info">Bilgi</string>
+    <string name="app_settings_app_beschreibung">v%s · Her Şey Bir Arada Yaşam Takipçisi</string>
+    <string name="app_settings_entwickler">Geliştirici</string>
+    <string name="app_settings_dev_already_unlocked">Geliştirici seçenekleri zaten açık</string>
+    <string name="app_settings_dev_unlocked">Geliştirici seçenekleri açıldı!</string>
+    <string name="app_settings_dev_steps_away">Geliştirici seçeneklerini açmak için %d dokunuş kaldı</string>
+    <string name="app_settings_time_travel">Zaman Yolculuğu</string>
+    <string name="app_settings_time_travel_subtitle">Uygulamanın tarih &amp; saatini değiştir</string>
+    <string name="app_settings_reset_all_data">Tüm verileri sıfırla</string>
+    <string name="app_settings_reset_all_data_subtitle">Tüm yerel verileri &amp; ayarları sil</string>
+    <string name="app_settings_reset_confirm_text">Bu işlem TÜM verileri (antrenmanlar, beslenme, ruh hali, alışkanlıklar, takvim, kilo, alışveriş, çalışma süresi, ayarlar ve tercihler) kalıcı olarak silecektir. Bu işlem geri alınamaz!\n\nUygulama sıfırlamadan sonra yeniden başlatılacaktır.</string>
+    <string name="app_settings_reset_confirm">Her şeyi sil</string>
+    <string name="app_settings_reset_success">Tüm veriler silindi. Uygulama yeniden başlatılıyor...</string>
+    <string name="app_settings_fertig">Tamam</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">Varsayılana döndür (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">Ders programı saatleri</string>
+    <string name="app_settings_schedule_start_hour">Başlangıç: %d:00</string>
+    <string name="app_settings_schedule_end_hour">Bitiş: %d:00</string>
+
+    
+    <string name="app_settings_sicherheit">Güvenlik</string>
+    <string name="app_settings_screenshot_schutz">Ekran görüntüsü koruması</string>
+    <string name="app_settings_screenshot_schutz_on">Ekran görüntüleri ve ekran kayıtları engellendi</string>
+    <string name="app_settings_screenshot_schutz_off">Ekran görüntüleri ve ekran kayıtlarına izin verildi</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

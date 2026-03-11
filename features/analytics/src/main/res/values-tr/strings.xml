@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">Toplam aktivite</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">Bugün henüz ruh hali kaydı yok</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">Henüz seri yok - alışkanlıkları veya takviyeleri kaydedin!</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">Henüz egzersiz kaydedilmedi</string>
+    <string name="analytics_analytics_noch_nie">Hiç</string>
+    <string name="analytics_analytics_supplements">Takviyeler</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ Düşüş eğilimi</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ Yükseliş eğilimi</string>
+    <string name="analytics_analytics_uebung_auswaehlen">Egzersiz seçin:</string>
+    
+    <string name="analytics_analytics_titel">Analiz</string>
+    <string name="analytics_analytics_streaks">Seriler</string>
+    <string name="analytics_analytics_nutrition_heute">Bugünkü Beslenme</string>
+    <string name="analytics_analytics_kcal_format">%1$d kcal</string>
+    <string name="analytics_analytics_protein">Protein</string>
+    <string name="analytics_analytics_carbs">Karbonhidrat</string>
+    <string name="analytics_analytics_fett">Yağ</string>
+    <string name="analytics_analytics_gramm_format">%1$dg</string>
+    <string name="analytics_analytics_zuletzt">Son: %1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d gün</string>
+    <string name="analytics_analytics_habits">Alışkanlıklar</string>
+    <string name="analytics_analytics_gym_fortschritt">Spor Salonu İlerlemesi</string>
+    <string name="analytics_analytics_workouts_gesamt">toplam %1$d antrenman</string>
+    <string name="analytics_analytics_letztes_workout">Son: %1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - Kilo (kg)</string>
+    <string name="analytics_analytics_mood_trend">Ruh Hali Eğilimi</string>
+    <string name="analytics_analytics_heute_mood">Bugün: %1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">Kaydedilen eylemler</string>
+    <string name="analytics_analytics_anstehend">Yaklaşan</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d gün</string>
+    <string name="analytics_analytics_trend_stabil">-> Sabit</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">Çok kötü</string>
+    <string name="analytics_analytics_mood_nicht_gut">Pek iyi değil</string>
+    <string name="analytics_analytics_mood_neutral">Nötr</string>
+    <string name="analytics_analytics_mood_gut">İyi</string>
+    <string name="analytics_analytics_mood_sehr_gut">Çok iyi</string>
+    <string name="analytics_analytics_mood_fantastisch">Harika</string>
+    <string name="analytics_analytics_7_tage">7 gün</string>
+    <string name="analytics_analytics_30_tage">30 gün</string>
+    <string name="analytics_analytics_letzte_7_tage">Son 7 gün</string>
+    <string name="analytics_analytics_gewicht_verlauf">Kilo Eğilimi</string>
+    <string name="analytics_analytics_aktuell_kg">Mevcut: %1$s kg</string>
+    <string name="analytics_analytics_gewicht_diff">Değişim: %1$s kg</string>
+    <string name="analytics_analytics_arbeitszeit_woche">Bu Haftaki Çalışma Süresi</string>
+    <string name="analytics_analytics_stunden_diese_woche">Bu hafta %1$s saat</string>
+    <string name="analytics_analytics_woche">Hafta</string>
+    <string name="analytics_analytics_monat">Ay</string>
+    <string name="analytics_analytics_jahr">Yıl</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">Henüz kilo girişi yok</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

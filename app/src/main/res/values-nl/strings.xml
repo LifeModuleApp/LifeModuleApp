@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">Instellingen</string>
+    <string name="app_dashboard_layout_bearbeiten">Indeling bewerken</string>
+    <string name="app_dashboard_module_verwalten">Modules beheren</string>
+    <string name="app_dashboard_module_verwalten_1">Modules beheren</string>
+    <string name="app_dashboard_rastergroesse">Rastergrootte</string>
+    <string name="app_settings_1_stunde_vorher">1 uur van tevoren</string>
+    <string name="app_settings_1_tag_vorher">1 dag van tevoren</string>
+    <string name="app_settings_1_woche_vorher">1 week van tevoren</string>
+    <string name="app_settings_abbrechen">Annuleren</string>
+    <string name="app_settings_aendern">Wijzigen</string>
+    <string name="app_settings_aktiviert">Ingeschakeld</string>
+    <string name="app_settings_alle">Alle</string>
+    <string name="app_settings_alle_daten_exportieren">Alle gegevens exporteren</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">Meldingen zijn geweigerd</string>
+    <string name="app_settings_badenwuerttemberg">🍇 Baden-Württemberg</string>
+    <string name="app_settings_bayern">🏔️ Beieren</string>
+    <string name="app_settings_brandenburg">🦅 Brandenburg</string>
+    <string name="app_settings_bundesland">Deelstaat</string>
+    <string name="app_settings_bundesland_waehlen">Kies deelstaat</string>
+    <string name="app_settings_deaktiviert">Uitgeschakeld</string>
+    <string name="app_settings_einstellungen">Instellingen</string>
+    <string name="app_settings_exact_alarm_title">Exacte herinneringen uitgeschakeld</string>
+    <string name="app_settings_exact_alarm_desc">Tik om exacte alarmen toe te staan in de systeeminstellingen. Zonder dit kunnen herinneringen vertraagd zijn.</string>
+    <string name="app_settings_export_fehlgeschlagen">Export mislukt</string>
+    <string name="app_settings_feiertage">Feestdagen</string>
+    <string name="app_settings_feiertage_land">Feestdagenland</string>
+    <string name="app_settings_land_waehlen">Kies land</string>
+    <string name="app_settings_sprache">Taal</string>
+    <string name="app_settings_sprache_waehlen">Kies taal</string>
+    <string name="app_settings_globale_akzentfarbe">Globale accentkleur</string>
+    <string name="app_settings_habiterinnerung">Gewoonte-herinnering</string>
+    <string name="app_settings_individuelle_farben_pro_modul">Individuele kleuren per module</string>
+    <string name="app_settings_kalender">Agenda</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ Mecklenburg-Voorpommeren</string>
+    <string name="app_settings_modulfarben">Modulekleuren</string>
+    <string name="app_settings_niedersachsen">🐎 Nedersaksen</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ Noordrijn-Westfalen</string>
+    <string name="app_settings_rheinlandpfalz">🍷 Rijnland-Palts</string>
+    <string name="app_settings_saarland">🏭 Saarland</string>
+    <string name="app_settings_sachsen">⛏️ Saksen</string>
+    <string name="app_settings_sachsenanhalt">🏛️ Saksen-Anhalt</string>
+    <string name="app_settings_schleswigholstein">🌊 Sleeswijk-Holstein</string>
+    <string name="app_settings_stundenplan">Rooster</string>
+    <string name="app_settings_supplementerinnerung">Supplementherinnering</string>
+    <string name="app_settings_supplements">Supplementen</string>
+    <string name="app_settings_taegliche_erinnerung_um">Dagelijkse herinnering om</string>
+    <string name="app_settings_thueringen">🏰 Thüringen</string>
+    <string name="app_settings_uebernehmen">Toepassen</string>
+
+    
+    <string name="app_dashboard_logo">LifeModule Logo</string>
+    <string name="app_dashboard_fertig">Klaar</string>
+    <string name="app_dashboard_module">Modules</string>
+
+    
+    <string name="app_debug_title">Debug · Tijdreizen</string>
+    <string name="app_debug_status_title">Tijdreizen-status</string>
+    <string name="app_debug_provider">Provider</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">Virtuele tijd</string>
+    <string name="app_debug_system_zeit">Systeemtijd</string>
+    <string name="app_debug_offset">Offset</string>
+    <string name="app_debug_warning">TimeProvider is SystemTimeProvider - Tijdreizen is alleen beschikbaar in debug-builds.</string>
+    <string name="app_debug_ziel_datum">Kies doeldatum</string>
+    <string name="app_debug_ziel_uhrzeit">Kies doeltijd</string>
+    <string name="app_debug_anwenden">Toepassen</string>
+    <string name="app_debug_zuruecksetzen">Resetten</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 Alle (landelijk)</string>
+    <string name="app_settings_hessen">🏦 Hessen</string>
+    <string name="app_settings_berlin">🐻 Berlijn</string>
+    <string name="app_settings_hamburg">⚓ Hamburg</string>
+    <string name="app_settings_bremen">🔑 Bremen</string>
+    <string name="app_settings_design_farben">Ontwerp &amp; Kleuren</string>
+    <string name="app_settings_global">Globaal</string>
+    <string name="app_settings_reset">Resetten</string>
+    <string name="app_settings_benachrichtigungen">Meldingen</string>
+    <string name="app_settings_push_benachrichtigungen">Pushmeldingen</string>
+    <string name="app_settings_erinnerungen_vor_terminen">Herinneringen voor afspraken:</string>
+    <string name="app_settings_erinnerung_min_vorher">Herinnering %d min van tevoren</string>
+    <string name="app_settings_uhrzeit_format">%s uur</string>
+    <string name="app_settings_habits">Gewoonten</string>
+    <string name="app_settings_daten">Gegevens</string>
+    <string name="app_settings_export_untertitel">ZIP met CSV-bestanden voor Excel · %d items</string>
+    
+    <string name="app_settings_backup">Back-up</string>
+    <string name="app_settings_backup_erstellen">Back-up maken</string>
+    <string name="app_settings_backup_erstellen_subtitle">Sla alle gegevens op als back-upbestand</string>
+    <string name="app_settings_backup_fehlgeschlagen">Back-up mislukt</string>
+    <string name="app_settings_backup_erstellt">Back-up gemaakt</string>
+    <string name="app_settings_backup_wiederherstellen">Back-up herstellen</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">Herstel alle gegevens vanuit een back-upbestand</string>
+    <string name="app_settings_google_backup">Google-back-up</string>
+    <string name="app_settings_google_backup_on">Je gegevens worden via Google geback-upt</string>
+    <string name="app_settings_google_backup_off">Back-up via Google is uitgeschakeld</string>
+    <string name="app_settings_backup_restore_confirm_title">Back-up herstellen?</string>
+    <string name="app_settings_backup_restore_confirm_text">Dit vervangt ALLE huidige gegevens door de back-up. Deze actie kan niet ongedaan worden gemaakt!\n\nDe app wordt opnieuw opgestart na het herstellen.</string>
+    <string name="app_settings_backup_restore_confirm">Herstellen</string>
+    <string name="app_settings_backup_restore_success">Back-up hersteld. App wordt opnieuw opgestart...</string>
+    <string name="app_settings_backup_restore_failed">Herstellen mislukt. Het bestand is mogelijk ongeldig of van een nieuwere versie.</string>
+    <string name="app_settings_info">Info</string>
+    <string name="app_settings_app_beschreibung">v%s · Ultieme Life-Tracker</string>
+    <string name="app_settings_entwickler">Ontwikkelaar</string>
+    <string name="app_settings_dev_already_unlocked">Ontwikkelaarsopties zijn al ontgrendeld</string>
+    <string name="app_settings_dev_unlocked">Ontwikkelaarsopties ontgrendeld!</string>
+    <string name="app_settings_dev_steps_away">Nog %d keer tikken om ontwikkelaarsopties te ontgrendelen</string>
+    <string name="app_settings_time_travel">Tijdreizen</string>
+    <string name="app_settings_time_travel_subtitle">Manipuleer de datum &amp; tijd van de app</string>
+    <string name="app_settings_reset_all_data">Alle gegevens wissen</string>
+    <string name="app_settings_reset_all_data_subtitle">Verwijder alle lokale gegevens &amp; instellingen</string>
+    <string name="app_settings_reset_confirm_text">Dit verwijdert permanent ALLE gegevens (trainingen, voeding, stemming, gewoonten, agenda, gewicht, boodschappen, werktijd, instellingen en voorkeuren). Dit kan niet ongedaan worden gemaakt!\n\nDe app wordt opnieuw opgestart na het resetten.</string>
+    <string name="app_settings_reset_confirm">Alles verwijderen</string>
+    <string name="app_settings_reset_success">Alle gegevens zijn verwijderd. App wordt opnieuw opgestart...</string>
+    <string name="app_settings_fertig">Klaar</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">Standaard herstellen (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">Roosteruren</string>
+    <string name="app_settings_schedule_start_hour">Begin: %d:00</string>
+    <string name="app_settings_schedule_end_hour">Einde: %d:00</string>
+
+    
+    <string name="app_settings_sicherheit">Beveiliging</string>
+    <string name="app_settings_screenshot_schutz">Screenshot-beveiliging</string>
+    <string name="app_settings_screenshot_schutz_on">Screenshots en schermopnames worden geblokkeerd</string>
+    <string name="app_settings_screenshot_schutz_off">Screenshots en schermopnames zijn toegestaan</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

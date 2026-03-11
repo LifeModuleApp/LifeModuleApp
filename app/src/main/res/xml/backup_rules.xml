@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Android 12+ backup rules (android:dataExtractionRules).
+    Only back up meaningful user data. Exclude caches, temp files,
+    and the Room WAL journal files that should never be backed up directly.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <!--
+            Only the listed sharedpref files are backed up (whitelist).
+            Everything else - encrypted database, Keystore passphrase, caches,
+            temp files - is excluded implicitly because it is not listed here.
+            The Android Keystore key is device-bound and non-exportable, so the
+            encrypted DB cannot be restored on a new device anyway.
+            For full data portability, users should use the manual .lmbackup export.
+        -->
+        <include domain="sharedpref" path="app_theme_v1.xml" />
+        <include domain="sharedpref" path="module_prefs.xml" />
+        <include domain="sharedpref" path="notification_settings.xml" />
+    </cloud-backup>
+
+    <device-transfer>
+        <!--
+            Device-to-device transfer also cannot migrate the Keystore key,
+            so the encrypted DB + passphrase are excluded implicitly (not listed).
+        -->
+        <include domain="sharedpref" path="app_theme_v1.xml" />
+        <include domain="sharedpref" path="module_prefs.xml" />
+        <include domain="sharedpref" path="notification_settings.xml" />
+    </device-transfer>
+</data-extraction-rules>

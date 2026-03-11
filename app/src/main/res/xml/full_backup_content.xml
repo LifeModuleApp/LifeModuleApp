@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Pre-Android 12 (API 26-30) backup rules (android:fullBackupContent).
+    Mirrors backup_rules.xml: only non-Keystore-dependent prefs are backed up.
+    The encrypted database and Keystore-wrapped passphrase are excluded because
+    the Android Keystore key is device-bound.
+-->
+<full-backup-content>
+    <!--
+        Only the listed sharedpref files are backed up (whitelist via include).
+        Databases, Keystore passphrase, caches and temp files are excluded
+        implicitly because they are not included here.
+    -->
+    <include domain="sharedpref" path="app_theme_v1.xml" />
+    <include domain="sharedpref" path="module_prefs.xml" />
+    <include domain="sharedpref" path="notification_settings.xml" />
+</full-backup-content>

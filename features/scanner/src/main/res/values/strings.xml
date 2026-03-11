@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ScannerCaptureScreen -->
+    <string name="scanner_capture_title">Capture receipt</string>
+    <string name="scanner_capture_take_photo">Take photo</string>
+    <string name="scanner_camera_permission_required">Camera permission required.</string>
+    <string name="scanner_capture_vendor">Vendor / Store</string>
+    <string name="scanner_capture_amount">Amount (€)</string>
+    <string name="scanner_capture_vat_optional">VAT (optional)</string>
+    <string name="scanner_capture_currency">Currency</string>
+    <string name="scanner_capture_category">Category</string>
+    <string name="scanner_capture_notes_optional">Notes (optional)</string>
+    <string name="scanner_capture_save">Save</string>
+    <!-- Category labels -->
+    <string name="scanner_cat_groceries">Groceries</string>
+    <string name="scanner_cat_restaurant">Restaurant</string>
+    <string name="scanner_cat_transport">Transport</string>
+    <string name="scanner_cat_health">Health</string>
+    <string name="scanner_cat_office">Office</string>
+    <string name="scanner_cat_entertainment">Entertainment</string>
+    <string name="scanner_cat_clothing">Clothing</string>
+    <string name="scanner_cat_electronics">Electronics</string>
+    <string name="scanner_cat_subscription">Subscription</string>
+    <string name="scanner_cat_insurance">Insurance</string>
+    <string name="scanner_cat_tax">Tax</string>
+    <string name="scanner_cat_other">Other</string>
+    <!-- ReceiptDetailScreen -->
+    <string name="scanner_detail_title">Receipt details</string>
+    <string name="scanner_detail_not_found">Receipt not found.</string>
+    <string name="scanner_detail_captured_at">Captured: %s</string>
+    <string name="scanner_detail_finalized"> Finalized</string>
+    <string name="scanner_detail_vendor">Vendor</string>
+    <string name="scanner_detail_amount">Amount</string>
+    <string name="scanner_detail_vat_optional">VAT (optional)</string>
+    <string name="scanner_detail_currency">Currency</string>
+    <string name="scanner_detail_category">Category</string>
+    <string name="scanner_detail_notes_optional">Notes (optional)</string>
+    <string name="scanner_detail_notes">Notes</string>
+    <string name="scanner_detail_save_changes">Save changes</string>
+    <string name="scanner_detail_finalize">Finalize receipt</string>
+    <!-- CameraCaptureView -->
+    <string name="scanner_camera_take_photo">Take photo</string>
+    <string name="scanner_camera_not_ready">Camera not ready</string>
+    <!-- ScannerScreen -->
+    <string name="scanner_title">Receipt Scanner</string>
+    <string name="scanner_scan_receipt">Scan receipt</string>
+    <string name="scanner_empty">No receipts scanned yet.</string>
+</resources>

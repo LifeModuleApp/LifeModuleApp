@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">Eliminar marcados</string>
+    <string name="shopping_shopping_hinzufuegen">Añadir</string>
+    <string name="shopping_shopping_loeschen">Eliminar</string>
+    <string name="shopping_shopping_einkaufsliste">Lista de compras</string>
+    <string name="shopping_shopping_neuer_artikel">Nuevo artículo...</string>
+    <string name="shopping_shopping_erledigt">Hecho (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">Cancelar</string>
+    <string name="shopping_shopping_artikel_loeschen">Eliminar artículo</string>
+    <string name="shopping_shopping_artikel_loeschen_text">¿Realmente quieres eliminar este artículo?</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">Eliminar marcados</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">¿Quieres eliminar todos los artículos marcados?</string>
+    <string name="shopping_shopping_leer_titel">La lista está vacía</string>
+    <string name="shopping_shopping_leer_subtitel">Añade tu primer artículo arriba</string>
+</resources>

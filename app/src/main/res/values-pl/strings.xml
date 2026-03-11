@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">Ustawienia</string>
+    <string name="app_dashboard_layout_bearbeiten">Edytuj układ</string>
+    <string name="app_dashboard_module_verwalten">Zarządzaj modułami</string>
+    <string name="app_dashboard_module_verwalten_1">Zarządzaj modułami</string>
+    <string name="app_dashboard_rastergroesse">Rozmiar siatki</string>
+    <string name="app_settings_1_stunde_vorher">1 godzinę przed</string>
+    <string name="app_settings_1_tag_vorher">1 dzień przed</string>
+    <string name="app_settings_1_woche_vorher">1 tydzień przed</string>
+    <string name="app_settings_abbrechen">Anuluj</string>
+    <string name="app_settings_aendern">Zmień</string>
+    <string name="app_settings_aktiviert">Włączone</string>
+    <string name="app_settings_alle">Wszystkie</string>
+    <string name="app_settings_alle_daten_exportieren">Eksportuj wszystkie dane</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">Powiadomienia zostały odrzucone</string>
+    <string name="app_settings_badenwuerttemberg">🍇 Badenia-Wirtembergia</string>
+    <string name="app_settings_bayern">🏔️ Bawaria</string>
+    <string name="app_settings_brandenburg">🦅 Brandenburgia</string>
+    <string name="app_settings_bundesland">Kraj związkowy</string>
+    <string name="app_settings_bundesland_waehlen">Wybierz kraj związkowy</string>
+    <string name="app_settings_deaktiviert">Wyłączone</string>
+    <string name="app_settings_einstellungen">Ustawienia</string>
+    <string name="app_settings_exact_alarm_title">Dokładne przypomnienia wyłączone</string>
+    <string name="app_settings_exact_alarm_desc">Dotknij, aby zezwolić na dokładne alarmy w ustawieniach systemu. Bez tego przypomnienia mogą być opóźnione.</string>
+    <string name="app_settings_export_fehlgeschlagen">Eksport nie powiódł się</string>
+    <string name="app_settings_feiertage">Święta</string>
+    <string name="app_settings_feiertage_land">Kraj świąt</string>
+    <string name="app_settings_land_waehlen">Wybierz kraj</string>
+    <string name="app_settings_sprache">Język</string>
+    <string name="app_settings_sprache_waehlen">Wybierz język</string>
+    <string name="app_settings_globale_akzentfarbe">Globalny kolor akcentu</string>
+    <string name="app_settings_habiterinnerung">Przypomnienie o nawykach</string>
+    <string name="app_settings_individuelle_farben_pro_modul">Indywidualne kolory dla modułu</string>
+    <string name="app_settings_kalender">Kalendarz</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ Meklemburgia-Pomorze Przednie</string>
+    <string name="app_settings_modulfarben">Kolory modułów</string>
+    <string name="app_settings_niedersachsen">🐎 Dolna Saksonia</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ Nadrenia Północna-Westfalia</string>
+    <string name="app_settings_rheinlandpfalz">🍷 Nadrenia-Palatynat</string>
+    <string name="app_settings_saarland">🏭 Saara</string>
+    <string name="app_settings_sachsen">⛏️ Saksonia</string>
+    <string name="app_settings_sachsenanhalt">🏛️ Saksonia-Anhalt</string>
+    <string name="app_settings_schleswigholstein">🌊 Szlezwik-Holsztyn</string>
+    <string name="app_settings_stundenplan">Plan zajęć</string>
+    <string name="app_settings_supplementerinnerung">Przypomnienie o suplementach</string>
+    <string name="app_settings_supplements">Suplementy</string>
+    <string name="app_settings_taegliche_erinnerung_um">Codzienne przypomnienie o</string>
+    <string name="app_settings_thueringen">🏰 Turyngia</string>
+    <string name="app_settings_uebernehmen">Zastosuj</string>
+
+    
+    <string name="app_dashboard_logo">Logo LifeModule</string>
+    <string name="app_dashboard_fertig">Gotowe</string>
+    <string name="app_dashboard_module">Moduły</string>
+
+    
+    <string name="app_debug_title">Debug · Podróż w czasie</string>
+    <string name="app_debug_status_title">Status podróży w czasie</string>
+    <string name="app_debug_provider">Dostawca</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">Czas wirtualny</string>
+    <string name="app_debug_system_zeit">Czas systemowy</string>
+    <string name="app_debug_offset">Przesunięcie</string>
+    <string name="app_debug_warning">TimeProvider to SystemTimeProvider - podróż w czasie jest dostępna tylko w wersjach debugowych.</string>
+    <string name="app_debug_ziel_datum">Wybierz datę docelową</string>
+    <string name="app_debug_ziel_uhrzeit">Wybierz godzinę docelową</string>
+    <string name="app_debug_anwenden">Zastosuj</string>
+    <string name="app_debug_zuruecksetzen">Resetuj</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 Wszystkie (ogólnokrajowe)</string>
+    <string name="app_settings_hessen">🏦 Hesja</string>
+    <string name="app_settings_berlin">🐻 Berlin</string>
+    <string name="app_settings_hamburg">⚓ Hamburg</string>
+    <string name="app_settings_bremen">🔑 Brema</string>
+    <string name="app_settings_design_farben">Wygląd &amp; Kolory</string>
+    <string name="app_settings_global">Globalne</string>
+    <string name="app_settings_reset">Resetuj</string>
+    <string name="app_settings_benachrichtigungen">Powiadomienia</string>
+    <string name="app_settings_push_benachrichtigungen">Powiadomienia push</string>
+    <string name="app_settings_erinnerungen_vor_terminen">Przypomnienia przed wydarzeniami:</string>
+    <string name="app_settings_erinnerung_min_vorher">Przypomnienie %d min przed</string>
+    <string name="app_settings_uhrzeit_format">godzina %s</string>
+    <string name="app_settings_habits">Nawyki</string>
+    <string name="app_settings_daten">Dane</string>
+    <string name="app_settings_export_untertitel">ZIP z plikami CSV do Excela · %d wpisów</string>
+    
+    <string name="app_settings_backup">Kopia zapasowa</string>
+    <string name="app_settings_backup_erstellen">Utwórz kopię zapasową</string>
+    <string name="app_settings_backup_erstellen_subtitle">Zapisz wszystkie dane jako plik kopii zapasowej</string>
+    <string name="app_settings_backup_fehlgeschlagen">Kopia zapasowa nie powiodła się</string>
+    <string name="app_settings_backup_erstellt">Kopia zapasowa utworzona</string>
+    <string name="app_settings_backup_wiederherstellen">Przywróć kopię zapasową</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">Przywróć wszystkie dane z pliku kopii zapasowej</string>
+    <string name="app_settings_google_backup">Kopia zapasowa Google</string>
+    <string name="app_settings_google_backup_on">Twoje dane są zapisywane przez Google</string>
+    <string name="app_settings_google_backup_off">Kopia zapasowa przez Google jest wyłączona</string>
+    <string name="app_settings_backup_restore_confirm_title">Przywrócić kopię zapasową?</string>
+    <string name="app_settings_backup_restore_confirm_text">Spowoduje to zastąpienie WSZYSTKICH bieżących danych kopią zapasową. Tej operacji nie można cofnąć!\n\nAplikacja uruchomi się ponownie po przywróceniu.</string>
+    <string name="app_settings_backup_restore_confirm">Przywróć</string>
+    <string name="app_settings_backup_restore_success">Kopia zapasowa przywrócona. Aplikacja uruchamia się ponownie...</string>
+    <string name="app_settings_backup_restore_failed">Przywracanie nie powiodło się. Plik może być nieprawidłowy lub z nowszej wersji.</string>
+    <string name="app_settings_info">Informacje</string>
+    <string name="app_settings_app_beschreibung">v%s · Kompleksowy tracker życia</string>
+    <string name="app_settings_entwickler">Deweloper</string>
+    <string name="app_settings_dev_already_unlocked">Opcje deweloperskie już odblokowane</string>
+    <string name="app_settings_dev_unlocked">Opcje deweloperskie odblokowane!</string>
+    <string name="app_settings_dev_steps_away">%d dotknięć do odblokowania opcji deweloperskich</string>
+    <string name="app_settings_time_travel">Podróż w czasie</string>
+    <string name="app_settings_time_travel_subtitle">Manipuluj datą &amp; godziną aplikacji</string>
+    <string name="app_settings_reset_all_data">Resetuj wszystkie dane</string>
+    <string name="app_settings_reset_all_data_subtitle">Usuń wszystkie lokalne dane &amp; ustawienia</string>
+    <string name="app_settings_reset_confirm_text">Spowoduje to trwałe usunięcie WSZYSTKICH danych (treningi, odżywianie, nastrój, nawyki, kalendarz, waga, zakupy, czas pracy, ustawienia i preferencje). Tej operacji nie można cofnąć!\n\nAplikacja uruchomi się ponownie po resecie.</string>
+    <string name="app_settings_reset_confirm">Usuń wszystko</string>
+    <string name="app_settings_reset_success">Wszystkie dane zostały usunięte. Aplikacja uruchamia się ponownie...</string>
+    <string name="app_settings_fertig">Gotowe</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">Przywróć domyślny (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">Godziny planu zajęć</string>
+    <string name="app_settings_schedule_start_hour">Początek: %d:00</string>
+    <string name="app_settings_schedule_end_hour">Koniec: %d:00</string>
+
+    
+    <string name="app_settings_sicherheit">Bezpieczeństwo</string>
+    <string name="app_settings_screenshot_schutz">Ochrona zrzutów ekranu</string>
+    <string name="app_settings_screenshot_schutz_on">Zrzuty ekranu i nagrywanie ekranu są zablokowane</string>
+    <string name="app_settings_screenshot_schutz_off">Zrzuty ekranu i nagrywanie ekranu są dozwolone</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

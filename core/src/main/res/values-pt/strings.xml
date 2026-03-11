@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for core (PT) -->
+<resources>
+    <!-- Module categories -->
+    <string name="core_dashboard_gesundheit">Saúde</string>
+    <string name="core_dashboard_fitness">Fitness</string>
+    <string name="core_dashboard_lifestyle">Estilo de Vida</string>
+    <string name="core_dashboard_organisation">Organização</string>
+    <string name="core_dashboard_arbeit">Trabalho</string>
+    <string name="core_dashboard_system">Sistema</string>
+    <!-- Module display names -->
+    <string name="core_module_nutrition">Nutrição</string>
+    <string name="core_module_supplements">Suplementos</string>
+    <string name="core_module_habits">Hábitos</string>
+    <string name="core_module_mental_health">Saúde Mental</string>
+    <string name="core_module_gym">Academia</string>
+    <string name="core_module_weight">Peso</string>
+    <string name="core_module_calendar">Calendário</string>
+    <string name="core_module_schedule">Horário</string>
+    <string name="core_module_work_time">Tempo de Trabalho</string>
+    <string name="core_module_shopping">Lista de Compras</string>
+    <string name="core_module_analytics">Análises</string>
+    <string name="core_module_health_connect">Health Connect</string>
+    <string name="core_module_logbook">Logbook</string>
+    <string name="core_module_scanner">Receipt Scanner</string>
+    <string name="core_module_recipes">Recipes</string>
+    <!-- Other core strings -->
+    <string name="core_navigation_coming_soon">Em breve...</string>
+    <!-- UI component strings -->
+    <string name="core_topbar_back">Voltar</string>
+    <string name="core_topbar_menu">Menu</string>
+    <string name="core_fab_add">Adicionar</string>
+    <!-- Notification channel names -->
+    <string name="core_notification_channel_calendar">Lembretes do calendário</string>
+    <string name="core_notification_channel_calendar_desc">Lembretes para eventos do calendário</string>
+    <string name="core_notification_channel_schedule">Horário</string>
+    <string name="core_notification_channel_schedule_desc">Lembretes para aulas &amp; cursos</string>
+    <string name="core_notification_channel_supplements">Suplementos</string>
+    <string name="core_notification_channel_supplements_desc">Lembretes diários de suplementos</string>
+    <string name="core_notification_channel_habits">Hábitos</string>
+    <string name="core_notification_channel_habits_desc">Lembretes diários de hábitos</string>
+    <string name="core_notification_fallback_title">Lembrete</string>
+    <!-- Notification content -->
+    <string name="core_notification_in_1_stunde">em 1 hora</string>
+    <string name="core_notification_morgen">amanhã</string>
+    <string name="core_notification_in_einer_woche">em uma semana</string>
+    <string name="core_notification_in_x_min">em %1$d min</string>
+    <string name="core_notification_ganztaegig">Dia inteiro</string>
+    <string name="core_notification_calendar_body">%1$s - %2$s em %3$s</string>
+    <string name="core_notification_supplement_title">Suplementos</string>
+    <string name="core_notification_supplement_body">Você já tomou seus suplementos hoje? 💊</string>
+    <string name="core_notification_habit_title">Verificação de Hábitos</string>
+    <string name="core_notification_habit_body">Você completou todos os hábitos hoje? </string>
+    <string name="core_notification_class_body">Em %1$d min em %2$s</string>
+    <!-- Export -->
+    <string name="core_export_subject">Exportação de Dados LifeModule</string>
+    <string name="core_export_share_title">Compartilhar exportação</string>
+    <!-- Backup -->
+    <string name="core_backup_share_subject">Backup LifeModule</string>
+    <string name="core_backup_share_title">Compartilhar backup</string>
+</resources>

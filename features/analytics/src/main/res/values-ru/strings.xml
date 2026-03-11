@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">Общая активность</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">Нет записи о настроении за сегодня</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">Серий пока нет - записывайте привычки или добавки!</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">Упражнения ещё не записаны</string>
+    <string name="analytics_analytics_noch_nie">Никогда</string>
+    <string name="analytics_analytics_supplements">Добавки</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ Тренд вниз</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ Тренд вверх</string>
+    <string name="analytics_analytics_uebung_auswaehlen">Выберите упражнение:</string>
+    
+    <string name="analytics_analytics_titel">Аналитика</string>
+    <string name="analytics_analytics_streaks">Серии</string>
+    <string name="analytics_analytics_nutrition_heute">Питание сегодня</string>
+    <string name="analytics_analytics_kcal_format">%1$d ккал</string>
+    <string name="analytics_analytics_protein">Белки</string>
+    <string name="analytics_analytics_carbs">Углеводы</string>
+    <string name="analytics_analytics_fett">Жиры</string>
+    <string name="analytics_analytics_gramm_format">%1$dг</string>
+    <string name="analytics_analytics_zuletzt">Последний: %1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d дн.</string>
+    <string name="analytics_analytics_habits">Привычки</string>
+    <string name="analytics_analytics_gym_fortschritt">Прогресс в зале</string>
+    <string name="analytics_analytics_workouts_gesamt">%1$d тренировок всего</string>
+    <string name="analytics_analytics_letztes_workout">Последняя: %1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - Вес (кг)</string>
+    <string name="analytics_analytics_mood_trend">Тренд настроения</string>
+    <string name="analytics_analytics_heute_mood">Сегодня: %1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">Действий записано</string>
+    <string name="analytics_analytics_anstehend">Предстоящие</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d дн.</string>
+    <string name="analytics_analytics_trend_stabil">-> Стабильно</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">Очень плохое</string>
+    <string name="analytics_analytics_mood_nicht_gut">Не очень</string>
+    <string name="analytics_analytics_mood_neutral">Нейтральное</string>
+    <string name="analytics_analytics_mood_gut">Хорошее</string>
+    <string name="analytics_analytics_mood_sehr_gut">Очень хорошее</string>
+    <string name="analytics_analytics_mood_fantastisch">Фантастика</string>
+    <string name="analytics_analytics_7_tage">7 дней</string>
+    <string name="analytics_analytics_30_tage">30 дней</string>
+    <string name="analytics_analytics_letzte_7_tage">Последние 7 дней</string>
+    <string name="analytics_analytics_gewicht_verlauf">Тренд веса</string>
+    <string name="analytics_analytics_aktuell_kg">Текущий: %1$s кг</string>
+    <string name="analytics_analytics_gewicht_diff">Изменение: %1$s кг</string>
+    <string name="analytics_analytics_arbeitszeit_woche">Рабочее время на этой неделе</string>
+    <string name="analytics_analytics_stunden_diese_woche">%1$s часов на этой неделе</string>
+    <string name="analytics_analytics_woche">Неделя</string>
+    <string name="analytics_analytics_monat">Месяц</string>
+    <string name="analytics_analytics_jahr">Год</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">Записей веса ещё нет</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

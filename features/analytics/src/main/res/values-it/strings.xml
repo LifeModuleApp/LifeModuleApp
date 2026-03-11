@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">Attività totale</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">Nessuna voce dell\'umore oggi</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">Nessuna serie ancora - registra abitudini o integratori!</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">Nessun esercizio registrato finora</string>
+    <string name="analytics_analytics_noch_nie">Mai</string>
+    <string name="analytics_analytics_supplements">Integratori</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ Tendenza al ribasso</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ Tendenza al rialzo</string>
+    <string name="analytics_analytics_uebung_auswaehlen">Seleziona esercizio:</string>
+    
+    <string name="analytics_analytics_titel">Analisi</string>
+    <string name="analytics_analytics_streaks">Serie consecutive</string>
+    <string name="analytics_analytics_nutrition_heute">Nutrizione oggi</string>
+    <string name="analytics_analytics_kcal_format">%1$d kcal</string>
+    <string name="analytics_analytics_protein">Proteine</string>
+    <string name="analytics_analytics_carbs">Carboidrati</string>
+    <string name="analytics_analytics_fett">Grassi</string>
+    <string name="analytics_analytics_gramm_format">%1$dg</string>
+    <string name="analytics_analytics_zuletzt">Ultimo: %1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d giorni</string>
+    <string name="analytics_analytics_habits">Abitudini</string>
+    <string name="analytics_analytics_gym_fortschritt">Progressi palestra</string>
+    <string name="analytics_analytics_workouts_gesamt">%1$d allenamenti totali</string>
+    <string name="analytics_analytics_letztes_workout">Ultimo: %1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - Peso (kg)</string>
+    <string name="analytics_analytics_mood_trend">Andamento umore</string>
+    <string name="analytics_analytics_heute_mood">Oggi: %1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">Azioni registrate</string>
+    <string name="analytics_analytics_anstehend">In programma</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d giorni</string>
+    <string name="analytics_analytics_trend_stabil">-> Stabile</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">Molto male</string>
+    <string name="analytics_analytics_mood_nicht_gut">Non molto bene</string>
+    <string name="analytics_analytics_mood_neutral">Neutrale</string>
+    <string name="analytics_analytics_mood_gut">Buono</string>
+    <string name="analytics_analytics_mood_sehr_gut">Molto bene</string>
+    <string name="analytics_analytics_mood_fantastisch">Fantastico</string>
+    <string name="analytics_analytics_7_tage">7 giorni</string>
+    <string name="analytics_analytics_30_tage">30 giorni</string>
+    <string name="analytics_analytics_letzte_7_tage">Ultimi 7 giorni</string>
+    <string name="analytics_analytics_gewicht_verlauf">Andamento peso</string>
+    <string name="analytics_analytics_aktuell_kg">Attuale: %1$s kg</string>
+    <string name="analytics_analytics_gewicht_diff">Variazione: %1$s kg</string>
+    <string name="analytics_analytics_arbeitszeit_woche">Ore di lavoro questa settimana</string>
+    <string name="analytics_analytics_stunden_diese_woche">%1$s ore questa settimana</string>
+    <string name="analytics_analytics_woche">Settimana</string>
+    <string name="analytics_analytics_monat">Mese</string>
+    <string name="analytics_analytics_jahr">Anno</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">Nessuna voce di peso ancora</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

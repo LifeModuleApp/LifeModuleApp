@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for shopping (NL) -->
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">Afgevinkte verwijderen</string>
+    <string name="shopping_shopping_hinzufuegen">Toevoegen</string>
+    <string name="shopping_shopping_loeschen">Verwijderen</string>
+    <string name="shopping_shopping_einkaufsliste">Boodschappenlijst</string>
+    <string name="shopping_shopping_neuer_artikel">Nieuw artikel...</string>
+    <string name="shopping_shopping_erledigt">Klaar (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">Annuleren</string>
+    <string name="shopping_shopping_artikel_loeschen">Artikel verwijderen</string>
+    <string name="shopping_shopping_artikel_loeschen_text">Wil je dit artikel echt verwijderen?</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">Afgevinkte verwijderen</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">Wil je alle afgevinkte artikelen verwijderen?</string>
+    <string name="shopping_shopping_leer_titel">Lijst is leeg</string>
+    <string name="shopping_shopping_leer_subtitel">Voeg hierboven je eerste artikel toe</string>
+</resources>

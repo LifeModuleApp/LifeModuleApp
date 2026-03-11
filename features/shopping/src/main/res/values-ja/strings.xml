@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for shopping (JA) -->
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">チェック済みを削除</string>
+    <string name="shopping_shopping_hinzufuegen">追加</string>
+    <string name="shopping_shopping_loeschen">削除</string>
+    <string name="shopping_shopping_einkaufsliste">買い物リスト</string>
+    <string name="shopping_shopping_neuer_artikel">新しいアイテム...</string>
+    <string name="shopping_shopping_erledigt">完了 (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">キャンセル</string>
+    <string name="shopping_shopping_artikel_loeschen">アイテムを削除</string>
+    <string name="shopping_shopping_artikel_loeschen_text">このアイテムを本当に削除しますか？</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">チェック済みを削除</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">チェック済みのアイテムをすべて削除しますか？</string>
+    <string name="shopping_shopping_leer_titel">リストは空です</string>
+    <string name="shopping_shopping_leer_subtitel">上から最初のアイテムを追加しましょう</string>
+</resources>

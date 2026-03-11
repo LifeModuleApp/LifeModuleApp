@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">전체 활동</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">오늘 기분 기록이 아직 없습니다</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">아직 연속 기록이 없습니다 - 습관이나 보충제를 기록하세요!</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">아직 기록된 운동이 없습니다</string>
+    <string name="analytics_analytics_noch_nie">기록 없음</string>
+    <string name="analytics_analytics_supplements">보충제</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ 하락 추세</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ 상승 추세</string>
+    <string name="analytics_analytics_uebung_auswaehlen">운동 종목 선택:</string>
+    
+    <string name="analytics_analytics_titel">분석</string>
+    <string name="analytics_analytics_streaks">연속 기록</string>
+    <string name="analytics_analytics_nutrition_heute">오늘의 영양</string>
+    <string name="analytics_analytics_kcal_format">%1$d kcal</string>
+    <string name="analytics_analytics_protein">단백질</string>
+    <string name="analytics_analytics_carbs">탄수화물</string>
+    <string name="analytics_analytics_fett">지방</string>
+    <string name="analytics_analytics_gramm_format">%1$dg</string>
+    <string name="analytics_analytics_zuletzt">최근: %1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d일</string>
+    <string name="analytics_analytics_habits">습관</string>
+    <string name="analytics_analytics_gym_fortschritt">헬스 진행 상황</string>
+    <string name="analytics_analytics_workouts_gesamt">총 %1$d회 운동</string>
+    <string name="analytics_analytics_letztes_workout">최근: %1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - 체중 (kg)</string>
+    <string name="analytics_analytics_mood_trend">기분 추이</string>
+    <string name="analytics_analytics_heute_mood">오늘: %1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">기록된 활동</string>
+    <string name="analytics_analytics_anstehend">예정됨</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d일</string>
+    <string name="analytics_analytics_trend_stabil">-> 안정</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">매우 나쁨</string>
+    <string name="analytics_analytics_mood_nicht_gut">별로</string>
+    <string name="analytics_analytics_mood_neutral">보통</string>
+    <string name="analytics_analytics_mood_gut">좋음</string>
+    <string name="analytics_analytics_mood_sehr_gut">매우 좋음</string>
+    <string name="analytics_analytics_mood_fantastisch">환상적</string>
+    <string name="analytics_analytics_7_tage">7일</string>
+    <string name="analytics_analytics_30_tage">30일</string>
+    <string name="analytics_analytics_letzte_7_tage">최근 7일</string>
+    <string name="analytics_analytics_gewicht_verlauf">체중 추이</string>
+    <string name="analytics_analytics_aktuell_kg">현재: %1$s kg</string>
+    <string name="analytics_analytics_gewicht_diff">변화: %1$s kg</string>
+    <string name="analytics_analytics_arbeitszeit_woche">이번 주 근무 시간</string>
+    <string name="analytics_analytics_stunden_diese_woche">이번 주 %1$s시간</string>
+    <string name="analytics_analytics_woche">주</string>
+    <string name="analytics_analytics_monat">월</string>
+    <string name="analytics_analytics_jahr">년</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">아직 체중 기록이 없습니다</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

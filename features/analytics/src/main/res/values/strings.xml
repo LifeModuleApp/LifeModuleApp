@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">Total activity</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">No mood entry today yet</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">No streaks yet - log habits or supplements!</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">No exercises logged yet</string>
+    <string name="analytics_analytics_noch_nie">Never</string>
+    <string name="analytics_analytics_supplements">Supplements</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ Trending down</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ Trending up</string>
+    <string name="analytics_analytics_uebung_auswaehlen">Select exercise:</string>
+    
+    <string name="analytics_analytics_titel">Analytics</string>
+    <string name="analytics_analytics_streaks">Streaks</string>
+    <string name="analytics_analytics_nutrition_heute">Nutrition Today</string>
+    <string name="analytics_analytics_kcal_format">%1$d kcal</string>
+    <string name="analytics_analytics_protein">Protein</string>
+    <string name="analytics_analytics_carbs">Carbs</string>
+    <string name="analytics_analytics_fett">Fat</string>
+    <string name="analytics_analytics_gramm_format">%1$dg</string>
+    <string name="analytics_analytics_zuletzt">Last: %1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d days</string>
+    <string name="analytics_analytics_habits">Habits</string>
+    <string name="analytics_analytics_gym_fortschritt">Gym Progress</string>
+    <string name="analytics_analytics_workouts_gesamt">%1$d workouts total</string>
+    <string name="analytics_analytics_letztes_workout">Last: %1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - Weight (kg)</string>
+    <string name="analytics_analytics_mood_trend">Mood Trend</string>
+    <string name="analytics_analytics_heute_mood">Today: %1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">Actions logged</string>
+    <string name="analytics_analytics_anstehend">Upcoming</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d days</string>
+    <string name="analytics_analytics_trend_stabil">-> Stable</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">Very bad</string>
+    <string name="analytics_analytics_mood_nicht_gut">Not so good</string>
+    <string name="analytics_analytics_mood_neutral">Neutral</string>
+    <string name="analytics_analytics_mood_gut">Good</string>
+    <string name="analytics_analytics_mood_sehr_gut">Very good</string>
+    <string name="analytics_analytics_mood_fantastisch">Fantastic</string>
+    <string name="analytics_analytics_7_tage">7 days</string>
+    <string name="analytics_analytics_30_tage">30 days</string>
+    <string name="analytics_analytics_letzte_7_tage">Last 7 days</string>
+    <string name="analytics_analytics_gewicht_verlauf">Weight Trend</string>
+    <string name="analytics_analytics_aktuell_kg">Current: %1$s kg</string>
+    <string name="analytics_analytics_gewicht_diff">Change: %1$s kg</string>
+    <string name="analytics_analytics_arbeitszeit_woche">Work Time This Week</string>
+    <string name="analytics_analytics_stunden_diese_woche">%1$s hours this week</string>
+    <string name="analytics_analytics_woche">Week</string>
+    <string name="analytics_analytics_monat">Month</string>
+    <string name="analytics_analytics_jahr">Year</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">No weight entries yet</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

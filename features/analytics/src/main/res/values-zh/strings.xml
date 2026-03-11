@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">总活动量</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">今天还没有情绪记录</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">还没有连续记录--快去打卡习惯或补剂吧！</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">还没有记录任何动作</string>
+    <string name="analytics_analytics_noch_nie">从未</string>
+    <string name="analytics_analytics_supplements">补剂</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ 下降趋势</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ 上升趋势</string>
+    <string name="analytics_analytics_uebung_auswaehlen">选择动作：</string>
+    
+    <string name="analytics_analytics_titel">数据分析</string>
+    <string name="analytics_analytics_streaks">连续记录</string>
+    <string name="analytics_analytics_nutrition_heute">今日营养</string>
+    <string name="analytics_analytics_kcal_format">%1$d 千卡</string>
+    <string name="analytics_analytics_protein">蛋白质</string>
+    <string name="analytics_analytics_carbs">碳水</string>
+    <string name="analytics_analytics_fett">脂肪</string>
+    <string name="analytics_analytics_gramm_format">%1$dg</string>
+    <string name="analytics_analytics_zuletzt">上次：%1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d 天</string>
+    <string name="analytics_analytics_habits">习惯</string>
+    <string name="analytics_analytics_gym_fortschritt">健身进展</string>
+    <string name="analytics_analytics_workouts_gesamt">共 %1$d 次训练</string>
+    <string name="analytics_analytics_letztes_workout">上次：%1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - 体重 (kg)</string>
+    <string name="analytics_analytics_mood_trend">情绪趋势</string>
+    <string name="analytics_analytics_heute_mood">今天：%1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">已记录操作</string>
+    <string name="analytics_analytics_anstehend">即将到来</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d 天</string>
+    <string name="analytics_analytics_trend_stabil">-> 稳定</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">很差</string>
+    <string name="analytics_analytics_mood_nicht_gut">不太好</string>
+    <string name="analytics_analytics_mood_neutral">一般</string>
+    <string name="analytics_analytics_mood_gut">好</string>
+    <string name="analytics_analytics_mood_sehr_gut">很好</string>
+    <string name="analytics_analytics_mood_fantastisch">极好</string>
+    <string name="analytics_analytics_7_tage">7天</string>
+    <string name="analytics_analytics_30_tage">30天</string>
+    <string name="analytics_analytics_letzte_7_tage">最近7天</string>
+    <string name="analytics_analytics_gewicht_verlauf">体重趋势</string>
+    <string name="analytics_analytics_aktuell_kg">当前：%1$s 公斤</string>
+    <string name="analytics_analytics_gewicht_diff">变化：%1$s 公斤</string>
+    <string name="analytics_analytics_arbeitszeit_woche">本周工时</string>
+    <string name="analytics_analytics_stunden_diese_woche">本周 %1$s 小时</string>
+    <string name="analytics_analytics_woche">周</string>
+    <string name="analytics_analytics_monat">月</string>
+    <string name="analytics_analytics_jahr">年</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">尚无体重记录</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

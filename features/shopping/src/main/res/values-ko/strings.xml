@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for shopping (KO) -->
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">완료 항목 삭제</string>
+    <string name="shopping_shopping_hinzufuegen">추가</string>
+    <string name="shopping_shopping_loeschen">삭제</string>
+    <string name="shopping_shopping_einkaufsliste">쇼핑 목록</string>
+    <string name="shopping_shopping_neuer_artikel">새 항목...</string>
+    <string name="shopping_shopping_erledigt">완료 (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">취소</string>
+    <string name="shopping_shopping_artikel_loeschen">항목 삭제</string>
+    <string name="shopping_shopping_artikel_loeschen_text">이 항목을 정말로 삭제하시겠습니까?</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">완료 항목 삭제</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">완료된 항목을 모두 삭제하시겠습니까?</string>
+    <string name="shopping_shopping_leer_titel">목록이 비어 있습니다</string>
+    <string name="shopping_shopping_leer_subtitel">위에서 첫 번째 항목을 추가하세요</string>
+</resources>

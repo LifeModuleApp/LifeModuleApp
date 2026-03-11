@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_capture_title">Beleg erfassen</string>
+    <string name="scanner_capture_take_photo">Foto aufnehmen</string>
+    <string name="scanner_camera_permission_required">Kamera-Berechtigung wird benötigt.</string>
+    <string name="scanner_capture_vendor">Händler / Geschäft</string>
+    <string name="scanner_capture_amount">Betrag (€)</string>
+    <string name="scanner_capture_vat_optional">MwSt (optional)</string>
+    <string name="scanner_capture_currency">Währung</string>
+    <string name="scanner_capture_category">Kategorie</string>
+    <string name="scanner_capture_notes_optional">Notizen (optional)</string>
+    <string name="scanner_capture_save">Speichern</string>
+    <string name="scanner_cat_groceries">Lebensmittel</string>
+    <string name="scanner_cat_restaurant">Restaurant</string>
+    <string name="scanner_cat_transport">Transport</string>
+    <string name="scanner_cat_health">Gesundheit</string>
+    <string name="scanner_cat_office">Büro</string>
+    <string name="scanner_cat_entertainment">Unterhaltung</string>
+    <string name="scanner_cat_clothing">Kleidung</string>
+    <string name="scanner_cat_electronics">Elektronik</string>
+    <string name="scanner_cat_subscription">Abonnement</string>
+    <string name="scanner_cat_insurance">Versicherung</string>
+    <string name="scanner_cat_tax">Steuer</string>
+    <string name="scanner_cat_other">Sonstige</string>
+    <string name="scanner_detail_title">Belegdetails</string>
+    <string name="scanner_detail_not_found">Beleg nicht gefunden.</string>
+    <string name="scanner_detail_captured_at">Erfasst: %s</string>
+    <string name="scanner_detail_finalized"> Finalisiert</string>
+    <string name="scanner_detail_vendor">Händler</string>
+    <string name="scanner_detail_amount">Betrag</string>
+    <string name="scanner_detail_vat_optional">MwSt (optional)</string>
+    <string name="scanner_detail_currency">Währung</string>
+    <string name="scanner_detail_category">Kategorie</string>
+    <string name="scanner_detail_notes_optional">Notizen (optional)</string>
+    <string name="scanner_detail_notes">Notizen</string>
+    <string name="scanner_detail_save_changes">Änderungen speichern</string>
+    <string name="scanner_detail_finalize">Beleg finalisieren</string>
+    <string name="scanner_camera_take_photo">Foto aufnehmen</string>
+    <string name="scanner_camera_not_ready">Kamera nicht bereit</string>
+</resources>

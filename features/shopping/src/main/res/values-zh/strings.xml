@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for shopping (ZH) -->
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">删除已勾选项</string>
+    <string name="shopping_shopping_hinzufuegen">添加</string>
+    <string name="shopping_shopping_loeschen">删除</string>
+    <string name="shopping_shopping_einkaufsliste">购物清单</string>
+    <string name="shopping_shopping_neuer_artikel">新物品...</string>
+    <string name="shopping_shopping_erledigt">已完成 (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">取消</string>
+    <string name="shopping_shopping_artikel_loeschen">删除物品</string>
+    <string name="shopping_shopping_artikel_loeschen_text">确定要删除这个物品吗？</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">删除已勾选项</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">确定要删除所有已勾选的物品吗？</string>
+    <string name="shopping_shopping_leer_titel">清单为空</string>
+    <string name="shopping_shopping_leer_subtitel">在上方添加你的第一个物品</string>
+</resources>

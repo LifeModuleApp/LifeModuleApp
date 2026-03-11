@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for core (NL) -->
+<resources>
+    <!-- Module categories -->
+    <string name="core_dashboard_gesundheit">Gezondheid</string>
+    <string name="core_dashboard_fitness">Fitness</string>
+    <string name="core_dashboard_lifestyle">Lifestyle</string>
+    <string name="core_dashboard_organisation">Organisatie</string>
+    <string name="core_dashboard_arbeit">Werk</string>
+    <string name="core_dashboard_system">Systeem</string>
+    <!-- Module display names -->
+    <string name="core_module_nutrition">Voeding</string>
+    <string name="core_module_supplements">Supplementen</string>
+    <string name="core_module_habits">Gewoonten</string>
+    <string name="core_module_mental_health">Mentale gezondheid</string>
+    <string name="core_module_gym">Gym Tracker</string>
+    <string name="core_module_weight">Gewicht</string>
+    <string name="core_module_calendar">Agenda</string>
+    <string name="core_module_schedule">Rooster</string>
+    <string name="core_module_work_time">Werktijd</string>
+    <string name="core_module_shopping">Boodschappenlijst</string>
+    <string name="core_module_analytics">Analyse</string>
+    <string name="core_module_health_connect">Health Connect</string>
+    <string name="core_module_logbook">Logbook</string>
+    <string name="core_module_scanner">Receipt Scanner</string>
+    <string name="core_module_recipes">Recipes</string>
+    <!-- Other core strings -->
+    <string name="core_navigation_coming_soon">Binnenkort beschikbaar...</string>
+    <!-- UI component strings -->
+    <string name="core_topbar_back">Terug</string>
+    <string name="core_topbar_menu">Menu</string>
+    <string name="core_fab_add">Toevoegen</string>
+    <!-- Notification channel names -->
+    <string name="core_notification_channel_calendar">Agendaherinneringen</string>
+    <string name="core_notification_channel_calendar_desc">Herinneringen voor agendagebeurtenissen</string>
+    <string name="core_notification_channel_schedule">Rooster</string>
+    <string name="core_notification_channel_schedule_desc">Herinneringen voor colleges &amp; cursussen</string>
+    <string name="core_notification_channel_supplements">Supplementen</string>
+    <string name="core_notification_channel_supplements_desc">Dagelijkse supplementherinneringen</string>
+    <string name="core_notification_channel_habits">Gewoonten</string>
+    <string name="core_notification_channel_habits_desc">Dagelijkse gewoonteherinneringen</string>
+    <string name="core_notification_fallback_title">Herinnering</string>
+    <!-- Notification content -->
+    <string name="core_notification_in_1_stunde">over 1 uur</string>
+    <string name="core_notification_morgen">morgen</string>
+    <string name="core_notification_in_einer_woche">over een week</string>
+    <string name="core_notification_in_x_min">over %1$d min</string>
+    <string name="core_notification_ganztaegig">Hele dag</string>
+    <string name="core_notification_calendar_body">%1$s - %2$s op %3$s</string>
+    <string name="core_notification_supplement_title">Supplementen</string>
+    <string name="core_notification_supplement_body">Heb je vandaag je supplementen ingenomen? 💊</string>
+    <string name="core_notification_habit_title">Gewoonten check</string>
+    <string name="core_notification_habit_body">Heb je vandaag alle gewoonten voltooid? </string>
+    <string name="core_notification_class_body">Over %1$d min in %2$s</string>
+    <!-- Export -->
+    <string name="core_export_subject">LifeModule Gegevensexport</string>
+    <string name="core_export_share_title">Export delen</string>
+    <!-- Backup -->
+    <string name="core_backup_share_subject">LifeModule Back-up</string>
+    <string name="core_backup_share_title">Back-up delen</string>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">設定</string>
+    <string name="app_dashboard_layout_bearbeiten">レイアウトを編集</string>
+    <string name="app_dashboard_module_verwalten">モジュールを管理</string>
+    <string name="app_dashboard_module_verwalten_1">モジュールを管理</string>
+    <string name="app_dashboard_rastergroesse">グリッドサイズ</string>
+    <string name="app_settings_1_stunde_vorher">1時間前</string>
+    <string name="app_settings_1_tag_vorher">1日前</string>
+    <string name="app_settings_1_woche_vorher">1週間前</string>
+    <string name="app_settings_abbrechen">キャンセル</string>
+    <string name="app_settings_aendern">変更</string>
+    <string name="app_settings_aktiviert">有効</string>
+    <string name="app_settings_alle">すべて</string>
+    <string name="app_settings_alle_daten_exportieren">すべてのデータをエクスポート</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">通知が拒否されました</string>
+    <string name="app_settings_badenwuerttemberg">🍇 バーデン＝ヴュルテンベルク</string>
+    <string name="app_settings_bayern">🏔️ バイエルン</string>
+    <string name="app_settings_brandenburg">🦅 ブランデンブルク</string>
+    <string name="app_settings_bundesland">連邦州</string>
+    <string name="app_settings_bundesland_waehlen">連邦州を選択</string>
+    <string name="app_settings_deaktiviert">無効</string>
+    <string name="app_settings_einstellungen">設定</string>
+    <string name="app_settings_exact_alarm_title">正確なリマインダーが無効</string>
+    <string name="app_settings_exact_alarm_desc">タップしてシステム設定で正確なアラームを許可してください。これがないとリマインダーが遅延する場合があります。</string>
+    <string name="app_settings_export_fehlgeschlagen">エクスポートに失敗しました</string>
+    <string name="app_settings_feiertage">祝日</string>
+    <string name="app_settings_feiertage_land">祝日の国</string>
+    <string name="app_settings_land_waehlen">国を選択</string>
+    <string name="app_settings_sprache">言語</string>
+    <string name="app_settings_sprache_waehlen">言語を選択</string>
+    <string name="app_settings_globale_akzentfarbe">グローバルアクセントカラー</string>
+    <string name="app_settings_habiterinnerung">習慣リマインダー</string>
+    <string name="app_settings_individuelle_farben_pro_modul">モジュールごとの個別カラー</string>
+    <string name="app_settings_kalender">カレンダー</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ メクレンブルク＝フォアポンメルン</string>
+    <string name="app_settings_modulfarben">モジュールカラー</string>
+    <string name="app_settings_niedersachsen">🐎 ニーダーザクセン</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ ノルトライン＝ヴェストファーレン</string>
+    <string name="app_settings_rheinlandpfalz">🍷 ラインラント＝プファルツ</string>
+    <string name="app_settings_saarland">🏭 ザールラント</string>
+    <string name="app_settings_sachsen">⛏️ ザクセン</string>
+    <string name="app_settings_sachsenanhalt">🏛️ ザクセン＝アンハルト</string>
+    <string name="app_settings_schleswigholstein">🌊 シュレースヴィヒ＝ホルシュタイン</string>
+    <string name="app_settings_stundenplan">時間割</string>
+    <string name="app_settings_supplementerinnerung">サプリメントリマインダー</string>
+    <string name="app_settings_supplements">サプリメント</string>
+    <string name="app_settings_taegliche_erinnerung_um">毎日のリマインダー時刻</string>
+    <string name="app_settings_thueringen">🏰 テューリンゲン</string>
+    <string name="app_settings_uebernehmen">適用</string>
+
+    
+    <string name="app_dashboard_logo">LifeModule ロゴ</string>
+    <string name="app_dashboard_fertig">完了</string>
+    <string name="app_dashboard_module">モジュール</string>
+
+    
+    <string name="app_debug_title">デバッグ · タイムトラベル</string>
+    <string name="app_debug_status_title">タイムトラベルステータス</string>
+    <string name="app_debug_provider">プロバイダー</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">仮想時刻</string>
+    <string name="app_debug_system_zeit">システム時刻</string>
+    <string name="app_debug_offset">オフセット</string>
+    <string name="app_debug_warning">TimeProviderがSystemTimeProviderです - タイムトラベルはデバッグビルドでのみ使用できます。</string>
+    <string name="app_debug_ziel_datum">目標日付を選択</string>
+    <string name="app_debug_ziel_uhrzeit">目標時刻を選択</string>
+    <string name="app_debug_anwenden">適用</string>
+    <string name="app_debug_zuruecksetzen">リセット</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 すべて（全国）</string>
+    <string name="app_settings_hessen">🏦 ヘッセン</string>
+    <string name="app_settings_berlin">🐻 ベルリン</string>
+    <string name="app_settings_hamburg">⚓ ハンブルク</string>
+    <string name="app_settings_bremen">🔑 ブレーメン</string>
+    <string name="app_settings_design_farben">デザイン &amp; カラー</string>
+    <string name="app_settings_global">グローバル</string>
+    <string name="app_settings_reset">リセット</string>
+    <string name="app_settings_benachrichtigungen">通知</string>
+    <string name="app_settings_push_benachrichtigungen">プッシュ通知</string>
+    <string name="app_settings_erinnerungen_vor_terminen">予定前のリマインダー:</string>
+    <string name="app_settings_erinnerung_min_vorher">%d 分前にリマインダー</string>
+    <string name="app_settings_uhrzeit_format">%s 時</string>
+    <string name="app_settings_habits">習慣</string>
+    <string name="app_settings_daten">データ</string>
+    <string name="app_settings_export_untertitel">Excel用CSVファイルのZIP · %d 件のエントリ</string>
+    
+    <string name="app_settings_backup">バックアップ</string>
+    <string name="app_settings_backup_erstellen">バックアップを作成</string>
+    <string name="app_settings_backup_erstellen_subtitle">すべてのデータをバックアップファイルとして保存</string>
+    <string name="app_settings_backup_fehlgeschlagen">バックアップに失敗しました</string>
+    <string name="app_settings_backup_erstellt">バックアップを作成しました</string>
+    <string name="app_settings_backup_wiederherstellen">バックアップを復元</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">バックアップファイルからすべてのデータを復元</string>
+    <string name="app_settings_google_backup">Googleバックアップ</string>
+    <string name="app_settings_google_backup_on">データはGoogleでバックアップされます</string>
+    <string name="app_settings_google_backup_off">Googleバックアップは無効です</string>
+    <string name="app_settings_backup_restore_confirm_title">バックアップを復元しますか？</string>
+    <string name="app_settings_backup_restore_confirm_text">現在のすべてのデータがバックアップに置き換えられます。この操作は元に戻せません！\n\n復元後、アプリが再起動します。</string>
+    <string name="app_settings_backup_restore_confirm">復元</string>
+    <string name="app_settings_backup_restore_success">バックアップを復元しました。アプリを再起動しています...</string>
+    <string name="app_settings_backup_restore_failed">復元に失敗しました。ファイルが無効か、新しいバージョンのものである可能性があります。</string>
+    <string name="app_settings_info">情報</string>
+    <string name="app_settings_app_beschreibung">v%s · 究極のライフトラッカー</string>
+    <string name="app_settings_entwickler">開発者</string>
+    <string name="app_settings_dev_already_unlocked">開発者オプションはすでに有効です</string>
+    <string name="app_settings_dev_unlocked">開発者オプションが有効になりました！</string>
+    <string name="app_settings_dev_steps_away">開発者オプションを有効にするにはあと %d 回タップ</string>
+    <string name="app_settings_time_travel">タイムトラベル</string>
+    <string name="app_settings_time_travel_subtitle">アプリの日付 &amp; 時刻を操作</string>
+    <string name="app_settings_reset_all_data">すべてのデータをリセット</string>
+    <string name="app_settings_reset_all_data_subtitle">すべてのローカルデータ &amp; 設定を削除</string>
+    <string name="app_settings_reset_confirm_text">ワークアウト、栄養、気分、習慣、カレンダー、体重、買い物、勤務時間、設定、環境設定を含むすべてのデータが完全に削除されます。この操作は元に戻せません！\n\nリセット後、アプリが再起動します。</string>
+    <string name="app_settings_reset_confirm">すべて削除</string>
+    <string name="app_settings_reset_success">すべてのデータが削除されました。アプリを再起動しています...</string>
+    <string name="app_settings_fertig">完了</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">デフォルトに戻す (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">時間割の時間枠</string>
+    <string name="app_settings_schedule_start_hour">開始: %d:00</string>
+    <string name="app_settings_schedule_end_hour">終了: %d:00</string>
+
+    
+    <string name="app_settings_sicherheit">セキュリティ</string>
+    <string name="app_settings_screenshot_schutz">スクリーンショット保護</string>
+    <string name="app_settings_screenshot_schutz_on">スクリーンショットと画面録画がブロックされています</string>
+    <string name="app_settings_screenshot_schutz_off">スクリーンショットと画面録画が許可されています</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

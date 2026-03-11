@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for shopping (HI) -->
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">चेक किए गए हटाएँ</string>
+    <string name="shopping_shopping_hinzufuegen">जोड़ें</string>
+    <string name="shopping_shopping_loeschen">हटाएँ</string>
+    <string name="shopping_shopping_einkaufsliste">खरीदारी सूची</string>
+    <string name="shopping_shopping_neuer_artikel">नया आइटम...</string>
+    <string name="shopping_shopping_erledigt">हो गया (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">रद्द करें</string>
+    <string name="shopping_shopping_artikel_loeschen">आइटम हटाएँ</string>
+    <string name="shopping_shopping_artikel_loeschen_text">क्या आप वाकई इस आइटम को हटाना चाहते हैं?</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">चेक किए गए हटाएँ</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">क्या आप सभी चेक किए गए आइटम हटाना चाहते हैं?</string>
+    <string name="shopping_shopping_leer_titel">सूची खाली है</string>
+    <string name="shopping_shopping_leer_subtitel">ऊपर अपना पहला आइटम जोड़ें</string>
+</resources>

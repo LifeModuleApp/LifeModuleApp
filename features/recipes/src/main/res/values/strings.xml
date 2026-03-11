@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RecipesScreen -->
+    <string name="recipes_title">Recipes</string>
+    <string name="recipes_fab_add">Add recipe</string>
+    <string name="recipes_empty">No recipes yet.</string>
+    <string name="recipes_servings">%d servings</string>
+    <string name="recipes_prep_time">Prep: %d min</string>
+    <string name="recipes_cook_time">Cook: %d min</string>
+    <string name="recipes_ingredient_count">%d ingredients</string>
+    <!-- Category labels -->
+    <string name="recipes_cat_baking">Baking</string>
+    <string name="recipes_cat_cooking">Cooking</string>
+    <string name="recipes_cat_grilling">Grilling</string>
+    <string name="recipes_cat_drinks">Drinks</string>
+    <string name="recipes_cat_raw">Raw food</string>
+    <string name="recipes_cat_other">Other</string>
+    <!-- AddRecipeScreen -->
+    <string name="recipes_add_title">Add recipe</string>
+    <string name="recipes_add_recipe_name">Recipe name</string>
+    <string name="recipes_add_category">Category</string>
+    <string name="recipes_add_servings">Servings</string>
+    <string name="recipes_add_prep_time">Prep time (min)</string>
+    <string name="recipes_add_cook_time">Cook time (min)</string>
+    <string name="recipes_add_instructions">Instructions</string>
+    <string name="recipes_add_ingredients_title">Ingredients</string>
+    <string name="recipes_add_ingredient">Ingredient</string>
+    <string name="recipes_add_quantity">Quantity</string>
+    <string name="recipes_add_unit">Unit</string>
+    <string name="recipes_add_ingredient_add">Add ingredient</string>
+    <string name="recipes_add_remove">Remove</string>
+    <string name="recipes_add_notes_optional">Notes (optional)</string>
+    <string name="recipes_add_save">Save</string>
+    <!-- RecipeDetailScreen -->
+    <string name="recipes_detail_title">Recipe details</string>
+    <string name="recipes_detail_not_found">Recipe not found.</string>
+    <string name="recipes_detail_servings">Servings</string>
+    <string name="recipes_detail_prep_time">Prep time</string>
+    <string name="recipes_detail_cook_time">Cook time</string>
+    <string name="recipes_detail_instructions">Instructions</string>
+    <string name="recipes_detail_ingredients">Ingredients</string>
+    <string name="recipes_detail_notes">Notes</string>
+    <string name="recipes_detail_delete">Delete recipe</string>
+    <string name="recipes_detail_delete_title">Delete recipe?</string>
+    <string name="recipes_detail_delete_text">\"%s\" will be permanently deleted.</string>
+    <string name="recipes_detail_delete_confirm">Delete</string>
+    <string name="recipes_detail_cancel">Cancel</string>
+</resources>

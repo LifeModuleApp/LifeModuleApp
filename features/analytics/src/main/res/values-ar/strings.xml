@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">النشاط الإجمالي</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">لا يوجد إدخال مزاج اليوم بعد</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">لا توجد سلاسل بعد - سجّل عادات أو مكملات!</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">لم تُسجّل تمارين بعد</string>
+    <string name="analytics_analytics_noch_nie">أبدًا</string>
+    <string name="analytics_analytics_supplements">المكملات</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ اتجاه هبوطي</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ اتجاه صعودي</string>
+    <string name="analytics_analytics_uebung_auswaehlen">اختر التمرين:</string>
+    
+    <string name="analytics_analytics_titel">التحليلات</string>
+    <string name="analytics_analytics_streaks">السلاسل</string>
+    <string name="analytics_analytics_nutrition_heute">التغذية اليوم</string>
+    <string name="analytics_analytics_kcal_format">%1$d سعرة</string>
+    <string name="analytics_analytics_protein">البروتين</string>
+    <string name="analytics_analytics_carbs">الكربوهيدرات</string>
+    <string name="analytics_analytics_fett">الدهون</string>
+    <string name="analytics_analytics_gramm_format">%1$dغ</string>
+    <string name="analytics_analytics_zuletzt">الأخير: %1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d يوم</string>
+    <string name="analytics_analytics_habits">العادات</string>
+    <string name="analytics_analytics_gym_fortschritt">تقدم الصالة الرياضية</string>
+    <string name="analytics_analytics_workouts_gesamt">%1$d تدريب إجمالي</string>
+    <string name="analytics_analytics_letztes_workout">الأخير: %1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - الوزن (كغ)</string>
+    <string name="analytics_analytics_mood_trend">اتجاه المزاج</string>
+    <string name="analytics_analytics_heute_mood">اليوم: %1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">الإجراءات المسجّلة</string>
+    <string name="analytics_analytics_anstehend">القادم</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d يوم</string>
+    <string name="analytics_analytics_trend_stabil">-> مستقر</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">سيئ جدًا</string>
+    <string name="analytics_analytics_mood_nicht_gut">ليس جيدًا</string>
+    <string name="analytics_analytics_mood_neutral">محايد</string>
+    <string name="analytics_analytics_mood_gut">جيد</string>
+    <string name="analytics_analytics_mood_sehr_gut">جيد جدًا</string>
+    <string name="analytics_analytics_mood_fantastisch">رائع</string>
+    <string name="analytics_analytics_7_tage">٧ أيام</string>
+    <string name="analytics_analytics_30_tage">٣٠ يوم</string>
+    <string name="analytics_analytics_letzte_7_tage">آخر ٧ أيام</string>
+    <string name="analytics_analytics_gewicht_verlauf">اتجاه الوزن</string>
+    <string name="analytics_analytics_aktuell_kg">الحالي: %1$s كغ</string>
+    <string name="analytics_analytics_gewicht_diff">التغيير: %1$s كغ</string>
+    <string name="analytics_analytics_arbeitszeit_woche">وقت العمل هذا الأسبوع</string>
+    <string name="analytics_analytics_stunden_diese_woche">%1$s ساعة هذا الأسبوع</string>
+    <string name="analytics_analytics_woche">أسبوع</string>
+    <string name="analytics_analytics_monat">شهر</string>
+    <string name="analytics_analytics_jahr">سنة</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">لا توجد إدخالات وزن بعد</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

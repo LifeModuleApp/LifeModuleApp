@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for shopping (DE) -->
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">Erledigte löschen</string>
+    <string name="shopping_shopping_hinzufuegen">Hinzufügen</string>
+    <string name="shopping_shopping_loeschen">Löschen</string>
+    <string name="shopping_shopping_einkaufsliste">Einkaufsliste</string>
+    <string name="shopping_shopping_neuer_artikel">Neuer Artikel...</string>
+    <string name="shopping_shopping_erledigt">Erledigt (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">Abbrechen</string>
+    <string name="shopping_shopping_artikel_loeschen">Artikel löschen</string>
+    <string name="shopping_shopping_artikel_loeschen_text">Möchtest du diesen Artikel wirklich löschen?</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">Erledigte löschen</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">Möchtest du alle erledigten Artikel löschen?</string>
+    <string name="shopping_shopping_leer_titel">Liste ist leer</string>
+    <string name="shopping_shopping_leer_subtitel">Füge oben deinen ersten Artikel hinzu</string>
+</resources>

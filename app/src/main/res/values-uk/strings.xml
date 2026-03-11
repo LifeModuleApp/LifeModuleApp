@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">Налаштування</string>
+    <string name="app_dashboard_layout_bearbeiten">Редагувати макет</string>
+    <string name="app_dashboard_module_verwalten">Керувати модулями</string>
+    <string name="app_dashboard_module_verwalten_1">Керувати модулями</string>
+    <string name="app_dashboard_rastergroesse">Розмір сітки</string>
+    <string name="app_settings_1_stunde_vorher">За 1 годину</string>
+    <string name="app_settings_1_tag_vorher">За 1 день</string>
+    <string name="app_settings_1_woche_vorher">За 1 тиждень</string>
+    <string name="app_settings_abbrechen">Скасувати</string>
+    <string name="app_settings_aendern">Змінити</string>
+    <string name="app_settings_aktiviert">Увімкнено</string>
+    <string name="app_settings_alle">Усі</string>
+    <string name="app_settings_alle_daten_exportieren">Експортувати всі дані</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">Сповіщення відхилено</string>
+    <string name="app_settings_badenwuerttemberg">🍇 Баден-Вюртемберг</string>
+    <string name="app_settings_bayern">🏔️ Баварія</string>
+    <string name="app_settings_brandenburg">🦅 Бранденбург</string>
+    <string name="app_settings_bundesland">Федеральна земля</string>
+    <string name="app_settings_bundesland_waehlen">Обрати федеральну землю</string>
+    <string name="app_settings_deaktiviert">Вимкнено</string>
+    <string name="app_settings_einstellungen">Налаштування</string>
+    <string name="app_settings_exact_alarm_title">Точні нагадування вимкнено</string>
+    <string name="app_settings_exact_alarm_desc">Натисніть, щоб дозволити точні будильники в налаштуваннях системи. Без цього нагадування можуть затримуватися.</string>
+    <string name="app_settings_export_fehlgeschlagen">Помилка експорту</string>
+    <string name="app_settings_feiertage">Свята</string>
+    <string name="app_settings_feiertage_land">Країна свят</string>
+    <string name="app_settings_land_waehlen">Обрати країну</string>
+    <string name="app_settings_sprache">Мова</string>
+    <string name="app_settings_sprache_waehlen">Обрати мову</string>
+    <string name="app_settings_globale_akzentfarbe">Глобальний акцентний колір</string>
+    <string name="app_settings_habiterinnerung">Нагадування про звички</string>
+    <string name="app_settings_individuelle_farben_pro_modul">Індивідуальні кольори для кожного модуля</string>
+    <string name="app_settings_kalender">Календар</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ Мекленбург-Передня Померанія</string>
+    <string name="app_settings_modulfarben">Кольори модулів</string>
+    <string name="app_settings_niedersachsen">🐎 Нижня Саксонія</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ Північний Рейн-Вестфалія</string>
+    <string name="app_settings_rheinlandpfalz">🍷 Рейнланд-Пфальц</string>
+    <string name="app_settings_saarland">🏭 Саарланд</string>
+    <string name="app_settings_sachsen">⛏️ Саксонія</string>
+    <string name="app_settings_sachsenanhalt">🏛️ Саксонія-Ангальт</string>
+    <string name="app_settings_schleswigholstein">🌊 Шлезвіг-Гольштейн</string>
+    <string name="app_settings_stundenplan">Розклад</string>
+    <string name="app_settings_supplementerinnerung">Нагадування про добавки</string>
+    <string name="app_settings_supplements">Добавки</string>
+    <string name="app_settings_taegliche_erinnerung_um">Щоденне нагадування о</string>
+    <string name="app_settings_thueringen">🏰 Тюрінгія</string>
+    <string name="app_settings_uebernehmen">Застосувати</string>
+
+    
+    <string name="app_dashboard_logo">Логотип LifeModule</string>
+    <string name="app_dashboard_fertig">Готово</string>
+    <string name="app_dashboard_module">Модулі</string>
+
+    
+    <string name="app_debug_title">Налагодження · Подорож у часі</string>
+    <string name="app_debug_status_title">Статус подорожі у часі</string>
+    <string name="app_debug_provider">Постачальник</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">Віртуальний час</string>
+    <string name="app_debug_system_zeit">Системний час</string>
+    <string name="app_debug_offset">Зсув</string>
+    <string name="app_debug_warning">TimeProvider - SystemTimeProvider - Подорож у часі доступна лише в налагоджувальних збірках.</string>
+    <string name="app_debug_ziel_datum">Обрати цільову дату</string>
+    <string name="app_debug_ziel_uhrzeit">Обрати цільовий час</string>
+    <string name="app_debug_anwenden">Застосувати</string>
+    <string name="app_debug_zuruecksetzen">Скинути</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 Усі (по всій країні)</string>
+    <string name="app_settings_hessen">🏦 Гессен</string>
+    <string name="app_settings_berlin">🐻 Берлін</string>
+    <string name="app_settings_hamburg">⚓ Гамбург</string>
+    <string name="app_settings_bremen">🔑 Бремен</string>
+    <string name="app_settings_design_farben">Дизайн &amp; Кольори</string>
+    <string name="app_settings_global">Глобальний</string>
+    <string name="app_settings_reset">Скинути</string>
+    <string name="app_settings_benachrichtigungen">Сповіщення</string>
+    <string name="app_settings_push_benachrichtigungen">Push-сповіщення</string>
+    <string name="app_settings_erinnerungen_vor_terminen">Нагадування перед подіями:</string>
+    <string name="app_settings_erinnerung_min_vorher">Нагадування за %d хв</string>
+    <string name="app_settings_uhrzeit_format">%s год</string>
+    <string name="app_settings_habits">Звички</string>
+    <string name="app_settings_daten">Дані</string>
+    <string name="app_settings_export_untertitel">ZIP з CSV-файлами для Excel · %d записів</string>
+    
+    <string name="app_settings_backup">Резервна копія</string>
+    <string name="app_settings_backup_erstellen">Створити резервну копію</string>
+    <string name="app_settings_backup_erstellen_subtitle">Зберегти всі дані як файл резервної копії</string>
+    <string name="app_settings_backup_fehlgeschlagen">Резервне копіювання не вдалося</string>
+    <string name="app_settings_backup_erstellt">Резервну копію створено</string>
+    <string name="app_settings_backup_wiederherstellen">Відновити резервну копію</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">Відновити всі дані з файлу резервної копії</string>
+    <string name="app_settings_google_backup">Резервне копіювання Google</string>
+    <string name="app_settings_google_backup_on">Ваші дані зберігаються через Google</string>
+    <string name="app_settings_google_backup_off">Резервне копіювання через Google вимкнено</string>
+    <string name="app_settings_backup_restore_confirm_title">Відновити резервну копію?</string>
+    <string name="app_settings_backup_restore_confirm_text">Це замінить УСІ поточні дані резервною копією. Цю дію неможливо скасувати!\n\nПісля відновлення застосунок перезапуститься.</string>
+    <string name="app_settings_backup_restore_confirm">Відновити</string>
+    <string name="app_settings_backup_restore_success">Резервну копію відновлено. Застосунок перезапускається...</string>
+    <string name="app_settings_backup_restore_failed">Відновлення не вдалося. Файл може бути недійсним або з новішої версії.</string>
+    <string name="app_settings_info">Інформація</string>
+    <string name="app_settings_app_beschreibung">v%s · Універсальний трекер життя</string>
+    <string name="app_settings_entwickler">Розробник</string>
+    <string name="app_settings_dev_already_unlocked">Параметри розробника вже розблоковано</string>
+    <string name="app_settings_dev_unlocked">Параметри розробника розблоковано!</string>
+    <string name="app_settings_dev_steps_away">%d натискань до розблокування параметрів розробника</string>
+    <string name="app_settings_time_travel">Подорож у часі</string>
+    <string name="app_settings_time_travel_subtitle">Керувати датою &amp; часом застосунку</string>
+    <string name="app_settings_reset_all_data">Скинути всі дані</string>
+    <string name="app_settings_reset_all_data_subtitle">Видалити всі локальні дані &amp; налаштування</string>
+    <string name="app_settings_reset_confirm_text">Це назавжди видалить УСІ дані (тренування, харчування, настрій, звички, календар, вагу, покупки, робочий час, налаштування та параметри). Цю дію неможливо скасувати!\n\nПісля скидання застосунок перезапуститься.</string>
+    <string name="app_settings_reset_confirm">Видалити все</string>
+    <string name="app_settings_reset_success">Усі дані видалено. Застосунок перезапускається...</string>
+    <string name="app_settings_fertig">Готово</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">Відновити за замовчуванням (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">Години розкладу</string>
+    <string name="app_settings_schedule_start_hour">Початок: %d:00</string>
+    <string name="app_settings_schedule_end_hour">Кінець: %d:00</string>
+
+    
+    <string name="app_settings_sicherheit">Безпека</string>
+    <string name="app_settings_screenshot_schutz">Захист від скріншотів</string>
+    <string name="app_settings_screenshot_schutz_on">Скріншоти та запис екрана заблоковані</string>
+    <string name="app_settings_screenshot_schutz_off">Скріншоти та запис екрана дозволені</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

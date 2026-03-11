@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for core (TR) -->
+<resources>
+    <!-- Module categories -->
+    <string name="core_dashboard_gesundheit">Sağlık</string>
+    <string name="core_dashboard_fitness">Fitness</string>
+    <string name="core_dashboard_lifestyle">Yaşam Tarzı</string>
+    <string name="core_dashboard_organisation">Organizasyon</string>
+    <string name="core_dashboard_arbeit">İş</string>
+    <string name="core_dashboard_system">Sistem</string>
+    <!-- Module display names -->
+    <string name="core_module_nutrition">Beslenme</string>
+    <string name="core_module_supplements">Takviyeler</string>
+    <string name="core_module_habits">Alışkanlıklar</string>
+    <string name="core_module_mental_health">Ruh Sağlığı</string>
+    <string name="core_module_gym">Spor Salonu Takibi</string>
+    <string name="core_module_weight">Kilo</string>
+    <string name="core_module_calendar">Takvim</string>
+    <string name="core_module_schedule">Ders Programı</string>
+    <string name="core_module_work_time">Çalışma Süresi</string>
+    <string name="core_module_shopping">Alışveriş Listesi</string>
+    <string name="core_module_analytics">Analiz</string>
+    <string name="core_module_health_connect">Health Connect</string>
+    <string name="core_module_logbook">Logbook</string>
+    <string name="core_module_scanner">Receipt Scanner</string>
+    <string name="core_module_recipes">Recipes</string>
+    <!-- Other core strings -->
+    <string name="core_navigation_coming_soon">Yakında...</string>
+    <!-- UI component strings -->
+    <string name="core_topbar_back">Geri</string>
+    <string name="core_topbar_menu">Menü</string>
+    <string name="core_fab_add">Ekle</string>
+    <!-- Notification channel names -->
+    <string name="core_notification_channel_calendar">Takvim hatırlatıcıları</string>
+    <string name="core_notification_channel_calendar_desc">Takvim etkinlikleri için hatırlatmalar</string>
+    <string name="core_notification_channel_schedule">Ders programı</string>
+    <string name="core_notification_channel_schedule_desc">Dersler &amp; kurslar için hatırlatmalar</string>
+    <string name="core_notification_channel_supplements">Takviyeler</string>
+    <string name="core_notification_channel_supplements_desc">Günlük takviye hatırlatıcıları</string>
+    <string name="core_notification_channel_habits">Alışkanlıklar</string>
+    <string name="core_notification_channel_habits_desc">Günlük alışkanlık hatırlatıcıları</string>
+    <string name="core_notification_fallback_title">Hatırlatma</string>
+    <!-- Notification content -->
+    <string name="core_notification_in_1_stunde">1 saat içinde</string>
+    <string name="core_notification_morgen">yarın</string>
+    <string name="core_notification_in_einer_woche">bir hafta içinde</string>
+    <string name="core_notification_in_x_min">%1$d dk içinde</string>
+    <string name="core_notification_ganztaegig">Tüm gün</string>
+    <string name="core_notification_calendar_body">%1$s - %2$s, %3$s</string>
+    <string name="core_notification_supplement_title">Takviyeler</string>
+    <string name="core_notification_supplement_body">Bugün takviyelerinizi aldınız mı? 💊</string>
+    <string name="core_notification_habit_title">Alışkanlık Kontrolü</string>
+    <string name="core_notification_habit_body">Bugün tüm alışkanlıklarınızı tamamladınız mı? </string>
+    <string name="core_notification_class_body">%1$d dk içinde %2$s\'de</string>
+    <!-- Export -->
+    <string name="core_export_subject">LifeModule Veri Dışa Aktarımı</string>
+    <string name="core_export_share_title">Dışa aktarımı paylaş</string>
+    <!-- Backup -->
+    <string name="core_backup_share_subject">LifeModule Yedek</string>
+    <string name="core_backup_share_title">Yedeği paylaş</string>
+</resources>

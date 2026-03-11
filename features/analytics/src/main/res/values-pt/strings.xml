@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">Atividade total</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">Nenhum registro de humor hoje ainda</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">Nenhuma sequência ainda - registre hábitos ou suplementos!</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">Nenhum exercício registrado ainda</string>
+    <string name="analytics_analytics_noch_nie">Nunca</string>
+    <string name="analytics_analytics_supplements">Suplementos</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ Tendência de queda</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ Tendência de alta</string>
+    <string name="analytics_analytics_uebung_auswaehlen">Selecionar exercício:</string>
+    
+    <string name="analytics_analytics_titel">Análises</string>
+    <string name="analytics_analytics_streaks">Sequências</string>
+    <string name="analytics_analytics_nutrition_heute">Nutrição Hoje</string>
+    <string name="analytics_analytics_kcal_format">%1$d kcal</string>
+    <string name="analytics_analytics_protein">Proteína</string>
+    <string name="analytics_analytics_carbs">Carboidratos</string>
+    <string name="analytics_analytics_fett">Gordura</string>
+    <string name="analytics_analytics_gramm_format">%1$dg</string>
+    <string name="analytics_analytics_zuletzt">Último: %1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d dias</string>
+    <string name="analytics_analytics_habits">Hábitos</string>
+    <string name="analytics_analytics_gym_fortschritt">Progresso na Academia</string>
+    <string name="analytics_analytics_workouts_gesamt">%1$d treinos no total</string>
+    <string name="analytics_analytics_letztes_workout">Último: %1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - Peso (kg)</string>
+    <string name="analytics_analytics_mood_trend">Tendência de Humor</string>
+    <string name="analytics_analytics_heute_mood">Hoje: %1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">Ações registradas</string>
+    <string name="analytics_analytics_anstehend">Próximos</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d dias</string>
+    <string name="analytics_analytics_trend_stabil">-> Estável</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">Muito ruim</string>
+    <string name="analytics_analytics_mood_nicht_gut">Não tão bom</string>
+    <string name="analytics_analytics_mood_neutral">Neutro</string>
+    <string name="analytics_analytics_mood_gut">Bom</string>
+    <string name="analytics_analytics_mood_sehr_gut">Muito bom</string>
+    <string name="analytics_analytics_mood_fantastisch">Fantástico</string>
+    <string name="analytics_analytics_7_tage">7 dias</string>
+    <string name="analytics_analytics_30_tage">30 dias</string>
+    <string name="analytics_analytics_letzte_7_tage">Últimos 7 dias</string>
+    <string name="analytics_analytics_gewicht_verlauf">Tendência de Peso</string>
+    <string name="analytics_analytics_aktuell_kg">Atual: %1$s kg</string>
+    <string name="analytics_analytics_gewicht_diff">Variação: %1$s kg</string>
+    <string name="analytics_analytics_arbeitszeit_woche">Tempo de Trabalho Esta Semana</string>
+    <string name="analytics_analytics_stunden_diese_woche">%1$s horas esta semana</string>
+    <string name="analytics_analytics_woche">Semana</string>
+    <string name="analytics_analytics_monat">Mês</string>
+    <string name="analytics_analytics_jahr">Ano</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">Nenhuma entrada de peso ainda</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

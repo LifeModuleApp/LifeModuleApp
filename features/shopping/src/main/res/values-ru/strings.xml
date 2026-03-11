@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for shopping (RU) -->
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">Удалить отмеченные</string>
+    <string name="shopping_shopping_hinzufuegen">Добавить</string>
+    <string name="shopping_shopping_loeschen">Удалить</string>
+    <string name="shopping_shopping_einkaufsliste">Список покупок</string>
+    <string name="shopping_shopping_neuer_artikel">Новый товар...</string>
+    <string name="shopping_shopping_erledigt">Выполнено (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">Отмена</string>
+    <string name="shopping_shopping_artikel_loeschen">Удалить товар</string>
+    <string name="shopping_shopping_artikel_loeschen_text">Вы действительно хотите удалить этот товар?</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">Удалить отмеченные</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">Хотите удалить все отмеченные товары?</string>
+    <string name="shopping_shopping_leer_titel">Список пуст</string>
+    <string name="shopping_shopping_leer_subtitel">Добавьте первый товар выше</string>
+</resources>

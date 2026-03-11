@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for core (AR) -->
+<resources>
+    <!-- Module categories -->
+    <string name="core_dashboard_gesundheit">الصحة</string>
+    <string name="core_dashboard_fitness">اللياقة</string>
+    <string name="core_dashboard_lifestyle">نمط الحياة</string>
+    <string name="core_dashboard_organisation">التنظيم</string>
+    <string name="core_dashboard_arbeit">العمل</string>
+    <string name="core_dashboard_system">النظام</string>
+    <!-- Module display names -->
+    <string name="core_module_nutrition">التغذية</string>
+    <string name="core_module_supplements">المكملات</string>
+    <string name="core_module_habits">العادات</string>
+    <string name="core_module_mental_health">الصحة النفسية</string>
+    <string name="core_module_gym">متتبع الصالة الرياضية</string>
+    <string name="core_module_weight">الوزن</string>
+    <string name="core_module_calendar">التقويم</string>
+    <string name="core_module_schedule">الجدول الدراسي</string>
+    <string name="core_module_work_time">وقت العمل</string>
+    <string name="core_module_shopping">قائمة التسوق</string>
+    <string name="core_module_analytics">التحليلات</string>
+    <string name="core_module_health_connect">Health Connect</string>
+    <string name="core_module_logbook">Logbook</string>
+    <string name="core_module_scanner">Receipt Scanner</string>
+    <string name="core_module_recipes">Recipes</string>
+    <!-- Other core strings -->
+    <string name="core_navigation_coming_soon">قريبًا...</string>
+    <!-- UI component strings -->
+    <string name="core_topbar_back">رجوع</string>
+    <string name="core_topbar_menu">القائمة</string>
+    <string name="core_fab_add">إضافة</string>
+    <!-- Notification channel names -->
+    <string name="core_notification_channel_calendar">تذكيرات التقويم</string>
+    <string name="core_notification_channel_calendar_desc">تذكيرات لأحداث التقويم</string>
+    <string name="core_notification_channel_schedule">الجدول الدراسي</string>
+    <string name="core_notification_channel_schedule_desc">تذكيرات للمحاضرات &amp; الدورات</string>
+    <string name="core_notification_channel_supplements">المكملات</string>
+    <string name="core_notification_channel_supplements_desc">تذكيرات يومية بالمكملات</string>
+    <string name="core_notification_channel_habits">العادات</string>
+    <string name="core_notification_channel_habits_desc">تذكيرات يومية بالعادات</string>
+    <string name="core_notification_fallback_title">تذكير</string>
+    <!-- Notification content -->
+    <string name="core_notification_in_1_stunde">خلال ساعة واحدة</string>
+    <string name="core_notification_morgen">غدًا</string>
+    <string name="core_notification_in_einer_woche">خلال أسبوع واحد</string>
+    <string name="core_notification_in_x_min">خلال %1$d دقيقة</string>
+    <string name="core_notification_ganztaegig">طوال اليوم</string>
+    <string name="core_notification_calendar_body">%1$s - %2$s في %3$s</string>
+    <string name="core_notification_supplement_title">المكملات</string>
+    <string name="core_notification_supplement_body">هل تناولت مكملاتك اليوم؟ 💊</string>
+    <string name="core_notification_habit_title">مراجعة العادات</string>
+    <string name="core_notification_habit_body">هل أتممت جميع عاداتك اليوم؟ </string>
+    <string name="core_notification_class_body">خلال %1$d دقيقة في %2$s</string>
+    <!-- Export -->
+    <string name="core_export_subject">تصدير بيانات LifeModule</string>
+    <string name="core_export_share_title">مشاركة التصدير</string>
+    <!-- Backup -->
+    <string name="core_backup_share_subject">نسخة احتياطية من LifeModule</string>
+    <string name="core_backup_share_title">مشاركة النسخة الاحتياطية</string>
+</resources>

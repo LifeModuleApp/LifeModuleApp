@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for core (UK) -->
+<resources>
+    <!-- Module categories -->
+    <string name="core_dashboard_gesundheit">Здоров\'я</string>
+    <string name="core_dashboard_fitness">Фітнес</string>
+    <string name="core_dashboard_lifestyle">Спосіб життя</string>
+    <string name="core_dashboard_organisation">Організація</string>
+    <string name="core_dashboard_arbeit">Робота</string>
+    <string name="core_dashboard_system">Система</string>
+    <!-- Module display names -->
+    <string name="core_module_nutrition">Харчування</string>
+    <string name="core_module_supplements">Добавки</string>
+    <string name="core_module_habits">Звички</string>
+    <string name="core_module_mental_health">Психічне здоров\'я</string>
+    <string name="core_module_gym">Тренажерна зала</string>
+    <string name="core_module_weight">Вага</string>
+    <string name="core_module_calendar">Календар</string>
+    <string name="core_module_schedule">Розклад</string>
+    <string name="core_module_work_time">Робочий час</string>
+    <string name="core_module_shopping">Список покупок</string>
+    <string name="core_module_analytics">Аналітика</string>
+    <string name="core_module_health_connect">Health Connect</string>
+    <string name="core_module_logbook">Logbook</string>
+    <string name="core_module_scanner">Receipt Scanner</string>
+    <string name="core_module_recipes">Recipes</string>
+    <!-- Other core strings -->
+    <string name="core_navigation_coming_soon">Незабаром...</string>
+    <!-- UI component strings -->
+    <string name="core_topbar_back">Назад</string>
+    <string name="core_topbar_menu">Меню</string>
+    <string name="core_fab_add">Додати</string>
+    <!-- Notification channel names -->
+    <string name="core_notification_channel_calendar">Нагадування календаря</string>
+    <string name="core_notification_channel_calendar_desc">Нагадування про події календаря</string>
+    <string name="core_notification_channel_schedule">Розклад</string>
+    <string name="core_notification_channel_schedule_desc">Нагадування про лекції &amp; курси</string>
+    <string name="core_notification_channel_supplements">Добавки</string>
+    <string name="core_notification_channel_supplements_desc">Щоденні нагадування про добавки</string>
+    <string name="core_notification_channel_habits">Звички</string>
+    <string name="core_notification_channel_habits_desc">Щоденні нагадування про звички</string>
+    <string name="core_notification_fallback_title">Нагадування</string>
+    <!-- Notification content -->
+    <string name="core_notification_in_1_stunde">через 1 годину</string>
+    <string name="core_notification_morgen">завтра</string>
+    <string name="core_notification_in_einer_woche">через один тиждень</string>
+    <string name="core_notification_in_x_min">через %1$d хв</string>
+    <string name="core_notification_ganztaegig">Весь день</string>
+    <string name="core_notification_calendar_body">%1$s - %2$s о %3$s</string>
+    <string name="core_notification_supplement_title">Добавки</string>
+    <string name="core_notification_supplement_body">Ви прийняли свої добавки сьогодні? 💊</string>
+    <string name="core_notification_habit_title">Перевірка звичок</string>
+    <string name="core_notification_habit_body">Ви виконали всі звички сьогодні? </string>
+    <string name="core_notification_class_body">Через %1$d хв у %2$s</string>
+    <!-- Export -->
+    <string name="core_export_subject">Експорт даних LifeModule</string>
+    <string name="core_export_share_title">Поділитися експортом</string>
+    <!-- Backup -->
+    <string name="core_backup_share_subject">Резервна копія LifeModule</string>
+    <string name="core_backup_share_title">Поділитися резервною копією</string>
+</resources>

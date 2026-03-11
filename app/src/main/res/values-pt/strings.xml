@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">Configurações</string>
+    <string name="app_dashboard_layout_bearbeiten">Editar layout</string>
+    <string name="app_dashboard_module_verwalten">Gerenciar módulos</string>
+    <string name="app_dashboard_module_verwalten_1">Gerenciar módulos</string>
+    <string name="app_dashboard_rastergroesse">Tamanho da grade</string>
+    <string name="app_settings_1_stunde_vorher">1 hora antes</string>
+    <string name="app_settings_1_tag_vorher">1 dia antes</string>
+    <string name="app_settings_1_woche_vorher">1 semana antes</string>
+    <string name="app_settings_abbrechen">Cancelar</string>
+    <string name="app_settings_aendern">Alterar</string>
+    <string name="app_settings_aktiviert">Ativado</string>
+    <string name="app_settings_alle">Todos</string>
+    <string name="app_settings_alle_daten_exportieren">Exportar todos os dados</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">Notificações foram negadas</string>
+    <string name="app_settings_badenwuerttemberg">🍇 Baden-Württemberg</string>
+    <string name="app_settings_bayern">🏔️ Baviera</string>
+    <string name="app_settings_brandenburg">🦅 Brandemburgo</string>
+    <string name="app_settings_bundesland">Estado federal</string>
+    <string name="app_settings_bundesland_waehlen">Escolher estado federal</string>
+    <string name="app_settings_deaktiviert">Desativado</string>
+    <string name="app_settings_einstellungen">Configurações</string>
+    <string name="app_settings_exact_alarm_title">Lembretes exatos desativados</string>
+    <string name="app_settings_exact_alarm_desc">Toque para permitir alarmes exatos nas configurações do sistema. Sem isso, os lembretes podem atrasar.</string>
+    <string name="app_settings_export_fehlgeschlagen">Exportação falhou</string>
+    <string name="app_settings_feiertage">Feriados</string>
+    <string name="app_settings_feiertage_land">País dos feriados</string>
+    <string name="app_settings_land_waehlen">Escolher país</string>
+    <string name="app_settings_sprache">Idioma</string>
+    <string name="app_settings_sprache_waehlen">Escolher idioma</string>
+    <string name="app_settings_globale_akzentfarbe">Cor de destaque global</string>
+    <string name="app_settings_habiterinnerung">Lembrete de hábitos</string>
+    <string name="app_settings_individuelle_farben_pro_modul">Cores individuais por módulo</string>
+    <string name="app_settings_kalender">Calendário</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ Mecklemburgo-Pomerânia Ocidental</string>
+    <string name="app_settings_modulfarben">Cores dos módulos</string>
+    <string name="app_settings_niedersachsen">🐎 Baixa Saxônia</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ Renânia do Norte-Vestfália</string>
+    <string name="app_settings_rheinlandpfalz">🍷 Renânia-Palatinado</string>
+    <string name="app_settings_saarland">🏭 Sarre</string>
+    <string name="app_settings_sachsen">⛏️ Saxônia</string>
+    <string name="app_settings_sachsenanhalt">🏛️ Saxônia-Anhalt</string>
+    <string name="app_settings_schleswigholstein">🌊 Schleswig-Holstein</string>
+    <string name="app_settings_stundenplan">Horário</string>
+    <string name="app_settings_supplementerinnerung">Lembrete de suplementos</string>
+    <string name="app_settings_supplements">Suplementos</string>
+    <string name="app_settings_taegliche_erinnerung_um">Lembrete diário às</string>
+    <string name="app_settings_thueringen">🏰 Turíngia</string>
+    <string name="app_settings_uebernehmen">Aplicar</string>
+
+    
+    <string name="app_dashboard_logo">Logo do LifeModule</string>
+    <string name="app_dashboard_fertig">Concluído</string>
+    <string name="app_dashboard_module">Módulos</string>
+
+    
+    <string name="app_debug_title">Debug · Viagem no Tempo</string>
+    <string name="app_debug_status_title">Status da Viagem no Tempo</string>
+    <string name="app_debug_provider">Provedor</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">Hora Virtual</string>
+    <string name="app_debug_system_zeit">Hora do Sistema</string>
+    <string name="app_debug_offset">Deslocamento</string>
+    <string name="app_debug_warning">TimeProvider é SystemTimeProvider - Viagem no Tempo só está disponível em builds de debug.</string>
+    <string name="app_debug_ziel_datum">Escolher data alvo</string>
+    <string name="app_debug_ziel_uhrzeit">Escolher hora alvo</string>
+    <string name="app_debug_anwenden">Aplicar</string>
+    <string name="app_debug_zuruecksetzen">Redefinir</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 Todos (nacional)</string>
+    <string name="app_settings_hessen">🏦 Hesse</string>
+    <string name="app_settings_berlin">🐻 Berlim</string>
+    <string name="app_settings_hamburg">⚓ Hamburgo</string>
+    <string name="app_settings_bremen">🔑 Bremen</string>
+    <string name="app_settings_design_farben">Design &amp; Cores</string>
+    <string name="app_settings_global">Global</string>
+    <string name="app_settings_reset">Redefinir</string>
+    <string name="app_settings_benachrichtigungen">Notificações</string>
+    <string name="app_settings_push_benachrichtigungen">Notificações push</string>
+    <string name="app_settings_erinnerungen_vor_terminen">Lembretes antes de eventos:</string>
+    <string name="app_settings_erinnerung_min_vorher">Lembrete %d min antes</string>
+    <string name="app_settings_uhrzeit_format">%s horas</string>
+    <string name="app_settings_habits">Hábitos</string>
+    <string name="app_settings_daten">Dados</string>
+    <string name="app_settings_export_untertitel">ZIP com arquivos CSV para Excel · %d registros</string>
+    
+    <string name="app_settings_backup">Backup</string>
+    <string name="app_settings_backup_erstellen">Criar backup</string>
+    <string name="app_settings_backup_erstellen_subtitle">Salvar todos os dados como arquivo de backup</string>
+    <string name="app_settings_backup_fehlgeschlagen">Backup falhou</string>
+    <string name="app_settings_backup_erstellt">Backup criado</string>
+    <string name="app_settings_backup_wiederherstellen">Restaurar backup</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">Restaurar todos os dados de um arquivo de backup</string>
+    <string name="app_settings_google_backup">Backup do Google</string>
+    <string name="app_settings_google_backup_on">Seus dados são salvos pelo Google</string>
+    <string name="app_settings_google_backup_off">O backup pelo Google está desativado</string>
+    <string name="app_settings_backup_restore_confirm_title">Restaurar backup?</string>
+    <string name="app_settings_backup_restore_confirm_text">Isso substituirá TODOS os dados atuais pelo backup. Esta ação não pode ser desfeita!\n\nO app será reiniciado após a restauração.</string>
+    <string name="app_settings_backup_restore_confirm">Restaurar</string>
+    <string name="app_settings_backup_restore_success">Backup restaurado. O app está reiniciando...</string>
+    <string name="app_settings_backup_restore_failed">Restauração falhou. O arquivo pode ser inválido ou de uma versão mais recente.</string>
+    <string name="app_settings_info">Info</string>
+    <string name="app_settings_app_beschreibung">v%s · Rastreador de Vida Definitivo</string>
+    <string name="app_settings_entwickler">Desenvolvedor</string>
+    <string name="app_settings_dev_already_unlocked">Opções de desenvolvedor já desbloqueadas</string>
+    <string name="app_settings_dev_unlocked">Opções de desenvolvedor desbloqueadas!</string>
+    <string name="app_settings_dev_steps_away">%d toques para desbloquear opções de desenvolvedor</string>
+    <string name="app_settings_time_travel">Viagem no Tempo</string>
+    <string name="app_settings_time_travel_subtitle">Manipular a data &amp; hora do app</string>
+    <string name="app_settings_reset_all_data">Redefinir todos os dados</string>
+    <string name="app_settings_reset_all_data_subtitle">Excluir todos os dados &amp; configurações locais</string>
+    <string name="app_settings_reset_confirm_text">Isso excluirá permanentemente TODOS os dados (treinos, nutrição, humor, hábitos, calendário, peso, compras, tempo de trabalho, configurações e preferências). Isso não pode ser desfeito!\n\nO app será reiniciado após a redefinição.</string>
+    <string name="app_settings_reset_confirm">Excluir tudo</string>
+    <string name="app_settings_reset_success">Todos os dados foram excluídos. O app está reiniciando...</string>
+    <string name="app_settings_fertig">Concluído</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">Restaurar padrão (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">Horários do cronograma</string>
+    <string name="app_settings_schedule_start_hour">Início: %d:00</string>
+    <string name="app_settings_schedule_end_hour">Fim: %d:00</string>
+
+    
+    <string name="app_settings_sicherheit">Segurança</string>
+    <string name="app_settings_screenshot_schutz">Proteção de capturas</string>
+    <string name="app_settings_screenshot_schutz_on">Capturas de tela e gravações de tela estão bloqueadas</string>
+    <string name="app_settings_screenshot_schutz_off">Capturas de tela e gravações de tela são permitidas</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

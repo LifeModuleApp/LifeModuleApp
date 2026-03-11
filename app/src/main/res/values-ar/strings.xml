@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">الإعدادات</string>
+    <string name="app_dashboard_layout_bearbeiten">تعديل التخطيط</string>
+    <string name="app_dashboard_module_verwalten">إدارة الوحدات</string>
+    <string name="app_dashboard_module_verwalten_1">إدارة الوحدات</string>
+    <string name="app_dashboard_rastergroesse">حجم الشبكة</string>
+    <string name="app_settings_1_stunde_vorher">قبل ساعة واحدة</string>
+    <string name="app_settings_1_tag_vorher">قبل يوم واحد</string>
+    <string name="app_settings_1_woche_vorher">قبل أسبوع واحد</string>
+    <string name="app_settings_abbrechen">إلغاء</string>
+    <string name="app_settings_aendern">تغيير</string>
+    <string name="app_settings_aktiviert">مُفعّل</string>
+    <string name="app_settings_alle">الكل</string>
+    <string name="app_settings_alle_daten_exportieren">تصدير جميع البيانات</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">تم رفض الإشعارات</string>
+    <string name="app_settings_badenwuerttemberg">🍇 بادن-فورتمبيرغ</string>
+    <string name="app_settings_bayern">🏔️ بافاريا</string>
+    <string name="app_settings_brandenburg">🦅 براندنبورغ</string>
+    <string name="app_settings_bundesland">الولاية</string>
+    <string name="app_settings_bundesland_waehlen">اختر الولاية</string>
+    <string name="app_settings_deaktiviert">مُعطّل</string>
+    <string name="app_settings_einstellungen">الإعدادات</string>
+    <string name="app_settings_exact_alarm_title">التذكيرات الدقيقة معطلة</string>
+    <string name="app_settings_exact_alarm_desc">انقر للسماح بالمنبهات الدقيقة في إعدادات النظام. بدون ذلك قد تتأخر التذكيرات.</string>
+    <string name="app_settings_export_fehlgeschlagen">فشل التصدير</string>
+    <string name="app_settings_feiertage">العطل الرسمية</string>
+    <string name="app_settings_feiertage_land">بلد العطل الرسمية</string>
+    <string name="app_settings_land_waehlen">اختر البلد</string>
+    <string name="app_settings_sprache">اللغة</string>
+    <string name="app_settings_sprache_waehlen">اختر اللغة</string>
+    <string name="app_settings_globale_akzentfarbe">لون التمييز العام</string>
+    <string name="app_settings_habiterinnerung">تذكير العادات</string>
+    <string name="app_settings_individuelle_farben_pro_modul">ألوان فردية لكل وحدة</string>
+    <string name="app_settings_kalender">التقويم</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ مكلنبورغ-فوربومرن الغربية</string>
+    <string name="app_settings_modulfarben">ألوان الوحدات</string>
+    <string name="app_settings_niedersachsen">🐎 ساكسونيا السفلى</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ شمال الراين-وستفاليا</string>
+    <string name="app_settings_rheinlandpfalz">🍷 راينلاند-بالاتينات</string>
+    <string name="app_settings_saarland">🏭 زارلاند</string>
+    <string name="app_settings_sachsen">⛏️ ساكسونيا</string>
+    <string name="app_settings_sachsenanhalt">🏛️ ساكسونيا-أنهالت</string>
+    <string name="app_settings_schleswigholstein">🌊 شليسفيغ-هولشتاين</string>
+    <string name="app_settings_stundenplan">الجدول الدراسي</string>
+    <string name="app_settings_supplementerinnerung">تذكير المكملات</string>
+    <string name="app_settings_supplements">المكملات</string>
+    <string name="app_settings_taegliche_erinnerung_um">التذكير اليومي في</string>
+    <string name="app_settings_thueringen">🏰 تورينغن</string>
+    <string name="app_settings_uebernehmen">تطبيق</string>
+
+    
+    <string name="app_dashboard_logo">شعار LifeModule</string>
+    <string name="app_dashboard_fertig">تم</string>
+    <string name="app_dashboard_module">الوحدات</string>
+
+    
+    <string name="app_debug_title">تصحيح · السفر عبر الزمن</string>
+    <string name="app_debug_status_title">حالة السفر عبر الزمن</string>
+    <string name="app_debug_provider">المزوّد</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">الوقت الافتراضي</string>
+    <string name="app_debug_system_zeit">وقت النظام</string>
+    <string name="app_debug_offset">الإزاحة</string>
+    <string name="app_debug_warning">المزوّد هو SystemTimeProvider - السفر عبر الزمن متاح فقط في إصدارات التصحيح.</string>
+    <string name="app_debug_ziel_datum">اختر التاريخ المستهدف</string>
+    <string name="app_debug_ziel_uhrzeit">اختر الوقت المستهدف</string>
+    <string name="app_debug_anwenden">تطبيق</string>
+    <string name="app_debug_zuruecksetzen">إعادة تعيين</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 الكل (على مستوى البلاد)</string>
+    <string name="app_settings_hessen">🏦 هيسن</string>
+    <string name="app_settings_berlin">🐻 برلين</string>
+    <string name="app_settings_hamburg">⚓ هامبورغ</string>
+    <string name="app_settings_bremen">🔑 بريمن</string>
+    <string name="app_settings_design_farben">التصميم &amp; الألوان</string>
+    <string name="app_settings_global">عام</string>
+    <string name="app_settings_reset">إعادة تعيين</string>
+    <string name="app_settings_benachrichtigungen">الإشعارات</string>
+    <string name="app_settings_push_benachrichtigungen">الإشعارات الفورية</string>
+    <string name="app_settings_erinnerungen_vor_terminen">التذكيرات قبل المواعيد:</string>
+    <string name="app_settings_erinnerung_min_vorher">تذكير قبل %d دقيقة</string>
+    <string name="app_settings_uhrzeit_format">الساعة %s</string>
+    <string name="app_settings_habits">العادات</string>
+    <string name="app_settings_daten">البيانات</string>
+    <string name="app_settings_export_untertitel">ملف ZIP يحتوي على ملفات CSV لبرنامج Excel · %d إدخال</string>
+    
+    <string name="app_settings_backup">النسخ الاحتياطي</string>
+    <string name="app_settings_backup_erstellen">إنشاء نسخة احتياطية</string>
+    <string name="app_settings_backup_erstellen_subtitle">حفظ جميع البيانات كملف نسخ احتياطي</string>
+    <string name="app_settings_backup_fehlgeschlagen">فشل النسخ الاحتياطي</string>
+    <string name="app_settings_backup_erstellt">تم إنشاء النسخة الاحتياطية</string>
+    <string name="app_settings_backup_wiederherstellen">استعادة النسخة الاحتياطية</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">استعادة جميع البيانات من ملف نسخ احتياطي</string>
+    <string name="app_settings_google_backup">النسخ الاحتياطي من Google</string>
+    <string name="app_settings_google_backup_on">يتم نسخ بياناتك احتياطيًا عبر Google</string>
+    <string name="app_settings_google_backup_off">النسخ الاحتياطي عبر Google معطل</string>
+    <string name="app_settings_backup_restore_confirm_title">استعادة النسخة الاحتياطية؟</string>
+    <string name="app_settings_backup_restore_confirm_text">سيتم استبدال جميع البيانات الحالية بالنسخة الاحتياطية. لا يمكن التراجع عن هذا الإجراء!\n\nسيتم إعادة تشغيل التطبيق بعد الاستعادة.</string>
+    <string name="app_settings_backup_restore_confirm">استعادة</string>
+    <string name="app_settings_backup_restore_success">تمت استعادة النسخة الاحتياطية. جارٍ إعادة تشغيل التطبيق...</string>
+    <string name="app_settings_backup_restore_failed">فشلت الاستعادة. قد يكون الملف غير صالح أو من إصدار أحدث.</string>
+    <string name="app_settings_info">معلومات</string>
+    <string name="app_settings_app_beschreibung">v%s · أداة تتبع الحياة المتكاملة</string>
+    <string name="app_settings_entwickler">المطوّر</string>
+    <string name="app_settings_dev_already_unlocked">خيارات المطوّر مفتوحة بالفعل</string>
+    <string name="app_settings_dev_unlocked">تم فتح خيارات المطوّر!</string>
+    <string name="app_settings_dev_steps_away">%d نقرة لفتح خيارات المطوّر</string>
+    <string name="app_settings_time_travel">السفر عبر الزمن</string>
+    <string name="app_settings_time_travel_subtitle">التحكم في تاريخ &amp; وقت التطبيق</string>
+    <string name="app_settings_reset_all_data">إعادة تعيين جميع البيانات</string>
+    <string name="app_settings_reset_all_data_subtitle">حذف جميع البيانات المحلية &amp; الإعدادات</string>
+    <string name="app_settings_reset_confirm_text">سيتم حذف جميع البيانات نهائيًا (التمارين، التغذية، المزاج، العادات، التقويم، الوزن، التسوق، وقت العمل، الإعدادات والتفضيلات). لا يمكن التراجع عن هذا الإجراء!\n\nسيتم إعادة تشغيل التطبيق بعد إعادة التعيين.</string>
+    <string name="app_settings_reset_confirm">حذف كل شيء</string>
+    <string name="app_settings_reset_success">تم حذف جميع البيانات. جارٍ إعادة تشغيل التطبيق...</string>
+    <string name="app_settings_fertig">تم</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">استعادة الافتراضي (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">ساعات الجدول الدراسي</string>
+    <string name="app_settings_schedule_start_hour">البداية: %d:00</string>
+    <string name="app_settings_schedule_end_hour">النهاية: %d:00</string>
+
+    
+    <string name="app_settings_sicherheit">الأمان</string>
+    <string name="app_settings_screenshot_schutz">حماية لقطات الشاشة</string>
+    <string name="app_settings_screenshot_schutz_on">لقطات الشاشة وتسجيلات الشاشة محظورة</string>
+    <string name="app_settings_screenshot_schutz_off">لقطات الشاشة وتسجيلات الشاشة مسموحة</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AddLogbookEntryScreen -->
+    <string name="logbook_add_title">Record journey</string>
+    <string name="logbook_add_start_location">Start location</string>
+    <string name="logbook_add_end_location">Destination</string>
+    <string name="logbook_add_distance_km">Distance (km)</string>
+    <string name="logbook_add_purpose">Purpose</string>
+    <string name="logbook_add_purpose_business">Business</string>
+    <string name="logbook_add_purpose_commute">Commute</string>
+    <string name="logbook_add_purpose_private">Private</string>
+    <string name="logbook_add_no_vehicle">Please add a vehicle first.</string>
+    <string name="logbook_add_select_vehicle">Select vehicle</string>
+    <string name="logbook_add_vehicle_label">Vehicle</string>
+    <string name="logbook_add_notes_optional">Notes (optional)</string>
+    <string name="logbook_add_save">Save</string>
+    <!-- AddVehicleScreen -->
+    <string name="logbook_vehicle_title">Add vehicle</string>
+    <string name="logbook_vehicle_name">Vehicle name</string>
+    <string name="logbook_vehicle_plate_optional">License plate (optional)</string>
+    <string name="logbook_vehicle_save">Save</string>
+    <!-- LogbookScreen -->
+    <string name="logbook_title">Logbook</string>
+    <string name="logbook_add_journey">Add journey</string>
+    <string name="logbook_vehicles_count">Vehicles: %d</string>
+    <string name="logbook_manage">Manage</string>
+    <string name="logbook_empty">No journeys recorded yet.</string>
+    <!-- VehicleManagementScreen -->
+    <string name="logbook_vehicles_title">Vehicles</string>
+    <string name="logbook_add_vehicle">Add vehicle</string>
+    <string name="logbook_vehicles_empty">No vehicles added yet.</string>
+    <string name="logbook_odometer">Odometer: %.0f km</string>
+</resources>

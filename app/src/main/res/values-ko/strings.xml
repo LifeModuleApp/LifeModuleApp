@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">설정</string>
+    <string name="app_dashboard_layout_bearbeiten">레이아웃 편집</string>
+    <string name="app_dashboard_module_verwalten">모듈 관리</string>
+    <string name="app_dashboard_module_verwalten_1">모듈 관리</string>
+    <string name="app_dashboard_rastergroesse">격자 크기</string>
+    <string name="app_settings_1_stunde_vorher">1시간 전</string>
+    <string name="app_settings_1_tag_vorher">1일 전</string>
+    <string name="app_settings_1_woche_vorher">1주일 전</string>
+    <string name="app_settings_abbrechen">취소</string>
+    <string name="app_settings_aendern">변경</string>
+    <string name="app_settings_aktiviert">활성화됨</string>
+    <string name="app_settings_alle">전체</string>
+    <string name="app_settings_alle_daten_exportieren">모든 데이터 내보내기</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">알림이 거부되었습니다</string>
+    <string name="app_settings_badenwuerttemberg">🍇 바덴뷔르템베르크</string>
+    <string name="app_settings_bayern">🏔️ 바이에른</string>
+    <string name="app_settings_brandenburg">🦅 브란덴부르크</string>
+    <string name="app_settings_bundesland">연방주</string>
+    <string name="app_settings_bundesland_waehlen">연방주 선택</string>
+    <string name="app_settings_deaktiviert">비활성화됨</string>
+    <string name="app_settings_einstellungen">설정</string>
+    <string name="app_settings_exact_alarm_title">정확한 알림 비활성화됨</string>
+    <string name="app_settings_exact_alarm_desc">시스템 설정에서 정확한 알람을 허용하려면 탭하세요. 이 설정 없이는 알림이 지연될 수 있습니다.</string>
+    <string name="app_settings_export_fehlgeschlagen">내보내기 실패</string>
+    <string name="app_settings_feiertage">공휴일</string>
+    <string name="app_settings_feiertage_land">공휴일 국가</string>
+    <string name="app_settings_land_waehlen">국가 선택</string>
+    <string name="app_settings_sprache">언어</string>
+    <string name="app_settings_sprache_waehlen">언어 선택</string>
+    <string name="app_settings_globale_akzentfarbe">글로벌 강조 색상</string>
+    <string name="app_settings_habiterinnerung">습관 알림</string>
+    <string name="app_settings_individuelle_farben_pro_modul">모듈별 개별 색상</string>
+    <string name="app_settings_kalender">캘린더</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ 메클렌부르크포어포메른</string>
+    <string name="app_settings_modulfarben">모듈 색상</string>
+    <string name="app_settings_niedersachsen">🐎 니더작센</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ 노르트라인베스트팔렌</string>
+    <string name="app_settings_rheinlandpfalz">🍷 라인란트팔츠</string>
+    <string name="app_settings_saarland">🏭 자를란트</string>
+    <string name="app_settings_sachsen">⛏️ 작센</string>
+    <string name="app_settings_sachsenanhalt">🏛️ 작센안할트</string>
+    <string name="app_settings_schleswigholstein">🌊 슐레스비히홀슈타인</string>
+    <string name="app_settings_stundenplan">시간표</string>
+    <string name="app_settings_supplementerinnerung">보충제 알림</string>
+    <string name="app_settings_supplements">보충제</string>
+    <string name="app_settings_taegliche_erinnerung_um">매일 알림 시간</string>
+    <string name="app_settings_thueringen">🏰 튀링겐</string>
+    <string name="app_settings_uebernehmen">적용</string>
+
+    
+    <string name="app_dashboard_logo">LifeModule 로고</string>
+    <string name="app_dashboard_fertig">완료</string>
+    <string name="app_dashboard_module">모듈</string>
+
+    
+    <string name="app_debug_title">디버그 · 시간 여행</string>
+    <string name="app_debug_status_title">시간 여행 상태</string>
+    <string name="app_debug_provider">프로바이더</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">가상 시간</string>
+    <string name="app_debug_system_zeit">시스템 시간</string>
+    <string name="app_debug_offset">오프셋</string>
+    <string name="app_debug_warning">TimeProvider가 SystemTimeProvider입니다 - 시간 여행은 디버그 빌드에서만 사용 가능합니다.</string>
+    <string name="app_debug_ziel_datum">대상 날짜 선택</string>
+    <string name="app_debug_ziel_uhrzeit">대상 시간 선택</string>
+    <string name="app_debug_anwenden">적용</string>
+    <string name="app_debug_zuruecksetzen">초기화</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 전국 (전체)</string>
+    <string name="app_settings_hessen">🏦 헤센</string>
+    <string name="app_settings_berlin">🐻 베를린</string>
+    <string name="app_settings_hamburg">⚓ 함부르크</string>
+    <string name="app_settings_bremen">🔑 브레멘</string>
+    <string name="app_settings_design_farben">디자인 &amp; 색상</string>
+    <string name="app_settings_global">글로벌</string>
+    <string name="app_settings_reset">초기화</string>
+    <string name="app_settings_benachrichtigungen">알림</string>
+    <string name="app_settings_push_benachrichtigungen">푸시 알림</string>
+    <string name="app_settings_erinnerungen_vor_terminen">일정 전 알림:</string>
+    <string name="app_settings_erinnerung_min_vorher">%d분 전 알림</string>
+    <string name="app_settings_uhrzeit_format">%s시</string>
+    <string name="app_settings_habits">습관</string>
+    <string name="app_settings_daten">데이터</string>
+    <string name="app_settings_export_untertitel">Excel용 CSV 파일이 포함된 ZIP · %d개 항목</string>
+    
+    <string name="app_settings_backup">백업</string>
+    <string name="app_settings_backup_erstellen">백업 생성</string>
+    <string name="app_settings_backup_erstellen_subtitle">모든 데이터를 백업 파일로 저장</string>
+    <string name="app_settings_backup_fehlgeschlagen">백업 실패</string>
+    <string name="app_settings_backup_erstellt">백업이 생성되었습니다</string>
+    <string name="app_settings_backup_wiederherstellen">백업 복원</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">백업 파일에서 모든 데이터 복원</string>
+    <string name="app_settings_google_backup">Google 백업</string>
+    <string name="app_settings_google_backup_on">데이터가 Google을 통해 백업됩니다</string>
+    <string name="app_settings_google_backup_off">Google 백업이 비활성화되어 있습니다</string>
+    <string name="app_settings_backup_restore_confirm_title">백업을 복원하시겠습니까?</string>
+    <string name="app_settings_backup_restore_confirm_text">현재의 모든 데이터가 백업으로 대체됩니다. 이 작업은 되돌릴 수 없습니다!\n\n복원 후 앱이 재시작됩니다.</string>
+    <string name="app_settings_backup_restore_confirm">복원</string>
+    <string name="app_settings_backup_restore_success">백업이 복원되었습니다. 앱을 재시작합니다...</string>
+    <string name="app_settings_backup_restore_failed">복원 실패. 파일이 유효하지 않거나 더 최신 버전의 파일일 수 있습니다.</string>
+    <string name="app_settings_info">정보</string>
+    <string name="app_settings_app_beschreibung">v%s · 궁극의 라이프 트래커</string>
+    <string name="app_settings_entwickler">개발자</string>
+    <string name="app_settings_dev_already_unlocked">개발자 옵션이 이미 잠금 해제되었습니다</string>
+    <string name="app_settings_dev_unlocked">개발자 옵션이 잠금 해제되었습니다!</string>
+    <string name="app_settings_dev_steps_away">개발자 옵션 잠금 해제까지 %d번 탭</string>
+    <string name="app_settings_time_travel">시간 여행</string>
+    <string name="app_settings_time_travel_subtitle">앱의 날짜 &amp; 시간 조작</string>
+    <string name="app_settings_reset_all_data">모든 데이터 초기화</string>
+    <string name="app_settings_reset_all_data_subtitle">모든 로컬 데이터 &amp; 설정 삭제</string>
+    <string name="app_settings_reset_confirm_text">운동, 영양, 기분, 습관, 캘린더, 체중, 쇼핑, 근무 시간, 설정 및 환경설정 등 모든 데이터가 영구적으로 삭제됩니다. 이 작업은 되돌릴 수 없습니다!\n\n초기화 후 앱이 재시작됩니다.</string>
+    <string name="app_settings_reset_confirm">모두 삭제</string>
+    <string name="app_settings_reset_success">모든 데이터가 삭제되었습니다. 앱을 재시작합니다...</string>
+    <string name="app_settings_fertig">완료</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">기본값 복원 (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">시간표 시간대</string>
+    <string name="app_settings_schedule_start_hour">시작: %d:00</string>
+    <string name="app_settings_schedule_end_hour">종료: %d:00</string>
+
+    
+    <string name="app_settings_sicherheit">보안</string>
+    <string name="app_settings_screenshot_schutz">스크린샷 보호</string>
+    <string name="app_settings_screenshot_schutz_on">스크린샷 및 화면 녹화가 차단됩니다</string>
+    <string name="app_settings_screenshot_schutz_off">스크린샷 및 화면 녹화가 허용됩니다</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

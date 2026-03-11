@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recipes_title">Rezepte</string>
+    <string name="recipes_fab_add">Rezept hinzufügen</string>
+    <string name="recipes_empty">Noch keine Rezepte vorhanden.</string>
+    <string name="recipes_servings">%d Portionen</string>
+    <string name="recipes_prep_time">Vorbereitung: %d min</string>
+    <string name="recipes_cook_time">Kochen: %d min</string>
+    <string name="recipes_ingredient_count">%d Zutaten</string>
+    <string name="recipes_cat_baking">Backen</string>
+    <string name="recipes_cat_cooking">Kochen</string>
+    <string name="recipes_cat_grilling">Grillen</string>
+    <string name="recipes_cat_drinks">Getränke</string>
+    <string name="recipes_cat_raw">Rohkost</string>
+    <string name="recipes_cat_other">Sonstige</string>
+    <string name="recipes_add_title">Rezept hinzufügen</string>
+    <string name="recipes_add_recipe_name">Rezeptname</string>
+    <string name="recipes_add_category">Kategorie</string>
+    <string name="recipes_add_servings">Portionen</string>
+    <string name="recipes_add_prep_time">Vorbereitung (min)</string>
+    <string name="recipes_add_cook_time">Kochzeit (min)</string>
+    <string name="recipes_add_instructions">Zubereitung</string>
+    <string name="recipes_add_ingredients_title">Zutaten</string>
+    <string name="recipes_add_ingredient">Zutat</string>
+    <string name="recipes_add_quantity">Menge</string>
+    <string name="recipes_add_unit">Einheit</string>
+    <string name="recipes_add_ingredient_add">Zutat hinzufügen</string>
+    <string name="recipes_add_remove">Entfernen</string>
+    <string name="recipes_add_notes_optional">Notizen (optional)</string>
+    <string name="recipes_add_save">Speichern</string>
+    <string name="recipes_detail_title">Rezeptdetails</string>
+    <string name="recipes_detail_not_found">Rezept nicht gefunden.</string>
+    <string name="recipes_detail_servings">Portionen</string>
+    <string name="recipes_detail_prep_time">Vorbereitung</string>
+    <string name="recipes_detail_cook_time">Kochzeit</string>
+    <string name="recipes_detail_instructions">Zubereitung</string>
+    <string name="recipes_detail_ingredients">Zutaten</string>
+    <string name="recipes_detail_notes">Notizen</string>
+    <string name="recipes_detail_delete">Rezept löschen</string>
+    <string name="recipes_detail_delete_title">Rezept löschen?</string>
+    <string name="recipes_detail_delete_text">\"%s\" wird unwiderruflich gelöscht.</string>
+    <string name="recipes_detail_delete_confirm">Löschen</string>
+    <string name="recipes_detail_cancel">Abbrechen</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">Supprimer les cochés</string>
+    <string name="shopping_shopping_hinzufuegen">Ajouter</string>
+    <string name="shopping_shopping_loeschen">Supprimer</string>
+    <string name="shopping_shopping_einkaufsliste">Liste de courses</string>
+    <string name="shopping_shopping_neuer_artikel">Nouvel article...</string>
+    <string name="shopping_shopping_erledigt">Fait (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">Annuler</string>
+    <string name="shopping_shopping_artikel_loeschen">Supprimer l\'article</string>
+    <string name="shopping_shopping_artikel_loeschen_text">Voulez-vous vraiment supprimer cet article ?</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">Supprimer les cochés</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">Voulez-vous supprimer tous les articles cochés ?</string>
+    <string name="shopping_shopping_leer_titel">La liste est vide</string>
+    <string name="shopping_shopping_leer_subtitel">Ajoutez votre premier article ci-dessus</string>
+</resources>

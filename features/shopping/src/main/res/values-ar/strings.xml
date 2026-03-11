@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for shopping (AR) -->
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">حذف المحدد</string>
+    <string name="shopping_shopping_hinzufuegen">إضافة</string>
+    <string name="shopping_shopping_loeschen">حذف</string>
+    <string name="shopping_shopping_einkaufsliste">قائمة التسوق</string>
+    <string name="shopping_shopping_neuer_artikel">صنف جديد...</string>
+    <string name="shopping_shopping_erledigt">تم (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">إلغاء</string>
+    <string name="shopping_shopping_artikel_loeschen">حذف الصنف</string>
+    <string name="shopping_shopping_artikel_loeschen_text">هل تريد حقًا حذف هذا الصنف؟</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">حذف المحدد</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">هل تريد حذف جميع الأصناف المحددة؟</string>
+    <string name="shopping_shopping_leer_titel">القائمة فارغة</string>
+    <string name="shopping_shopping_leer_subtitel">أضف صنفك الأول أعلاه</string>
+</resources>

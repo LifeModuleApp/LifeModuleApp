@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for shopping (UK) -->
+<resources>
+    <string name="shopping_shopping_erledigte_loeschen">Видалити позначені</string>
+    <string name="shopping_shopping_hinzufuegen">Додати</string>
+    <string name="shopping_shopping_loeschen">Видалити</string>
+    <string name="shopping_shopping_einkaufsliste">Список покупок</string>
+    <string name="shopping_shopping_neuer_artikel">Новий товар...</string>
+    <string name="shopping_shopping_erledigt">Виконано (%1$d)</string>
+    <string name="shopping_shopping_abbrechen">Скасувати</string>
+    <string name="shopping_shopping_artikel_loeschen">Видалити товар</string>
+    <string name="shopping_shopping_artikel_loeschen_text">Ви дійсно хочете видалити цей товар?</string>
+    <string name="shopping_shopping_erledigte_loeschen_titel">Видалити позначені</string>
+    <string name="shopping_shopping_erledigte_loeschen_text">Видалити всі позначені товари?</string>
+    <string name="shopping_shopping_leer_titel">Список порожній</string>
+    <string name="shopping_shopping_leer_subtitel">Додайте перший товар вище</string>
+</resources>

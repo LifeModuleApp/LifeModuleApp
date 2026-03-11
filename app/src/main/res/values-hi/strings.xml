@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">सेटिंग्स</string>
+    <string name="app_dashboard_layout_bearbeiten">लेआउट संपादित करें</string>
+    <string name="app_dashboard_module_verwalten">मॉड्यूल प्रबंधित करें</string>
+    <string name="app_dashboard_module_verwalten_1">मॉड्यूल प्रबंधित करें</string>
+    <string name="app_dashboard_rastergroesse">ग्रिड आकार</string>
+    <string name="app_settings_1_stunde_vorher">1 घंटा पहले</string>
+    <string name="app_settings_1_tag_vorher">1 दिन पहले</string>
+    <string name="app_settings_1_woche_vorher">1 सप्ताह पहले</string>
+    <string name="app_settings_abbrechen">रद्द करें</string>
+    <string name="app_settings_aendern">बदलें</string>
+    <string name="app_settings_aktiviert">सक्रिय</string>
+    <string name="app_settings_alle">सभी</string>
+    <string name="app_settings_alle_daten_exportieren">सभी डेटा निर्यात करें</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">सूचनाएँ अस्वीकार कर दी गईं</string>
+    <string name="app_settings_badenwuerttemberg">🍇 बाडेन-वुर्टेमबर्ग</string>
+    <string name="app_settings_bayern">🏔️ बवेरिया</string>
+    <string name="app_settings_brandenburg">🦅 ब्रांडेनबर्ग</string>
+    <string name="app_settings_bundesland">संघीय राज्य</string>
+    <string name="app_settings_bundesland_waehlen">संघीय राज्य चुनें</string>
+    <string name="app_settings_deaktiviert">निष्क्रिय</string>
+    <string name="app_settings_einstellungen">सेटिंग्स</string>
+    <string name="app_settings_exact_alarm_title">सटीक रिमाइंडर अक्षम</string>
+    <string name="app_settings_exact_alarm_desc">सिस्टम सेटिंग्स में सटीक अलार्म की अनुमति देने के लिए टैप करें। इसके बिना रिमाइंडर देर से आ सकते हैं।</string>
+    <string name="app_settings_export_fehlgeschlagen">निर्यात विफल</string>
+    <string name="app_settings_feiertage">छुट्टियाँ</string>
+    <string name="app_settings_feiertage_land">छुट्टी का देश</string>
+    <string name="app_settings_land_waehlen">देश चुनें</string>
+    <string name="app_settings_sprache">भाषा</string>
+    <string name="app_settings_sprache_waehlen">भाषा चुनें</string>
+    <string name="app_settings_globale_akzentfarbe">वैश्विक एक्सेंट रंग</string>
+    <string name="app_settings_habiterinnerung">आदत अनुस्मारक</string>
+    <string name="app_settings_individuelle_farben_pro_modul">प्रति मॉड्यूल अलग रंग</string>
+    <string name="app_settings_kalender">कैलेंडर</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ मेक्लेनबर्ग-पश्चिमी पोमेरेनिया</string>
+    <string name="app_settings_modulfarben">मॉड्यूल रंग</string>
+    <string name="app_settings_niedersachsen">🐎 लोअर सैक्सोनी</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ नॉर्थ राइन-वेस्टफेलिया</string>
+    <string name="app_settings_rheinlandpfalz">🍷 राइनलैंड-पैलेटिनेट</string>
+    <string name="app_settings_saarland">🏭 सारलैंड</string>
+    <string name="app_settings_sachsen">⛏️ सैक्सोनी</string>
+    <string name="app_settings_sachsenanhalt">🏛️ सैक्सोनी-एनहाल्ट</string>
+    <string name="app_settings_schleswigholstein">🌊 श्लेस्विग-होल्स्टाइन</string>
+    <string name="app_settings_stundenplan">समय सारणी</string>
+    <string name="app_settings_supplementerinnerung">सप्लीमेंट अनुस्मारक</string>
+    <string name="app_settings_supplements">सप्लीमेंट्स</string>
+    <string name="app_settings_taegliche_erinnerung_um">दैनिक अनुस्मारक समय</string>
+    <string name="app_settings_thueringen">🏰 थूरिंगिया</string>
+    <string name="app_settings_uebernehmen">लागू करें</string>
+
+    
+    <string name="app_dashboard_logo">LifeModule लोगो</string>
+    <string name="app_dashboard_fertig">हो गया</string>
+    <string name="app_dashboard_module">मॉड्यूल</string>
+
+    
+    <string name="app_debug_title">डिबग · टाइम ट्रैवल</string>
+    <string name="app_debug_status_title">टाइम-ट्रैवल स्थिति</string>
+    <string name="app_debug_provider">प्रदाता</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">वर्चुअल समय</string>
+    <string name="app_debug_system_zeit">सिस्टम समय</string>
+    <string name="app_debug_offset">ऑफ़सेट</string>
+    <string name="app_debug_warning">TimeProvider SystemTimeProvider है - टाइम-ट्रैवल केवल डिबग बिल्ड में उपलब्ध है।</string>
+    <string name="app_debug_ziel_datum">लक्ष्य तिथि चुनें</string>
+    <string name="app_debug_ziel_uhrzeit">लक्ष्य समय चुनें</string>
+    <string name="app_debug_anwenden">लागू करें</string>
+    <string name="app_debug_zuruecksetzen">रीसेट करें</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 सभी (राष्ट्रव्यापी)</string>
+    <string name="app_settings_hessen">🏦 हेसन</string>
+    <string name="app_settings_berlin">🐻 बर्लिन</string>
+    <string name="app_settings_hamburg">⚓ हैम्बर्ग</string>
+    <string name="app_settings_bremen">🔑 ब्रेमेन</string>
+    <string name="app_settings_design_farben">डिज़ाइन &amp; रंग</string>
+    <string name="app_settings_global">वैश्विक</string>
+    <string name="app_settings_reset">रीसेट</string>
+    <string name="app_settings_benachrichtigungen">सूचनाएँ</string>
+    <string name="app_settings_push_benachrichtigungen">पुश सूचनाएँ</string>
+    <string name="app_settings_erinnerungen_vor_terminen">कार्यक्रमों से पहले अनुस्मारक:</string>
+    <string name="app_settings_erinnerung_min_vorher">%d मिनट पहले अनुस्मारक</string>
+    <string name="app_settings_uhrzeit_format">%s बजे</string>
+    <string name="app_settings_habits">आदतें</string>
+    <string name="app_settings_daten">डेटा</string>
+    <string name="app_settings_export_untertitel">Excel के लिए CSV फ़ाइलों वाली ZIP · %d प्रविष्टियाँ</string>
+    
+    <string name="app_settings_backup">बैकअप</string>
+    <string name="app_settings_backup_erstellen">बैकअप बनाएँ</string>
+    <string name="app_settings_backup_erstellen_subtitle">सभी डेटा को बैकअप फ़ाइल के रूप में सहेजें</string>
+    <string name="app_settings_backup_fehlgeschlagen">बैकअप विफल</string>
+    <string name="app_settings_backup_erstellt">बैकअप बनाया गया</string>
+    <string name="app_settings_backup_wiederherstellen">बैकअप पुनर्स्थापित करें</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">बैकअप फ़ाइल से सभी डेटा पुनर्स्थापित करें</string>
+    <string name="app_settings_google_backup">Google बैकअप</string>
+    <string name="app_settings_google_backup_on">आपका डेटा Google के माध्यम से बैकअप किया जाता है</string>
+    <string name="app_settings_google_backup_off">Google के माध्यम से बैकअप अक्षम है</string>
+    <string name="app_settings_backup_restore_confirm_title">बैकअप पुनर्स्थापित करें?</string>
+    <string name="app_settings_backup_restore_confirm_text">यह सभी मौजूदा डेटा को बैकअप से बदल देगा। यह क्रिया पूर्ववत नहीं की जा सकती!\n\nपुनर्स्थापना के बाद ऐप पुनः आरंभ होगा।</string>
+    <string name="app_settings_backup_restore_confirm">पुनर्स्थापित करें</string>
+    <string name="app_settings_backup_restore_success">बैकअप पुनर्स्थापित। ऐप पुनः आरंभ हो रहा है...</string>
+    <string name="app_settings_backup_restore_failed">पुनर्स्थापना विफल। फ़ाइल अमान्य या नए संस्करण की हो सकती है।</string>
+    <string name="app_settings_info">जानकारी</string>
+    <string name="app_settings_app_beschreibung">v%s · अल्टीमेट लाइफ-ट्रैकर</string>
+    <string name="app_settings_entwickler">डेवलपर</string>
+    <string name="app_settings_dev_already_unlocked">डेवलपर विकल्प पहले से अनलॉक हैं</string>
+    <string name="app_settings_dev_unlocked">डेवलपर विकल्प अनलॉक!</string>
+    <string name="app_settings_dev_steps_away">डेवलपर विकल्प अनलॉक करने के लिए %d और टैप करें</string>
+    <string name="app_settings_time_travel">टाइम ट्रैवल</string>
+    <string name="app_settings_time_travel_subtitle">ऐप की तिथि &amp; समय में बदलाव करें</string>
+    <string name="app_settings_reset_all_data">सभी डेटा रीसेट करें</string>
+    <string name="app_settings_reset_all_data_subtitle">सभी स्थानीय डेटा &amp; सेटिंग्स हटाएँ</string>
+    <string name="app_settings_reset_confirm_text">यह स्थायी रूप से सभी डेटा (वर्कआउट, पोषण, मूड, आदतें, कैलेंडर, वज़न, शॉपिंग, कार्य समय, सेटिंग्स और प्राथमिकताएँ) हटा देगा। इसे पूर्ववत नहीं किया जा सकता!\n\nरीसेट के बाद ऐप पुनः आरंभ होगा।</string>
+    <string name="app_settings_reset_confirm">सब कुछ हटाएँ</string>
+    <string name="app_settings_reset_success">सभी डेटा हटा दिया गया है। ऐप पुनः आरंभ हो रहा है...</string>
+    <string name="app_settings_fertig">हो गया</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">डिफ़ॉल्ट पुनर्स्थापित करें (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">समय सारणी के घंटे</string>
+    <string name="app_settings_schedule_start_hour">शुरू: %d:00</string>
+    <string name="app_settings_schedule_end_hour">अंत: %d:00</string>
+
+    
+    <string name="app_settings_sicherheit">सुरक्षा</string>
+    <string name="app_settings_screenshot_schutz">स्क्रीनशॉट सुरक्षा</string>
+    <string name="app_settings_screenshot_schutz_on">स्क्रीनशॉट और स्क्रीन रिकॉर्डिंग अवरुद्ध हैं</string>
+    <string name="app_settings_screenshot_schutz_off">स्क्रीनशॉट और स्क्रीन रिकॉर्डिंग की अनुमति है</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

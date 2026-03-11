@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for core (KO) -->
+<resources>
+    <!-- Module categories -->
+    <string name="core_dashboard_gesundheit">건강</string>
+    <string name="core_dashboard_fitness">피트니스</string>
+    <string name="core_dashboard_lifestyle">라이프스타일</string>
+    <string name="core_dashboard_organisation">조직</string>
+    <string name="core_dashboard_arbeit">업무</string>
+    <string name="core_dashboard_system">시스템</string>
+    <!-- Module display names -->
+    <string name="core_module_nutrition">영양</string>
+    <string name="core_module_supplements">보충제</string>
+    <string name="core_module_habits">습관</string>
+    <string name="core_module_mental_health">정신 건강</string>
+    <string name="core_module_gym">헬스 트래커</string>
+    <string name="core_module_weight">체중</string>
+    <string name="core_module_calendar">캘린더</string>
+    <string name="core_module_schedule">시간표</string>
+    <string name="core_module_work_time">근무 시간</string>
+    <string name="core_module_shopping">쇼핑 목록</string>
+    <string name="core_module_analytics">분석</string>
+    <string name="core_module_health_connect">Health Connect</string>
+    <string name="core_module_logbook">Logbook</string>
+    <string name="core_module_scanner">Receipt Scanner</string>
+    <string name="core_module_recipes">Recipes</string>
+    <!-- Other core strings -->
+    <string name="core_navigation_coming_soon">곧 출시 예정...</string>
+    <!-- UI component strings -->
+    <string name="core_topbar_back">뒤로</string>
+    <string name="core_topbar_menu">메뉴</string>
+    <string name="core_fab_add">추가</string>
+    <!-- Notification channel names -->
+    <string name="core_notification_channel_calendar">캘린더 알림</string>
+    <string name="core_notification_channel_calendar_desc">캘린더 일정 알림</string>
+    <string name="core_notification_channel_schedule">시간표</string>
+    <string name="core_notification_channel_schedule_desc">강의 &amp; 수업 알림</string>
+    <string name="core_notification_channel_supplements">보충제</string>
+    <string name="core_notification_channel_supplements_desc">매일 보충제 알림</string>
+    <string name="core_notification_channel_habits">습관</string>
+    <string name="core_notification_channel_habits_desc">매일 습관 알림</string>
+    <string name="core_notification_fallback_title">알림</string>
+    <!-- Notification content -->
+    <string name="core_notification_in_1_stunde">1시간 후</string>
+    <string name="core_notification_morgen">내일</string>
+    <string name="core_notification_in_einer_woche">1주일 후</string>
+    <string name="core_notification_in_x_min">%1$d분 후</string>
+    <string name="core_notification_ganztaegig">종일</string>
+    <string name="core_notification_calendar_body">%1$s - %2$s, %3$s</string>
+    <string name="core_notification_supplement_title">보충제</string>
+    <string name="core_notification_supplement_body">오늘 보충제를 드셨나요? 💊</string>
+    <string name="core_notification_habit_title">습관 체크</string>
+    <string name="core_notification_habit_body">오늘 모든 습관을 완료하셨나요? </string>
+    <string name="core_notification_class_body">%1$d분 후 %2$s에서</string>
+    <!-- Export -->
+    <string name="core_export_subject">LifeModule 데이터 내보내기</string>
+    <string name="core_export_share_title">내보내기 공유</string>
+    <!-- Backup -->
+    <string name="core_backup_share_subject">LifeModule 백업</string>
+    <string name="core_backup_share_title">백업 공유</string>
+</resources>

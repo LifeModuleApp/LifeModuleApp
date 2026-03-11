@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="analytics_analytics_gesamtaktivitaet">कुल गतिविधि</string>
+    <string name="analytics_analytics_heute_noch_kein_moodeintrag">आज अभी तक कोई मूड प्रविष्टि नहीं</string>
+    <string name="analytics_analytics_noch_keine_streaks_logge_habits">अभी तक कोई स्ट्रीक नहीं - आदतें या सप्लीमेंट्स लॉग करें!</string>
+    <string name="analytics_analytics_noch_keine_uebungen_geloggt">अभी तक कोई एक्सरसाइज़ लॉग नहीं</string>
+    <string name="analytics_analytics_noch_nie">कभी नहीं</string>
+    <string name="analytics_analytics_supplements">सप्लीमेंट्स</string>
+    <string name="analytics_analytics_trend_abwaerts">↘ गिरावट का रुझान</string>
+    <string name="analytics_analytics_trend_aufwaerts">↗ बढ़त का रुझान</string>
+    <string name="analytics_analytics_uebung_auswaehlen">एक्सरसाइज़ चुनें:</string>
+    
+    <string name="analytics_analytics_titel">एनालिटिक्स</string>
+    <string name="analytics_analytics_streaks">स्ट्रीक्स</string>
+    <string name="analytics_analytics_nutrition_heute">आज का पोषण</string>
+    <string name="analytics_analytics_kcal_format">%1$d kcal</string>
+    <string name="analytics_analytics_protein">प्रोटीन</string>
+    <string name="analytics_analytics_carbs">कार्ब्स</string>
+    <string name="analytics_analytics_fett">वसा</string>
+    <string name="analytics_analytics_gramm_format">%1$dg</string>
+    <string name="analytics_analytics_zuletzt">अंतिम: %1$s</string>
+    <string name="analytics_analytics_streak_tage">%1$d दिन</string>
+    <string name="analytics_analytics_habits">आदतें</string>
+    <string name="analytics_analytics_gym_fortschritt">जिम प्रगति</string>
+    <string name="analytics_analytics_workouts_gesamt">कुल %1$d वर्कआउट्स</string>
+    <string name="analytics_analytics_letztes_workout">अंतिम: %1$s (%2$s)</string>
+    <string name="analytics_analytics_gewicht_kg">%1$s - वज़न (kg)</string>
+    <string name="analytics_analytics_mood_trend">मूड ट्रेंड</string>
+    <string name="analytics_analytics_heute_mood">आज: %1$d/10</string>
+    <string name="analytics_analytics_avg_format">⌀ %1$s/10 - %2$s</string>
+    <string name="analytics_analytics_aktionen_geloggt">क्रियाएँ लॉग की गईं</string>
+    <string name="analytics_analytics_anstehend">आगामी</string>
+    <string name="analytics_analytics_streak_chip_format">🔥 %1$d दिन</string>
+    <string name="analytics_analytics_trend_stabil">-> स्थिर</string>
+    <string name="analytics_analytics_mood_sehr_schlecht">बहुत बुरा</string>
+    <string name="analytics_analytics_mood_nicht_gut">इतना अच्छा नहीं</string>
+    <string name="analytics_analytics_mood_neutral">तटस्थ</string>
+    <string name="analytics_analytics_mood_gut">अच्छा</string>
+    <string name="analytics_analytics_mood_sehr_gut">बहुत अच्छा</string>
+    <string name="analytics_analytics_mood_fantastisch">शानदार</string>
+    <string name="analytics_analytics_7_tage">7 दिन</string>
+    <string name="analytics_analytics_30_tage">30 दिन</string>
+    <string name="analytics_analytics_letzte_7_tage">पिछले 7 दिन</string>
+    <string name="analytics_analytics_gewicht_verlauf">वज़न ट्रेंड</string>
+    <string name="analytics_analytics_aktuell_kg">वर्तमान: %1$s kg</string>
+    <string name="analytics_analytics_gewicht_diff">परिवर्तन: %1$s kg</string>
+    <string name="analytics_analytics_arbeitszeit_woche">इस सप्ताह का कार्य समय</string>
+    <string name="analytics_analytics_stunden_diese_woche">इस सप्ताह %1$s घंटे</string>
+    <string name="analytics_analytics_woche">सप्ताह</string>
+    <string name="analytics_analytics_monat">महीना</string>
+    <string name="analytics_analytics_jahr">वर्ष</string>
+    <string name="analytics_analytics_noch_keine_gewichtseintraege">अभी तक कोई वजन प्रविष्टि नहीं</string>
+<string name="analytics_analytics_aktivitaet_heute">Aktivität heute</string><string name="analytics_analytics_schritte">Schritte</string><string name="analytics_analytics_kcal_verbrannt_format">%.0f kcal verbrannt</string></resources>

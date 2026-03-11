@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">Einstellungen</string>
+    <string name="app_dashboard_layout_bearbeiten">Layout bearbeiten</string>
+    <string name="app_dashboard_module_verwalten">Module verwalten</string>
+    <string name="app_dashboard_module_verwalten_1">Module verwalten</string>
+    <string name="app_dashboard_rastergroesse">Rastergröße</string>
+    <string name="app_settings_1_stunde_vorher">1 Stunde vorher</string>
+    <string name="app_settings_1_tag_vorher">1 Tag vorher</string>
+    <string name="app_settings_1_woche_vorher">1 Woche vorher</string>
+    <string name="app_settings_abbrechen">Abbrechen</string>
+    <string name="app_settings_aendern">Ändern</string>
+    <string name="app_settings_aktiviert">Aktiviert</string>
+    <string name="app_settings_alle">Alle</string>
+    <string name="app_settings_alle_daten_exportieren">Alle Daten exportieren</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">Benachrichtigungen wurden verweigert</string>
+    <string name="app_settings_badenwuerttemberg">🍇 Baden-Württemberg</string>
+    <string name="app_settings_bayern">🏔️ Bayern</string>
+    <string name="app_settings_brandenburg">🦅 Brandenburg</string>
+    <string name="app_settings_bundesland">Bundesland</string>
+    <string name="app_settings_bundesland_waehlen">Bundesland wählen</string>
+    <string name="app_settings_deaktiviert">Deaktiviert</string>
+    <string name="app_settings_einstellungen">Einstellungen</string>
+    <string name="app_settings_exact_alarm_title">Exakte Erinnerungen deaktiviert</string>
+    <string name="app_settings_exact_alarm_desc">Tippe hier, um exakte Alarme in den Systemeinstellungen zu erlauben. Ohne diese können Erinnerungen verzögert werden.</string>
+    <string name="app_settings_export_fehlgeschlagen">Export fehlgeschlagen</string>
+    <string name="app_settings_feiertage">Feiertage</string>
+    <string name="app_settings_feiertage_land">Feiertage-Land</string>
+    <string name="app_settings_land_waehlen">Land wählen</string>
+    <string name="app_settings_sprache">Sprache</string>
+    <string name="app_settings_sprache_waehlen">Sprache wählen</string>
+    <string name="app_settings_globale_akzentfarbe">Globale Akzentfarbe</string>
+    <string name="app_settings_habiterinnerung">Habit-Erinnerung</string>
+    <string name="app_settings_individuelle_farben_pro_modul">Individuelle Farben pro Modul</string>
+    <string name="app_settings_kalender">Kalender</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ Mecklenburg-Vorpommern</string>
+    <string name="app_settings_modulfarben">Modul-Farben</string>
+    <string name="app_settings_niedersachsen">🐎 Niedersachsen</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ Nordrhein-Westfalen</string>
+    <string name="app_settings_rheinlandpfalz">🍷 Rheinland-Pfalz</string>
+    <string name="app_settings_saarland">🏭 Saarland</string>
+    <string name="app_settings_sachsen">⛏️ Sachsen</string>
+    <string name="app_settings_sachsenanhalt">🏛️ Sachsen-Anhalt</string>
+    <string name="app_settings_schleswigholstein">🌊 Schleswig-Holstein</string>
+    <string name="app_settings_stundenplan">Stundenplan</string>
+    <string name="app_settings_supplementerinnerung">Supplement-Erinnerung</string>
+    <string name="app_settings_supplements">Supplements</string>
+    <string name="app_settings_taegliche_erinnerung_um">Tägliche Erinnerung um</string>
+    <string name="app_settings_thueringen">🏰 Thüringen</string>
+    <string name="app_settings_uebernehmen">Übernehmen</string>
+
+    
+    <string name="app_dashboard_logo">LifeModule Logo</string>
+    <string name="app_dashboard_fertig">Fertig</string>
+    <string name="app_dashboard_module">Module</string>
+
+    
+    <string name="app_debug_title">Debug · Time Travel</string>
+    <string name="app_debug_status_title">Time-Travel Status</string>
+    <string name="app_debug_provider">Provider</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">Virtuelle Zeit</string>
+    <string name="app_debug_system_zeit">System-Zeit</string>
+    <string name="app_debug_offset">Offset</string>
+    <string name="app_debug_warning">TimeProvider ist SystemTimeProvider - Time-Travel ist nur im Debug-Build verfügbar.</string>
+    <string name="app_debug_ziel_datum">Ziel-Datum wählen</string>
+    <string name="app_debug_ziel_uhrzeit">Ziel-Uhrzeit wählen</string>
+    <string name="app_debug_anwenden">Anwenden</string>
+    <string name="app_debug_zuruecksetzen">Zurücksetzen</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 Alle (bundesweit)</string>
+    <string name="app_settings_hessen">🏦 Hessen</string>
+    <string name="app_settings_berlin">🐻 Berlin</string>
+    <string name="app_settings_hamburg">⚓ Hamburg</string>
+    <string name="app_settings_bremen">🔑 Bremen</string>
+    <string name="app_settings_design_farben">Design &amp; Farben</string>
+    <string name="app_settings_global">Global</string>
+    <string name="app_settings_reset">Reset</string>
+    <string name="app_settings_benachrichtigungen">Benachrichtigungen</string>
+    <string name="app_settings_push_benachrichtigungen">Push-Benachrichtigungen</string>
+    <string name="app_settings_erinnerungen_vor_terminen">Erinnerungen vor Terminen:</string>
+    <string name="app_settings_erinnerung_min_vorher">Erinnerung %d Min vorher</string>
+    <string name="app_settings_uhrzeit_format">%s Uhr</string>
+    <string name="app_settings_habits">Habits</string>
+    <string name="app_settings_daten">Daten</string>
+    <string name="app_settings_export_untertitel">ZIP mit CSV-Dateien für Excel · %d Einträge</string>
+    
+    <string name="app_settings_backup">Backup</string>
+    <string name="app_settings_backup_erstellen">Backup erstellen</string>
+    <string name="app_settings_backup_erstellen_subtitle">Alle Daten als Backup-Datei sichern</string>
+    <string name="app_settings_backup_fehlgeschlagen">Backup fehlgeschlagen</string>
+    <string name="app_settings_backup_erstellt">Backup erstellt</string>
+    <string name="app_settings_backup_wiederherstellen">Backup wiederherstellen</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">Alle Daten aus einer Backup-Datei wiederherstellen</string>
+    <string name="app_settings_google_backup">Google-Backup</string>
+    <string name="app_settings_google_backup_on">Deine Daten werden über Google gesichert</string>
+    <string name="app_settings_google_backup_off">Backup über Google ist deaktiviert</string>
+    <string name="app_settings_backup_restore_confirm_title">Backup wiederherstellen?</string>
+    <string name="app_settings_backup_restore_confirm_text">Hiermit werden ALLE aktuellen Daten durch das Backup ersetzt. Diese Aktion kann nicht rückgängig gemacht werden!\n\nDie App wird nach der Wiederherstellung neu gestartet.</string>
+    <string name="app_settings_backup_restore_confirm">Wiederherstellen</string>
+    <string name="app_settings_backup_restore_success">Backup wiederhergestellt. App wird neu gestartet...</string>
+    <string name="app_settings_backup_restore_failed">Wiederherstellung fehlgeschlagen. Die Datei ist möglicherweise ungültig oder von einer neueren Version.</string>
+
+    <!-- Import Package -->
+    <string name="app_import_title">Paket importieren</string>
+    <string name="app_import_importing">Paket wird importiert...</string>
+    <string name="app_import_success_title">Import abgeschlossen</string>
+    <string name="app_import_success_msg">%1$d importiert, %2$d übersprungen, %3$d fehlgeschlagen</string>
+    <string name="app_import_error_title">Import fehlgeschlagen</string>
+    <string name="app_import_inserted">Importiert</string>
+    <string name="app_import_skipped">Übersprungen (bereits vorhanden)</string>
+    <string name="app_import_failed">Fehlgeschlagen</string>
+    <string name="app_import_errors_title">Fehler</string>
+    <string name="app_import_done">Fertig</string>
+    <string name="app_import_cancel">Abbrechen</string>
+    <string name="app_import_community_badge">Community</string>
+    <string name="app_settings_import_package">Datenpaket importieren</string>
+    <string name="app_settings_import_package_subtitle">Trainingspläne, Lebensmittel, Gewohnheiten aus einem ZIP-Paket importieren</string>
+
+    <string name="app_settings_info">Info</string>
+    <string name="app_settings_app_beschreibung">v%s · Ultimativer Life-Tracker</string>
+    <string name="app_settings_entwickler">Entwickler</string>
+    <string name="app_settings_dev_already_unlocked">Entwickleroptionen sind bereits aktiviert</string>
+    <string name="app_settings_dev_unlocked">Entwickleroptionen aktiviert!</string>
+    <string name="app_settings_dev_steps_away">Noch %d Mal tippen für Entwickleroptionen</string>
+    <string name="app_settings_time_travel">Time Travel</string>
+    <string name="app_settings_time_travel_subtitle">Datum &amp; Uhrzeit der App manipulieren</string>
+    <string name="app_settings_reset_all_data">Alle Daten zurücksetzen</string>
+    <string name="app_settings_reset_all_data_subtitle">Alle lokalen Daten &amp; Einstellungen löschen</string>
+    <string name="app_settings_reset_confirm_text">Hiermit werden ALLE Daten unwiderruflich gelöscht (Workouts, Ernährung, Stimmung, Gewohnheiten, Kalender, Gewicht, Einkaufsliste, Arbeitszeiten, Einstellungen und Präferenzen).\n\nDie App wird nach dem Zurücksetzen neu gestartet.</string>
+    <string name="app_settings_reset_confirm">Alles löschen</string>
+    <string name="app_settings_reset_success">Alle Daten wurden gelöscht. App wird neu gestartet...</string>
+    <string name="app_settings_fertig">Fertig</string>
+    <string name="app_settings_hex_label">Hex (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">Standard (#A2FF00) wiederherstellen</string>
+    <string name="app_settings_stundenplan_zeitfenster">Stundenplan-Zeitfenster</string>
+    <string name="app_settings_schedule_start_hour">Start: %d:00 Uhr</string>
+    <string name="app_settings_schedule_end_hour">Ende: %d:00 Uhr</string>
+
+    
+    <string name="app_settings_sicherheit">Sicherheit</string>
+    <string name="app_settings_screenshot_schutz">Screenshot-Schutz</string>
+    <string name="app_settings_screenshot_schutz_on">Screenshots und Bildschirmaufnahmen werden blockiert</string>
+    <string name="app_settings_screenshot_schutz_off">Screenshots und Bildschirmaufnahmen sind erlaubt</string>
+
+    
+    <string name="app_settings_datenschutz_lizenz">Datenschutz &amp; License</string>
+    <string name="app_settings_datenschutz">Datenschutz</string>
+    <string name="app_settings_lizenz">License</string>
+    <string name="app_license_title">License</string>
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string>
+
+    <!-- About / Credits -->
+    <string name="app_settings_about">Über</string>
+    <string name="app_about_title">Über LifeModule</string>
+    <string name="app_about_developed_by">Entwickelt von Paul Witzke</string>
+    <string name="app_about_quote">"Wir sind das, was wir wiederholt tun. Vortrefflichkeit ist daher keine Handlung, sondern eine Gewohnheit."\n- Aristoteles</string>
+    <string name="app_about_version">Version %s</string>
+    <string name="app_about_description">Ein 100%% offline, privacy-first Life-Tracker. Keine Cloud. Keine Werbung. Kein Tracking. Deine Daten gehören dir - immer.</string>
+    <string name="app_about_oss_licenses">Licenses</string>
+
+    <!-- ErrorLog i18n -->
+    <string name="app_errorlog_title">App-Fehlerprotokolle</string>
+    <string name="app_errorlog_back">Zurück</string>
+    <string name="app_errorlog_clear">Protokolle löschen</string>
+    <string name="app_errorlog_empty">Keine Fehlerprotokolle gefunden</string>
+    <string name="app_errorlog_tap_to_copy">Tippen zum Kopieren</string>
+
+    <!-- ModuleManager i18n -->
+    <string name="app_module_disable_title">Modul deaktivieren</string>
+    <string name="app_module_disable_text">Möchtest du das Modul nur ausblenden oder auch alle lokal gespeicherten Daten dieses Moduls (z. B. Einträge, Verlauf) dauerhaft löschen?</string>
+    <string name="app_module_disable_delete">Daten löschen</string>
+    <string name="app_module_disable_hide">Nur ausblenden</string>
+
+</resources>

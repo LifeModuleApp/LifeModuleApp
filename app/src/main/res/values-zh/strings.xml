@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeModule</string>
+    <string name="app_dashboard_einstellungen">设置</string>
+    <string name="app_dashboard_layout_bearbeiten">编辑布局</string>
+    <string name="app_dashboard_module_verwalten">管理模块</string>
+    <string name="app_dashboard_module_verwalten_1">管理模块</string>
+    <string name="app_dashboard_rastergroesse">网格大小</string>
+    <string name="app_settings_1_stunde_vorher">提前1小时</string>
+    <string name="app_settings_1_tag_vorher">提前1天</string>
+    <string name="app_settings_1_woche_vorher">提前1周</string>
+    <string name="app_settings_abbrechen">取消</string>
+    <string name="app_settings_aendern">更改</string>
+    <string name="app_settings_aktiviert">已启用</string>
+    <string name="app_settings_alle">全部</string>
+    <string name="app_settings_alle_daten_exportieren">导出所有数据</string>
+    <string name="app_settings_benachrichtigungen_wurden_verweigert">通知权限被拒绝</string>
+    <string name="app_settings_badenwuerttemberg">🍇 巴登-符腾堡</string>
+    <string name="app_settings_bayern">🏔️ 巴伐利亚</string>
+    <string name="app_settings_brandenburg">🦅 勃兰登堡</string>
+    <string name="app_settings_bundesland">联邦州</string>
+    <string name="app_settings_bundesland_waehlen">选择联邦州</string>
+    <string name="app_settings_deaktiviert">已禁用</string>
+    <string name="app_settings_einstellungen">设置</string>
+    <string name="app_settings_exact_alarm_title">精确提醒已停用</string>
+    <string name="app_settings_exact_alarm_desc">点击以在系统设置中允许精确闹钟。否则，提醒可能会延迟。</string>
+    <string name="app_settings_export_fehlgeschlagen">导出失败</string>
+    <string name="app_settings_feiertage">节假日</string>
+    <string name="app_settings_feiertage_land">节假日国家</string>
+    <string name="app_settings_land_waehlen">选择国家</string>
+    <string name="app_settings_sprache">语言</string>
+    <string name="app_settings_sprache_waehlen">选择语言</string>
+    <string name="app_settings_globale_akzentfarbe">全局强调色</string>
+    <string name="app_settings_habiterinnerung">习惯提醒</string>
+    <string name="app_settings_individuelle_farben_pro_modul">每个模块使用独立颜色</string>
+    <string name="app_settings_kalender">日历</string>
+    <string name="app_settings_mecklenburgvorpommern">⚓ 梅克伦堡-前波美拉尼亚</string>
+    <string name="app_settings_modulfarben">模块颜色</string>
+    <string name="app_settings_niedersachsen">🐎 下萨克森</string>
+    <string name="app_settings_nordrheinwestfalen">🏙️ 北莱茵-威斯特法伦</string>
+    <string name="app_settings_rheinlandpfalz">🍷 莱茵兰-普法尔茨</string>
+    <string name="app_settings_saarland">🏭 萨尔兰</string>
+    <string name="app_settings_sachsen">⛏️ 萨克森</string>
+    <string name="app_settings_sachsenanhalt">🏛️ 萨克森-安哈尔特</string>
+    <string name="app_settings_schleswigholstein">🌊 石勒苏益格-荷尔斯泰因</string>
+    <string name="app_settings_stundenplan">课程表</string>
+    <string name="app_settings_supplementerinnerung">补剂提醒</string>
+    <string name="app_settings_supplements">补剂</string>
+    <string name="app_settings_taegliche_erinnerung_um">每日提醒时间</string>
+    <string name="app_settings_thueringen">🏰 图林根</string>
+    <string name="app_settings_uebernehmen">应用</string>
+
+    
+    <string name="app_dashboard_logo">LifeModule 图标</string>
+    <string name="app_dashboard_fertig">完成</string>
+    <string name="app_dashboard_module">模块</string>
+
+    
+    <string name="app_debug_title">调试 · 时间穿越</string>
+    <string name="app_debug_status_title">时间穿越状态</string>
+    <string name="app_debug_provider">提供者</string>
+    <string name="app_debug_debug_provider">DebugTimeProvider</string>
+    <string name="app_debug_system_provider">SystemTimeProvider</string>
+    <string name="app_debug_virtuelle_zeit">虚拟时间</string>
+    <string name="app_debug_system_zeit">系统时间</string>
+    <string name="app_debug_offset">偏移量</string>
+    <string name="app_debug_warning">TimeProvider 为 SystemTimeProvider -- 时间穿越仅在调试版本中可用。</string>
+    <string name="app_debug_ziel_datum">选择目标日期</string>
+    <string name="app_debug_ziel_uhrzeit">选择目标时间</string>
+    <string name="app_debug_anwenden">应用</string>
+    <string name="app_debug_zuruecksetzen">重置</string>
+
+    
+    <string name="app_settings_alle_bundesweit">🇩🇪 全部（全国）</string>
+    <string name="app_settings_hessen">🏦 黑森</string>
+    <string name="app_settings_berlin">🐻 柏林</string>
+    <string name="app_settings_hamburg">⚓ 汉堡</string>
+    <string name="app_settings_bremen">🔑 不来梅</string>
+    <string name="app_settings_design_farben">设计 &amp; 颜色</string>
+    <string name="app_settings_global">全局</string>
+    <string name="app_settings_reset">重置</string>
+    <string name="app_settings_benachrichtigungen">通知</string>
+    <string name="app_settings_push_benachrichtigungen">推送通知</string>
+    <string name="app_settings_erinnerungen_vor_terminen">活动前提醒：</string>
+    <string name="app_settings_erinnerung_min_vorher">提前 %d 分钟提醒</string>
+    <string name="app_settings_uhrzeit_format">%s 点整</string>
+    <string name="app_settings_habits">习惯</string>
+    <string name="app_settings_daten">数据</string>
+    <string name="app_settings_export_untertitel">包含 CSV 文件的 ZIP 压缩包，可用于 Excel · %d 条记录</string>
+    
+    <string name="app_settings_backup">备份</string>
+    <string name="app_settings_backup_erstellen">创建备份</string>
+    <string name="app_settings_backup_erstellen_subtitle">将所有数据保存为备份文件</string>
+    <string name="app_settings_backup_fehlgeschlagen">备份失败</string>
+    <string name="app_settings_backup_erstellt">备份已创建</string>
+    <string name="app_settings_backup_wiederherstellen">恢复备份</string>
+    <string name="app_settings_backup_wiederherstellen_subtitle">从备份文件恢复所有数据</string>
+    <string name="app_settings_google_backup">Google 备份</string>
+    <string name="app_settings_google_backup_on">您的数据通过 Google 备份</string>
+    <string name="app_settings_google_backup_off">Google 备份已禁用</string>
+    <string name="app_settings_backup_restore_confirm_title">恢复备份？</string>
+    <string name="app_settings_backup_restore_confirm_text">这将用备份替换所有当前数据。此操作无法撤销！\n\n恢复后应用将重新启动。</string>
+    <string name="app_settings_backup_restore_confirm">恢复</string>
+    <string name="app_settings_backup_restore_success">备份已恢复。应用正在重新启动...</string>
+    <string name="app_settings_backup_restore_failed">恢复失败。文件可能无效或来自更新的版本。</string>
+    <string name="app_settings_info">信息</string>
+    <string name="app_settings_app_beschreibung">v%s · 终极生活追踪器</string>
+    <string name="app_settings_entwickler">开发者</string>
+    <string name="app_settings_dev_already_unlocked">开发者选项已解锁</string>
+    <string name="app_settings_dev_unlocked">开发者选项已解锁！</string>
+    <string name="app_settings_dev_steps_away">再点击 %d 次即可解锁开发者选项</string>
+    <string name="app_settings_time_travel">时间穿越</string>
+    <string name="app_settings_time_travel_subtitle">调整应用的日期 &amp; 时间</string>
+    <string name="app_settings_reset_all_data">重置所有数据</string>
+    <string name="app_settings_reset_all_data_subtitle">删除所有本地数据 &amp; 设置</string>
+    <string name="app_settings_reset_confirm_text">这将永久删除所有数据（训练、营养、情绪、习惯、日历、体重、购物、工时、设置和偏好）。此操作无法撤销！\n\n重置后应用将重新启动。</string>
+    <string name="app_settings_reset_confirm">删除所有内容</string>
+    <string name="app_settings_reset_success">所有数据已删除。应用正在重新启动...</string>
+    <string name="app_settings_fertig">完成</string>
+    <string name="app_settings_hex_label">十六进制 (RRGGBB)</string>
+    <string name="app_settings_standard_wiederherstellen">恢复默认值 (#A2FF00)</string>
+    <string name="app_settings_stundenplan_zeitfenster">课程表时间范围</string>
+    <string name="app_settings_schedule_start_hour">开始：%d:00</string>
+    <string name="app_settings_schedule_end_hour">结束：%d:00</string>
+
+    
+    <string name="app_settings_sicherheit">安全</string>
+    <string name="app_settings_screenshot_schutz">截屏保护</string>
+    <string name="app_settings_screenshot_schutz_on">截屏和屏幕录制已被阻止</string>
+    <string name="app_settings_screenshot_schutz_off">截屏和屏幕录制已允许</string>
+
+    
+    <string name="app_settings_personal_data">Persönliche Daten</string>
+    <string name="app_settings_age">Alter</string>
+    <string name="app_settings_height">Größe (cm)</string>
+<string name="app_settings_export_success">Export erfolgreich</string><string name="app_settings_fehlerprotokoll">Fehlerprotokoll</string><string name="app_settings_fehlerprotokoll_titel">Absturzmeldungen</string><string name="app_settings_fehlerprotokoll_untertitel">Fehler und Exceptions anzeigen</string></resources>

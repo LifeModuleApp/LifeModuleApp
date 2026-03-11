@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logbook_add_title">Fahrt erfassen</string>
+    <string name="logbook_add_start_location">Startort</string>
+    <string name="logbook_add_end_location">Zielort</string>
+    <string name="logbook_add_distance_km">Entfernung (km)</string>
+    <string name="logbook_add_purpose">Zweck</string>
+    <string name="logbook_add_purpose_business">Dienstlich</string>
+    <string name="logbook_add_purpose_commute">Arbeitsweg</string>
+    <string name="logbook_add_purpose_private">Privat</string>
+    <string name="logbook_add_no_vehicle">Bitte zuerst ein Fahrzeug anlegen.</string>
+    <string name="logbook_add_select_vehicle">Fahrzeug wählen</string>
+    <string name="logbook_add_vehicle_label">Fahrzeug</string>
+    <string name="logbook_add_notes_optional">Notizen (optional)</string>
+    <string name="logbook_add_save">Speichern</string>
+    <string name="logbook_vehicle_title">Fahrzeug anlegen</string>
+    <string name="logbook_vehicle_name">Fahrzeugname</string>
+    <string name="logbook_vehicle_plate_optional">Kennzeichen (optional)</string>
+    <string name="logbook_vehicle_save">Speichern</string>
+</resources>

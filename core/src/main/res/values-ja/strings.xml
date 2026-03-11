@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-generated i18n strings for core (JA) -->
+<resources>
+    <!-- Module categories -->
+    <string name="core_dashboard_gesundheit">健康</string>
+    <string name="core_dashboard_fitness">フィットネス</string>
+    <string name="core_dashboard_lifestyle">ライフスタイル</string>
+    <string name="core_dashboard_organisation">整理</string>
+    <string name="core_dashboard_arbeit">仕事</string>
+    <string name="core_dashboard_system">システム</string>
+    <!-- Module display names -->
+    <string name="core_module_nutrition">栄養</string>
+    <string name="core_module_supplements">サプリメント</string>
+    <string name="core_module_habits">習慣</string>
+    <string name="core_module_mental_health">メンタルヘルス</string>
+    <string name="core_module_gym">ジムトラッカー</string>
+    <string name="core_module_weight">体重</string>
+    <string name="core_module_calendar">カレンダー</string>
+    <string name="core_module_schedule">時間割</string>
+    <string name="core_module_work_time">勤務時間</string>
+    <string name="core_module_shopping">買い物リスト</string>
+    <string name="core_module_analytics">アナリティクス</string>
+    <string name="core_module_health_connect">Health Connect</string>
+    <string name="core_module_logbook">Logbook</string>
+    <string name="core_module_scanner">Receipt Scanner</string>
+    <string name="core_module_recipes">Recipes</string>
+    <!-- Other core strings -->
+    <string name="core_navigation_coming_soon">近日公開...</string>
+    <!-- UI component strings -->
+    <string name="core_topbar_back">戻る</string>
+    <string name="core_topbar_menu">メニュー</string>
+    <string name="core_fab_add">追加</string>
+    <!-- Notification channel names -->
+    <string name="core_notification_channel_calendar">カレンダーリマインダー</string>
+    <string name="core_notification_channel_calendar_desc">カレンダーイベントのリマインダー</string>
+    <string name="core_notification_channel_schedule">時間割</string>
+    <string name="core_notification_channel_schedule_desc">講義 &amp; コースのリマインダー</string>
+    <string name="core_notification_channel_supplements">サプリメント</string>
+    <string name="core_notification_channel_supplements_desc">毎日のサプリメントリマインダー</string>
+    <string name="core_notification_channel_habits">習慣</string>
+    <string name="core_notification_channel_habits_desc">毎日の習慣リマインダー</string>
+    <string name="core_notification_fallback_title">リマインダー</string>
+    <!-- Notification content -->
+    <string name="core_notification_in_1_stunde">1時間後</string>
+    <string name="core_notification_morgen">明日</string>
+    <string name="core_notification_in_einer_woche">1週間後</string>
+    <string name="core_notification_in_x_min">%1$d 分後</string>
+    <string name="core_notification_ganztaegig">終日</string>
+    <string name="core_notification_calendar_body">%1$s - %2$s（%3$s）</string>
+    <string name="core_notification_supplement_title">サプリメント</string>
+    <string name="core_notification_supplement_body">今日サプリメントは飲みましたか？ 💊</string>
+    <string name="core_notification_habit_title">習慣チェック</string>
+    <string name="core_notification_habit_body">今日の習慣はすべて完了しましたか？ </string>
+    <string name="core_notification_class_body">%1$d 分後に %2$s</string>
+    <!-- Export -->
+    <string name="core_export_subject">LifeModule データエクスポート</string>
+    <string name="core_export_share_title">エクスポートを共有</string>
+    <!-- Backup -->
+    <string name="core_backup_share_subject">LifeModule バックアップ</string>
+    <string name="core_backup_share_title">バックアップを共有</string>
+</resources>
