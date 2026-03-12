@@ -21,6 +21,7 @@ LifeModule keeps all your data encrypted on-device. No accounts, no cloud, no tr
 | **Work Time** | Clock in/out tracking with break management and project tagging. |
 | **Analytics** | Activity dashboard across all modules. |
 | **Backup** | Full database export/import as encrypted `.lmbackup` files. |
+| **CSV Export** | One-click export of all data as CSV (ZIP of per-module `.csv` files, semicolon-delimited for Excel). **Exports unencrypted** — handle the resulting file accordingly. |
 
 ## Disclaimer
 
