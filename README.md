@@ -84,7 +84,7 @@ The debug build uses an auto-generated encryption key. For release builds, confi
 
 The app uses Room with explicit schema migrations. User data is preserved across updates.
 
-- Schema exports are committed to `schemas/` for migration testing
+- Schema exports are committed to `app/schemas/` and `core/schemas/` for migration testing
 - Downgrade protection prevents crashes on older versions
 
 ## Contributing
@@ -96,7 +96,7 @@ The modular architecture makes it straightforward to add new features — create
 When modifying the database schema:
 1. Write a `Migration` object in `Migrations.kt` before incrementing the version
 2. Register it in `DatabaseModule.kt`
-3. Test against the exported schema JSONs in `schemas/`
+3. Test against the exported schema JSONs in `app/schemas/` and `core/schemas/`
 
 ## Third-Party Libraries
 
