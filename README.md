@@ -66,15 +66,15 @@ LifeModule/
 - **Min SDK:** 26 (Android 8.0)
 - **Target SDK:** 35
 
-Each feature is a self-contained Gradle module.
+Each feature is a self-contained Gradle module. Habits, Mood, Work Time, and Backup are integrated into `core/` and `app/`.
 
 ## Building
 
 **Requirements:** Android Studio Ladybug or newer, JDK 17
 
 ```bash
-git clone https://github.com/LifeModuleApp/LifeModule.git
-cd LifeModule
+git clone https://github.com/LifeModuleApp/LifeModuleApp.git
+cd LifeModuleApp
 ./gradlew assembleDebug
 ```
 
