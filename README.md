@@ -81,6 +81,11 @@ cd LifeModuleApp
 
 The debug build uses an auto-generated encryption key. For release builds, configure your signing keystore in Android Studio.
 
+## Prebuilt Debug APK
+
+- Direct download: `public-downloads/app-debug-unsigned.apk`
+- Warning: This is an unsigned debug build intended for testing only. It is not for production use and may fail to install on some devices.
+
 ## Database
 
 The app uses Room with explicit schema migrations. User data is preserved across updates.

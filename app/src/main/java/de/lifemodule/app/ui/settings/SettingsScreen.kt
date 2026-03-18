@@ -1141,6 +1141,7 @@ fun SettingsScreen(
                     onClick = {
                         if (devUnlocked) {
                             Toast.makeText(context, devAlreadyMsg, Toast.LENGTH_SHORT).show()
+                            navController.navigate(AppRoute.Debug)
                         } else {
                             devTapCount++
                             val remaining = 7 - devTapCount
@@ -1148,7 +1149,7 @@ fun SettingsScreen(
                                 remaining <= 0 -> {
                                     devUnlocked = true
                                     Toast.makeText(context, devUnlockedMsg, Toast.LENGTH_LONG).show()
-                                    navController.navigate(AppRoute.About)
+                                    navController.navigate(AppRoute.Debug)
                                 }
                                 remaining <= 3 -> {
                                     Toast.makeText(
@@ -1157,9 +1158,7 @@ fun SettingsScreen(
                                         Toast.LENGTH_SHORT
                                     ).show()
                                 }
-                                else -> {
-                                    navController.navigate(AppRoute.About)
-                                }
+                                else -> { /* Still counting silently */ }
                             }
                         }
                     }

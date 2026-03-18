@@ -38,7 +38,6 @@ import de.lifemodule.app.ui.gym.WorkoutSessionScreen
 import de.lifemodule.app.ui.health.HealthScreen
 import de.lifemodule.app.ui.health.StepCounterDetailScreen
 import de.lifemodule.app.ui.legal.PrivacyInfoScreen
-import de.lifemodule.app.ui.legal.AboutScreen
 import de.lifemodule.app.ui.legal.LicenseScreen
 import de.lifemodule.app.ui.habits.AddHabitScreen
 import de.lifemodule.app.ui.habits.HabitsScreen
@@ -317,10 +316,7 @@ fun AppNavHost(
             PrivacyInfoScreen(navController = navController)
         }
 
-        // ── About & Licenses ──
-        composable<AppRoute.About> {
-            AboutScreen(navController = navController)
-        }
+        // ── Licenses ──
         composable<AppRoute.Licenses> {
             LicenseScreen(navController = navController)
         }

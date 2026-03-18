@@ -33,10 +33,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import android.content.Intent
-import android.net.Uri
-import androidx.compose.material3.TextButton
-import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.NavController
 import de.lifemodule.app.ui.components.LMTopBar
 import de.lifemodule.app.ui.theme.Black
@@ -51,7 +47,6 @@ import java.util.Locale
 fun PrivacyInfoScreen(navController: NavController) {
     val isGerman = Locale.getDefault().language == "de"
     val title = if (isGerman) "Datenschutz" else "Privacy"
-    val context = LocalContext.current
 
     Scaffold(
         topBar = {
@@ -82,17 +77,6 @@ fun PrivacyInfoScreen(navController: NavController) {
                 color = MaterialTheme.colorScheme.onSurface,
                 lineHeight = 22.sp
             )
-            Spacer(modifier = Modifier.height(16.dp))
-            TextButton(onClick = {
-                val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://lifemodule.de/app-datenschutz"))
-                context.startActivity(intent)
-            }) {
-                Text(
-                    text = if (isGerman) "Datenschutzerklärung auf der Website lesen" else "Read privacy policy on our website",
-                    color = MaterialTheme.colorScheme.primary,
-                    fontSize = 14.sp
-                )
-            }
             Spacer(modifier = Modifier.height(32.dp))
         }
     }

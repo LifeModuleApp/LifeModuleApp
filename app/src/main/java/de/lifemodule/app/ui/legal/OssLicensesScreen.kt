@@ -107,21 +107,11 @@ fun LicenseScreen(navController: NavController) {
                         )
                         Spacer(modifier = Modifier.height(8.dp))
                         TextButton(onClick = {
-                            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/LifeModuleApp/LifeModule"))
+                            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/LifeModuleApp/LifeModuleApp"))
                             context.startActivity(intent)
                         }) {
                             Text(
                                 text = if (isGerman) "GitHub-Repository öffnen" else "Open GitHub Repository",
-                                color = accent,
-                                fontSize = 14.sp
-                            )
-                        }
-                        TextButton(onClick = {
-                            val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://www.gnu.org/licenses/gpl-3.0.html"))
-                            context.startActivity(intent)
-                        }) {
-                            Text(
-                                text = if (isGerman) "Vollständigen Lizenztext lesen (gnu.org)" else "Read full license text (gnu.org)",
                                 color = accent,
                                 fontSize = 14.sp
                             )

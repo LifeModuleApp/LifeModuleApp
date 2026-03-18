@@ -147,10 +147,10 @@
     <string name="app_settings_screenshot_schutz_off">Screenshots und Bildschirmaufnahmen sind erlaubt</string>
 
     
-    <string name="app_settings_datenschutz_lizenz">Datenschutz &amp; License</string>
+    <string name="app_settings_datenschutz_lizenz">Datenschutz &amp; Lizenz</string>
     <string name="app_settings_datenschutz">Datenschutz</string>
-    <string name="app_settings_lizenz">License</string>
-    <string name="app_license_title">License</string>
+    <string name="app_settings_lizenz">Lizenz</string>
+    <string name="app_license_title">Lizenz</string>
     <string name="app_settings_personal_data">Persönliche Daten</string>
     <string name="app_settings_age">Alter</string>
     <string name="app_settings_height">Größe (cm)</string>
@@ -163,7 +163,7 @@
     <string name="app_about_quote">"Wir sind das, was wir wiederholt tun. Vortrefflichkeit ist daher keine Handlung, sondern eine Gewohnheit."\n- Aristoteles</string>
     <string name="app_about_version">Version %s</string>
     <string name="app_about_description">Ein 100%% offline, privacy-first Life-Tracker. Keine Cloud. Keine Werbung. Kein Tracking. Deine Daten gehören dir - immer.</string>
-    <string name="app_about_oss_licenses">Licenses</string>
+    <string name="app_about_oss_licenses">Lizenzen</string>
 
     <!-- ErrorLog i18n -->
     <string name="app_errorlog_title">App-Fehlerprotokolle</string>
